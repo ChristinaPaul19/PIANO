@@ -1,0 +1,17 @@
+{
+  "testedAt": "2026-10-30T07:45:46.390Z",
+  "success": true,
+  "driver": "wasapi",
+  "programs": [
+    0,
+    16,
+    48
+  ],
+  "states": [
+    "starting",
+    "ready",
+    "stopping",
+    "stopped"
+  ],
+  "physicalAudibilityConfirmed": false
+}

@@ -1,0 +1,22 @@
+﻿
+> genova@0.3.0 test:arranger-electron
+> node --test test/arranger.integration.js
+
+▶ real arranger UI, transport, chord routing and persistent progression
+  ✔ arranger is opt-in and recognizes all supported chord qualities below C5 (625.2519ms)
+  ✔ all three styles run and all mains transition at bar boundaries (11836.7798ms)
+  ✔ intro, fill, break and ending complete their musical sections (9158.2299ms)
+  ✔ lead program changes and octave shifts preserve backing; panic stops it (160.1881ms)
+  ✔ recording quantizes live chord changes and looping replays without held keys (4464.9293ms)
+  ✔ save/load survives renderer reload and uses isolated local storage (295.6389ms)
+  ✔ audio crash stops backing and retry does not silently restart it (414.656ms)
+  ✔ saved progression survives a full application restart (2376.7599ms)
+✔ real arranger UI, transport, chord routing and persistent progression (30858.3474ms)
+ℹ tests 9
+ℹ suites 0
+ℹ pass 9
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 31374.6756

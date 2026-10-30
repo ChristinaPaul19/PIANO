@@ -1,0 +1,27 @@
+﻿{
+    "testedAt":  "2026-10-30T13:47:52.9220174Z",
+    "success":  true,
+    "soundFontLoaded":  true,
+    "nonSilentAudioRendered":  true,
+    "playbackRequested":  true,
+    "playbackCompleted":  true,
+    "audibleSoundIndependentlyConfirmed":  false,
+    "error":  null,
+    "fluidsynthExecutable":  "D:\\Christina\\Sound\\fluidsynth-v2.6.1-win10-x64-cpp11\\bin\\fluidsynth.exe",
+    "soundFont":  "D:\\Christina\\Sound\\GENOVA\\assets\\soundfonts\\GeneralUser-GS.sf2",
+    "soundFontSHA256":  "9575028C7A1F589F5770FCCC8CFF2734566AF40CD26ED836944E9A5152688CFE",
+    "version":  "FluidSynth runtime version 2.6.1\r\nCopyright (C) 2000-2026 Peter Hanappe and others.\r\nDistributed under the LGPL license.\r\nSoundFont(R) is a registered trademark of Creative Technology Ltd.\r\n\r\nFluidSynth executable version 2.6.1\r\nSample type=float",
+    "render":  {
+                   "path":  "D:\\Christina\\Sound\\GENOVA\\verification\\soundfont-test.wav",
+                   "durationSeconds":  4.512,
+                   "channels":  2,
+                   "sampleRate":  48000,
+                   "bitsPerSample":  16,
+                   "peakAmplitude":  931,
+                   "nonzeroSamples":  342709
+               },
+    "audioDriver":  "wasapi",
+    "noteOnCount":  3,
+    "noteOffCount":  3,
+    "playbackNote":  "FluidSynth completed real-time playback to the Windows audio driver. Physical speaker audibility was not independently measured."
+}

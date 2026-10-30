@@ -1,0 +1,2239 @@
+{
+  "startedAt": "2026-10-30T13:49:56.373Z",
+  "passed": true,
+  "driver": "wasapi",
+  "backendDefaults": {
+    "fluidsynthExecutable": "D:\\Christina\\Sound\\fluidsynth-v2.6.1-win10-x64-cpp11\\bin\\fluidsynth.exe",
+    "soundFont": "D:\\Christina\\Sound\\GENOVA\\assets\\soundfonts\\GeneralUser-GS.sf2",
+    "audioDriver": "wasapi",
+    "sampleRate": 48000,
+    "gain": 0.2
+  },
+  "overrides": {},
+  "scenarios": [
+    {
+      "label": "pop/intro",
+      "style": "pop",
+      "run": 0,
+      "begin": 3617.63,
+      "end": 6284.296666666667,
+      "section": "intro",
+      "bars": 2,
+      "meter": {
+        "begin": 3697.63,
+        "end": 6234.296666666667,
+        "count": 63,
+        "max": 0.08401489,
+        "mean": 0.03174748493841269,
+        "signalThreshold": 0.0001,
+        "nonzero": 63,
+        "mutedSamples": 0
+      },
+      "noteCount": 25
+    },
+    {
+      "label": "pop/A/C major",
+      "style": "pop",
+      "run": 0,
+      "begin": 6617.63,
+      "end": 7617.63,
+      "section": "A",
+      "root": 0,
+      "quality": "major",
+      "requestedAt": 6299.4252,
+      "meter": {
+        "begin": 6697.63,
+        "end": 7567.63,
+        "count": 18,
+        "max": 0.0810852051,
+        "mean": 0.04370795367388888,
+        "signalThreshold": 0.0001,
+        "nonzero": 18,
+        "mutedSamples": 0
+      },
+      "noteCount": 12,
+      "bassNotes": [
+        43,
+        36,
+        40
+      ]
+    },
+    {
+      "label": "pop/A/C minor",
+      "style": "pop",
+      "run": 0,
+      "begin": 7950.963333333333,
+      "end": 8950.963333333333,
+      "section": "A",
+      "root": 0,
+      "quality": "minor",
+      "requestedAt": 7633.8914,
+      "meter": {
+        "begin": 8030.963333333333,
+        "end": 8900.963333333333,
+        "count": 20,
+        "max": 0.080078125,
+        "mean": 0.04380187993,
+        "signalThreshold": 0.0001,
+        "nonzero": 20,
+        "mutedSamples": 0
+      },
+      "noteCount": 12,
+      "bassNotes": [
+        43,
+        36,
+        39
+      ]
+    },
+    {
+      "label": "pop/A/D major",
+      "style": "pop",
+      "run": 0,
+      "begin": 9284.296666666665,
+      "end": 10284.296666666665,
+      "section": "A",
+      "root": 2,
+      "quality": "major",
+      "requestedAt": 8966.1455,
+      "meter": {
+        "begin": 9364.296666666665,
+        "end": 10234.296666666665,
+        "count": 20,
+        "max": 0.08099365,
+        "mean": 0.04336090016999999,
+        "signalThreshold": 0.0001,
+        "nonzero": 20,
+        "mutedSamples": 0
+      },
+      "noteCount": 12,
+      "bassNotes": [
+        45,
+        38,
+        42
+      ]
+    },
+    {
+      "label": "pop/B/C major",
+      "style": "pop",
+      "run": 0,
+      "begin": 11950.963333333333,
+      "end": 12950.963333333333,
+      "section": "B",
+      "root": 0,
+      "quality": "major",
+      "requestedAt": 11624.6967,
+      "meter": {
+        "begin": 12030.963333333333,
+        "end": 12900.963333333333,
+        "count": 20,
+        "max": 0.0789489746,
+        "mean": 0.05590362594,
+        "signalThreshold": 0.0001,
+        "nonzero": 20,
+        "mutedSamples": 0
+      },
+      "noteCount": 16,
+      "bassNotes": [
+        40,
+        43,
+        36,
+        43
+      ]
+    },
+    {
+      "label": "pop/B/C minor",
+      "style": "pop",
+      "run": 0,
+      "begin": 13284.296666666665,
+      "end": 14284.296666666665,
+      "section": "B",
+      "root": 0,
+      "quality": "minor",
+      "requestedAt": 12955.169,
+      "meter": {
+        "begin": 13364.296666666665,
+        "end": 14234.296666666665,
+        "count": 19,
+        "max": 0.08169556,
+        "mean": 0.05896959796315789,
+        "signalThreshold": 0.0001,
+        "nonzero": 19,
+        "mutedSamples": 0
+      },
+      "noteCount": 16,
+      "bassNotes": [
+        39,
+        43,
+        36,
+        43
+      ]
+    },
+    {
+      "label": "pop/B/D major",
+      "style": "pop",
+      "run": 0,
+      "begin": 14617.630000000001,
+      "end": 15617.630000000001,
+      "section": "B",
+      "root": 2,
+      "quality": "major",
+      "requestedAt": 14303.0339,
+      "meter": {
+        "begin": 14697.630000000001,
+        "end": 15567.630000000001,
+        "count": 19,
+        "max": 0.0952148438,
+        "mean": 0.06166638843157895,
+        "signalThreshold": 0.0001,
+        "nonzero": 19,
+        "mutedSamples": 0
+      },
+      "noteCount": 16,
+      "bassNotes": [
+        42,
+        45,
+        38,
+        45
+      ]
+    },
+    {
+      "label": "pop/C/C major",
+      "style": "pop",
+      "run": 0,
+      "begin": 17284.296666666665,
+      "end": 18284.296666666665,
+      "section": "C",
+      "root": 0,
+      "quality": "major",
+      "requestedAt": 16965.5524,
+      "meter": {
+        "begin": 17364.296666666665,
+        "end": 18234.296666666665,
+        "count": 20,
+        "max": 0.0998535156,
+        "mean": 0.06039581341500001,
+        "signalThreshold": 0.0001,
+        "nonzero": 20,
+        "mutedSamples": 0
+      },
+      "noteCount": 16,
+      "bassNotes": [
+        40,
+        36,
+        43,
+        36
+      ]
+    },
+    {
+      "label": "pop/C/C minor",
+      "style": "pop",
+      "run": 0,
+      "begin": 18617.63,
+      "end": 19617.63,
+      "section": "C",
+      "root": 0,
+      "quality": "minor",
+      "requestedAt": 18301.2479,
+      "meter": {
+        "begin": 18697.63,
+        "end": 19567.63,
+        "count": 19,
+        "max": 0.101928711,
+        "mean": 0.061081735894736845,
+        "signalThreshold": 0.0001,
+        "nonzero": 19,
+        "mutedSamples": 0
+      },
+      "noteCount": 16,
+      "bassNotes": [
+        39,
+        36,
+        43,
+        36
+      ]
+    },
+    {
+      "label": "pop/C/D major",
+      "style": "pop",
+      "run": 0,
+      "begin": 19950.963333333333,
+      "end": 20950.963333333333,
+      "section": "C",
+      "root": 2,
+      "quality": "major",
+      "requestedAt": 19627.4113,
+      "meter": {
+        "begin": 20030.963333333333,
+        "end": 20900.963333333333,
+        "count": 18,
+        "max": 0.103363037,
+        "mean": 0.06239149240555556,
+        "signalThreshold": 0.0001,
+        "nonzero": 18,
+        "mutedSamples": 0
+      },
+      "noteCount": 16,
+      "bassNotes": [
+        42,
+        38,
+        45,
+        38
+      ]
+    },
+    {
+      "label": "pop/D/C major",
+      "style": "pop",
+      "run": 0,
+      "begin": 22617.63,
+      "end": 23617.63,
+      "section": "D",
+      "root": 0,
+      "quality": "major",
+      "requestedAt": 22299.4985,
+      "meter": {
+        "begin": 22697.63,
+        "end": 23567.63,
+        "count": 20,
+        "max": 0.140655518,
+        "mean": 0.08119201619000001,
+        "signalThreshold": 0.0001,
+        "nonzero": 20,
+        "mutedSamples": 0
+      },
+      "noteCount": 21,
+      "bassNotes": [
+        40,
+        43,
+        36,
+        36,
+        43
+      ]
+    },
+    {
+      "label": "pop/D/C minor",
+      "style": "pop",
+      "run": 0,
+      "begin": 23950.963333333333,
+      "end": 24950.963333333333,
+      "section": "D",
+      "root": 0,
+      "quality": "minor",
+      "requestedAt": 23622.8933,
+      "meter": {
+        "begin": 24030.963333333333,
+        "end": 24900.963333333333,
+        "count": 18,
+        "max": 0.1425476,
+        "mean": 0.08688184824444442,
+        "signalThreshold": 0.0001,
+        "nonzero": 18,
+        "mutedSamples": 0
+      },
+      "noteCount": 21,
+      "bassNotes": [
+        39,
+        43,
+        36,
+        36,
+        43
+      ]
+    },
+    {
+      "label": "pop/D/D major",
+      "style": "pop",
+      "run": 0,
+      "begin": 25284.296666666665,
+      "end": 26284.296666666665,
+      "section": "D",
+      "root": 2,
+      "quality": "major",
+      "requestedAt": 24955.9151,
+      "meter": {
+        "begin": 25364.296666666665,
+        "end": 26234.296666666665,
+        "count": 20,
+        "max": 0.1465149,
+        "mean": 0.07780609170500001,
+        "signalThreshold": 0.0001,
+        "nonzero": 20,
+        "mutedSamples": 0
+      },
+      "noteCount": 21,
+      "bassNotes": [
+        42,
+        45,
+        38,
+        38,
+        45
+      ]
+    },
+    {
+      "label": "pop/fill",
+      "style": "pop",
+      "run": 0,
+      "begin": 27617.63,
+      "end": 28950.963333333333,
+      "section": "fill",
+      "bars": 1,
+      "meter": {
+        "begin": 27697.63,
+        "end": 28900.963333333333,
+        "count": 28,
+        "max": 0.107208252,
+        "mean": 0.05678885397142857,
+        "signalThreshold": 0.0001,
+        "nonzero": 28,
+        "mutedSamples": 0
+      },
+      "noteCount": 12
+    },
+    {
+      "label": "pop/break",
+      "style": "pop",
+      "run": 0,
+      "begin": 30284.296666666665,
+      "end": 31617.63,
+      "section": "break",
+      "bars": 1,
+      "sparse": true,
+      "meter": {
+        "begin": 30364.296666666665,
+        "end": 31567.63,
+        "count": 29,
+        "max": 0.119049072,
+        "mean": 0.026633427063103447,
+        "signalThreshold": 0.0001,
+        "nonzero": 29,
+        "mutedSamples": 0
+      },
+      "noteCount": 4,
+      "opening": {
+        "begin": 30354.296666666665,
+        "end": 30564.296666666665,
+        "count": 5,
+        "max": 0.119049072,
+        "mean": 0.09959106394,
+        "signalThreshold": 0.0001,
+        "nonzero": 5,
+        "mutedSamples": 0
+      },
+      "middleTail": {
+        "begin": 31167.63,
+        "end": 31397.63,
+        "count": 6,
+        "max": 0.00610351563,
+        "mean": 0.005177815743333334,
+        "signalThreshold": 0.0001,
+        "nonzero": 6,
+        "mutedSamples": 0
+      }
+    },
+    {
+      "label": "pop/ending",
+      "style": "pop",
+      "run": 0,
+      "begin": 32950.96333333333,
+      "end": 35617.63,
+      "section": "ending",
+      "bars": 2,
+      "meter": {
+        "begin": 33030.96333333333,
+        "end": 35567.63,
+        "count": 57,
+        "max": 0.109802246,
+        "mean": 0.04711592855614036,
+        "signalThreshold": 0.0001,
+        "nonzero": 57,
+        "mutedSamples": 0
+      },
+      "noteCount": 20
+    },
+    {
+      "label": "pop/loop-wraps",
+      "style": "pop",
+      "run": 1,
+      "begin": 41308.90636666666,
+      "end": 45308.90636666666,
+      "loop": true,
+      "meter": {
+        "begin": 41388.90636666666,
+        "end": 45258.90636666666,
+        "count": 84,
+        "max": 0.0859985352,
+        "mean": 0.04434930705714288,
+        "signalThreshold": 0.0001,
+        "nonzero": 84,
+        "mutedSamples": 0
+      },
+      "noteCount": 48
+    },
+    {
+      "label": "pop/loop-restart",
+      "style": "pop",
+      "run": 2,
+      "begin": 48331.8739,
+      "end": 49665.207233333334,
+      "loop": true,
+      "meter": {
+        "begin": 48411.8739,
+        "end": 49615.207233333334,
+        "count": 24,
+        "max": 0.08178711,
+        "mean": 0.04758326187500001,
+        "signalThreshold": 0.0001,
+        "nonzero": 24,
+        "mutedSamples": 0
+      },
+      "noteCount": 16
+    },
+    {
+      "label": "rock/intro",
+      "style": "rock",
+      "run": 3,
+      "begin": 52700.5937,
+      "end": 55367.26036666666,
+      "section": "intro",
+      "bars": 2,
+      "meter": {
+        "begin": 52780.5937,
+        "end": 55317.26036666666,
+        "count": 72,
+        "max": 0.078704834,
+        "mean": 0.03732172658736111,
+        "signalThreshold": 0.0001,
+        "nonzero": 72,
+        "mutedSamples": 0
+      },
+      "noteCount": 25
+    },
+    {
+      "label": "rock/A/C major",
+      "style": "rock",
+      "run": 3,
+      "begin": 55700.5937,
+      "end": 56700.5937,
+      "section": "A",
+      "root": 0,
+      "quality": "major",
+      "requestedAt": 55379.962,
+      "meter": {
+        "begin": 55780.5937,
+        "end": 56650.5937,
+        "count": 21,
+        "max": 0.07992554,
+        "mean": 0.05801536959047619,
+        "signalThreshold": 0.0001,
+        "nonzero": 21,
+        "mutedSamples": 0
+      },
+      "noteCount": 11,
+      "bassNotes": [
+        43,
+        36,
+        36,
+        43
+      ]
+    },
+    {
+      "label": "rock/A/C minor",
+      "style": "rock",
+      "run": 3,
+      "begin": 57033.92703333333,
+      "end": 58033.92703333333,
+      "section": "A",
+      "root": 0,
+      "quality": "minor",
+      "requestedAt": 56711.5283,
+      "meter": {
+        "begin": 57113.92703333333,
+        "end": 57983.92703333333,
+        "count": 22,
+        "max": 0.07800293,
+        "mean": 0.06026805466818182,
+        "signalThreshold": 0.0001,
+        "nonzero": 22,
+        "mutedSamples": 0
+      },
+      "noteCount": 11,
+      "bassNotes": [
+        43,
+        36,
+        36,
+        43
+      ]
+    },
+    {
+      "label": "rock/A/D major",
+      "style": "rock",
+      "run": 3,
+      "begin": 58367.26036666666,
+      "end": 59367.26036666666,
+      "section": "A",
+      "root": 2,
+      "quality": "major",
+      "requestedAt": 58046.1661,
+      "meter": {
+        "begin": 58447.26036666666,
+        "end": 59317.26036666666,
+        "count": 23,
+        "max": 0.083984375,
+        "mean": 0.05901966939999998,
+        "signalThreshold": 0.0001,
+        "nonzero": 23,
+        "mutedSamples": 0
+      },
+      "noteCount": 11,
+      "bassNotes": [
+        45,
+        38,
+        38,
+        45
+      ]
+    },
+    {
+      "label": "rock/B/C major",
+      "style": "rock",
+      "run": 3,
+      "begin": 61033.927033333326,
+      "end": 62033.927033333326,
+      "section": "B",
+      "root": 0,
+      "quality": "major",
+      "requestedAt": 60716.1938,
+      "meter": {
+        "begin": 61113.927033333326,
+        "end": 61983.927033333326,
+        "count": 20,
+        "max": 0.08609009,
+        "mean": 0.06438446030999999,
+        "signalThreshold": 0.0001,
+        "nonzero": 20,
+        "mutedSamples": 0
+      },
+      "noteCount": 17,
+      "bassNotes": [
+        36,
+        40,
+        36,
+        43,
+        36
+      ]
+    },
+    {
+      "label": "rock/B/C minor",
+      "style": "rock",
+      "run": 3,
+      "begin": 62367.26036666666,
+      "end": 63367.26036666666,
+      "section": "B",
+      "root": 0,
+      "quality": "minor",
+      "requestedAt": 62052.0191,
+      "meter": {
+        "begin": 62447.26036666666,
+        "end": 63317.26036666666,
+        "count": 21,
+        "max": 0.08648682,
+        "mean": 0.07145182317619046,
+        "signalThreshold": 0.0001,
+        "nonzero": 21,
+        "mutedSamples": 0
+      },
+      "noteCount": 17,
+      "bassNotes": [
+        36,
+        39,
+        36,
+        43,
+        36
+      ]
+    },
+    {
+      "label": "rock/B/D major",
+      "style": "rock",
+      "run": 3,
+      "begin": 63700.5937,
+      "end": 64700.5937,
+      "section": "B",
+      "root": 2,
+      "quality": "major",
+      "requestedAt": 63378.1303,
+      "meter": {
+        "begin": 63780.5937,
+        "end": 64650.5937,
+        "count": 21,
+        "max": 0.09698486,
+        "mean": 0.06852068185714286,
+        "signalThreshold": 0.0001,
+        "nonzero": 21,
+        "mutedSamples": 0
+      },
+      "noteCount": 17,
+      "bassNotes": [
+        38,
+        42,
+        38,
+        45,
+        38
+      ]
+    },
+    {
+      "label": "rock/C/C major",
+      "style": "rock",
+      "run": 3,
+      "begin": 66367.26036666667,
+      "end": 67367.26036666667,
+      "section": "C",
+      "root": 0,
+      "quality": "major",
+      "requestedAt": 66050.8243,
+      "meter": {
+        "begin": 66447.26036666667,
+        "end": 67317.26036666667,
+        "count": 23,
+        "max": 0.0936889648,
+        "mean": 0.06782465297391303,
+        "signalThreshold": 0.0001,
+        "nonzero": 23,
+        "mutedSamples": 0
+      },
+      "noteCount": 17,
+      "bassNotes": [
+        43,
+        40,
+        43,
+        36
+      ]
+    },
+    {
+      "label": "rock/C/C minor",
+      "style": "rock",
+      "run": 3,
+      "begin": 67700.5937,
+      "end": 68700.5937,
+      "section": "C",
+      "root": 0,
+      "quality": "minor",
+      "requestedAt": 67386.1568,
+      "meter": {
+        "begin": 67780.5937,
+        "end": 68650.5937,
+        "count": 22,
+        "max": 0.100158691,
+        "mean": 0.07211303767272727,
+        "signalThreshold": 0.0001,
+        "nonzero": 22,
+        "mutedSamples": 0
+      },
+      "noteCount": 17,
+      "bassNotes": [
+        43,
+        39,
+        43,
+        36
+      ]
+    },
+    {
+      "label": "rock/C/D major",
+      "style": "rock",
+      "run": 3,
+      "begin": 69033.92703333333,
+      "end": 70033.92703333333,
+      "section": "C",
+      "root": 2,
+      "quality": "major",
+      "requestedAt": 68720.6874,
+      "meter": {
+        "begin": 69113.92703333333,
+        "end": 69983.92703333333,
+        "count": 23,
+        "max": 0.09927368,
+        "mean": 0.06926163395652173,
+        "signalThreshold": 0.0001,
+        "nonzero": 23,
+        "mutedSamples": 0
+      },
+      "noteCount": 17,
+      "bassNotes": [
+        45,
+        42,
+        45,
+        38
+      ]
+    },
+    {
+      "label": "rock/D/C major",
+      "style": "rock",
+      "run": 3,
+      "begin": 71700.5937,
+      "end": 72700.5937,
+      "section": "D",
+      "root": 0,
+      "quality": "major",
+      "requestedAt": 71388.2131,
+      "meter": {
+        "begin": 71780.5937,
+        "end": 72650.5937,
+        "count": 21,
+        "max": 0.107849121,
+        "mean": 0.08525303451428573,
+        "signalThreshold": 0.0001,
+        "nonzero": 21,
+        "mutedSamples": 0
+      },
+      "noteCount": 22,
+      "bassNotes": [
+        43,
+        36,
+        36,
+        40,
+        43,
+        36
+      ]
+    },
+    {
+      "label": "rock/D/C minor",
+      "style": "rock",
+      "run": 3,
+      "begin": 73033.92703333333,
+      "end": 74033.92703333333,
+      "section": "D",
+      "root": 0,
+      "quality": "minor",
+      "requestedAt": 72723.1957,
+      "meter": {
+        "begin": 73113.92703333333,
+        "end": 73983.92703333333,
+        "count": 21,
+        "max": 0.105957031,
+        "mean": 0.08445376364761904,
+        "signalThreshold": 0.0001,
+        "nonzero": 21,
+        "mutedSamples": 0
+      },
+      "noteCount": 22,
+      "bassNotes": [
+        43,
+        36,
+        36,
+        39,
+        43,
+        36
+      ]
+    },
+    {
+      "label": "rock/D/D major",
+      "style": "rock",
+      "run": 3,
+      "begin": 74367.26036666665,
+      "end": 75367.26036666665,
+      "section": "D",
+      "root": 2,
+      "quality": "major",
+      "requestedAt": 74042.4576,
+      "meter": {
+        "begin": 74447.26036666665,
+        "end": 75317.26036666665,
+        "count": 16,
+        "max": 0.10256958,
+        "mean": 0.0890445708125,
+        "signalThreshold": 0.0001,
+        "nonzero": 16,
+        "mutedSamples": 0
+      },
+      "noteCount": 22,
+      "bassNotes": [
+        45,
+        38,
+        38,
+        42,
+        45,
+        38
+      ]
+    },
+    {
+      "label": "rock/fill",
+      "style": "rock",
+      "run": 3,
+      "begin": 76700.5937,
+      "end": 78033.92703333333,
+      "section": "fill",
+      "bars": 1,
+      "meter": {
+        "begin": 76780.5937,
+        "end": 77983.92703333333,
+        "count": 24,
+        "max": 0.110687256,
+        "mean": 0.05283864323333332,
+        "signalThreshold": 0.0001,
+        "nonzero": 24,
+        "mutedSamples": 0
+      },
+      "noteCount": 12
+    },
+    {
+      "label": "rock/break",
+      "style": "rock",
+      "run": 3,
+      "begin": 79367.26036666665,
+      "end": 80700.5937,
+      "section": "break",
+      "bars": 1,
+      "sparse": true,
+      "meter": {
+        "begin": 79447.26036666665,
+        "end": 80650.5937,
+        "count": 27,
+        "max": 0.125823975,
+        "mean": 0.018034758451111108,
+        "signalThreshold": 0.0001,
+        "nonzero": 27,
+        "mutedSamples": 0
+      },
+      "noteCount": 4,
+      "opening": {
+        "begin": 79437.26036666665,
+        "end": 79647.26036666665,
+        "count": 4,
+        "max": 0.125823975,
+        "mean": 0.0847625737,
+        "signalThreshold": 0.0001,
+        "nonzero": 4,
+        "mutedSamples": 0
+      },
+      "middleTail": {
+        "begin": 80250.5937,
+        "end": 80480.5937,
+        "count": 6,
+        "max": 0.00402832031,
+        "mean": 0.0035858154033333333,
+        "signalThreshold": 0.0001,
+        "nonzero": 6,
+        "mutedSamples": 0
+      }
+    },
+    {
+      "label": "rock/ending",
+      "style": "rock",
+      "run": 3,
+      "begin": 82033.92703333333,
+      "end": 84700.5937,
+      "section": "ending",
+      "bars": 2,
+      "meter": {
+        "begin": 82113.92703333333,
+        "end": 84650.5937,
+        "count": 64,
+        "max": 0.109619141,
+        "mean": 0.053992271174999995,
+        "signalThreshold": 0.0001,
+        "nonzero": 64,
+        "mutedSamples": 0
+      },
+      "noteCount": 25
+    },
+    {
+      "label": "rock/loop-wraps",
+      "style": "rock",
+      "run": 4,
+      "begin": 90396.85156666666,
+      "end": 94396.85156666666,
+      "loop": true,
+      "meter": {
+        "begin": 90476.85156666666,
+        "end": 94346.85156666666,
+        "count": 108,
+        "max": 0.08642578,
+        "mean": 0.06036518225092592,
+        "signalThreshold": 0.0001,
+        "nonzero": 108,
+        "mutedSamples": 0
+      },
+      "noteCount": 48
+    },
+    {
+      "label": "rock/loop-restart",
+      "style": "rock",
+      "run": 5,
+      "begin": 97411.658,
+      "end": 98744.99133333332,
+      "loop": true,
+      "meter": {
+        "begin": 97491.658,
+        "end": 98694.99133333332,
+        "count": 32,
+        "max": 0.08352661,
+        "mean": 0.06185531591249999,
+        "signalThreshold": 0.0001,
+        "nonzero": 32,
+        "mutedSamples": 0
+      },
+      "noteCount": 16
+    },
+    {
+      "label": "waltz/intro",
+      "style": "waltz",
+      "run": 6,
+      "begin": 101767.259,
+      "end": 103767.259,
+      "section": "intro",
+      "bars": 2,
+      "meter": {
+        "begin": 101847.259,
+        "end": 103717.259,
+        "count": 54,
+        "max": 0.07647705,
+        "mean": 0.030491581620555562,
+        "signalThreshold": 0.0001,
+        "nonzero": 54,
+        "mutedSamples": 0
+      },
+      "noteCount": 17
+    },
+    {
+      "label": "waltz/A/C major",
+      "style": "waltz",
+      "run": 6,
+      "begin": 104100.59233333333,
+      "end": 104767.259,
+      "section": "A",
+      "root": 0,
+      "quality": "major",
+      "requestedAt": 103784.2548,
+      "meter": {
+        "begin": 104180.59233333333,
+        "end": 104717.259,
+        "count": 17,
+        "max": 0.0570068359,
+        "mean": 0.04135131855294118,
+        "signalThreshold": 0.0001,
+        "nonzero": 17,
+        "mutedSamples": 0
+      },
+      "noteCount": 6,
+      "bassNotes": [
+        43,
+        40
+      ]
+    },
+    {
+      "label": "waltz/A/C minor",
+      "style": "waltz",
+      "run": 6,
+      "begin": 105100.59233333333,
+      "end": 105767.259,
+      "section": "A",
+      "root": 0,
+      "quality": "minor",
+      "requestedAt": 104784.2319,
+      "meter": {
+        "begin": 105180.59233333333,
+        "end": 105717.259,
+        "count": 13,
+        "max": 0.05343628,
+        "mean": 0.040968675192307694,
+        "signalThreshold": 0.0001,
+        "nonzero": 13,
+        "mutedSamples": 0
+      },
+      "noteCount": 6,
+      "bassNotes": [
+        43,
+        39
+      ]
+    },
+    {
+      "label": "waltz/A/D major",
+      "style": "waltz",
+      "run": 6,
+      "begin": 106100.59233333333,
+      "end": 106767.259,
+      "section": "A",
+      "root": 2,
+      "quality": "major",
+      "requestedAt": 105785.7489,
+      "meter": {
+        "begin": 106180.59233333333,
+        "end": 106717.259,
+        "count": 15,
+        "max": 0.0553894043,
+        "mean": 0.041674804940000004,
+        "signalThreshold": 0.0001,
+        "nonzero": 15,
+        "mutedSamples": 0
+      },
+      "noteCount": 6,
+      "bassNotes": [
+        45,
+        42
+      ]
+    },
+    {
+      "label": "waltz/B/C major",
+      "style": "waltz",
+      "run": 6,
+      "begin": 108100.59233333333,
+      "end": 108767.259,
+      "section": "B",
+      "root": 0,
+      "quality": "major",
+      "requestedAt": 107777.3648,
+      "meter": {
+        "begin": 108180.59233333333,
+        "end": 108717.259,
+        "count": 15,
+        "max": 0.08081055,
+        "mean": 0.045713297740000006,
+        "signalThreshold": 0.0001,
+        "nonzero": 15,
+        "mutedSamples": 0
+      },
+      "noteCount": 10,
+      "bassNotes": [
+        40,
+        43,
+        36
+      ]
+    },
+    {
+      "label": "waltz/B/C minor",
+      "style": "waltz",
+      "run": 6,
+      "begin": 109100.59233333333,
+      "end": 109767.259,
+      "section": "B",
+      "root": 0,
+      "quality": "minor",
+      "requestedAt": 108784.4587,
+      "meter": {
+        "begin": 109180.59233333333,
+        "end": 109717.259,
+        "count": 13,
+        "max": 0.08370972,
+        "mean": 0.04495708759230769,
+        "signalThreshold": 0.0001,
+        "nonzero": 13,
+        "mutedSamples": 0
+      },
+      "noteCount": 10,
+      "bassNotes": [
+        39,
+        43,
+        36
+      ]
+    },
+    {
+      "label": "waltz/B/D major",
+      "style": "waltz",
+      "run": 6,
+      "begin": 110100.59233333333,
+      "end": 110767.259,
+      "section": "B",
+      "root": 2,
+      "quality": "major",
+      "requestedAt": 109786.2694,
+      "meter": {
+        "begin": 110180.59233333333,
+        "end": 110717.259,
+        "count": 16,
+        "max": 0.0774230957,
+        "mean": 0.04481315630624999,
+        "signalThreshold": 0.0001,
+        "nonzero": 16,
+        "mutedSamples": 0
+      },
+      "noteCount": 10,
+      "bassNotes": [
+        42,
+        45,
+        38
+      ]
+    },
+    {
+      "label": "waltz/C/C major",
+      "style": "waltz",
+      "run": 6,
+      "begin": 112100.59233333333,
+      "end": 112767.259,
+      "section": "C",
+      "root": 0,
+      "quality": "major",
+      "requestedAt": 111787.2385,
+      "meter": {
+        "begin": 112180.59233333333,
+        "end": 112717.259,
+        "count": 17,
+        "max": 0.0877685547,
+        "mean": 0.05583639726470589,
+        "signalThreshold": 0.0001,
+        "nonzero": 17,
+        "mutedSamples": 0
+      },
+      "noteCount": 10,
+      "bassNotes": [
+        40,
+        36,
+        43
+      ]
+    },
+    {
+      "label": "waltz/C/C minor",
+      "style": "waltz",
+      "run": 6,
+      "begin": 113100.59233333333,
+      "end": 113767.259,
+      "section": "C",
+      "root": 0,
+      "quality": "minor",
+      "requestedAt": 112780.058,
+      "meter": {
+        "begin": 113180.59233333333,
+        "end": 113717.259,
+        "count": 13,
+        "max": 0.08969116,
+        "mean": 0.06048349180769231,
+        "signalThreshold": 0.0001,
+        "nonzero": 13,
+        "mutedSamples": 0
+      },
+      "noteCount": 10,
+      "bassNotes": [
+        39,
+        36,
+        43
+      ]
+    },
+    {
+      "label": "waltz/C/D major",
+      "style": "waltz",
+      "run": 6,
+      "begin": 114100.59233333333,
+      "end": 114767.259,
+      "section": "C",
+      "root": 2,
+      "quality": "major",
+      "requestedAt": 113784.6783,
+      "meter": {
+        "begin": 114180.59233333333,
+        "end": 114717.259,
+        "count": 16,
+        "max": 0.09051514,
+        "mean": 0.0633716588375,
+        "signalThreshold": 0.0001,
+        "nonzero": 16,
+        "mutedSamples": 0
+      },
+      "noteCount": 10,
+      "bassNotes": [
+        42,
+        38,
+        45
+      ]
+    },
+    {
+      "label": "waltz/D/C major",
+      "style": "waltz",
+      "run": 6,
+      "begin": 116100.59233333333,
+      "end": 116767.259,
+      "section": "D",
+      "root": 0,
+      "quality": "major",
+      "requestedAt": 115778.083,
+      "meter": {
+        "begin": 116180.59233333333,
+        "end": 116717.259,
+        "count": 14,
+        "max": 0.08859253,
+        "mean": 0.06295558430714286,
+        "signalThreshold": 0.0001,
+        "nonzero": 14,
+        "mutedSamples": 0
+      },
+      "noteCount": 15,
+      "bassNotes": [
+        40,
+        43,
+        36,
+        36
+      ]
+    },
+    {
+      "label": "waltz/D/C minor",
+      "style": "waltz",
+      "run": 6,
+      "begin": 117100.59233333333,
+      "end": 117767.259,
+      "section": "D",
+      "root": 0,
+      "quality": "minor",
+      "requestedAt": 116784.3989,
+      "meter": {
+        "begin": 117180.59233333333,
+        "end": 117717.259,
+        "count": 16,
+        "max": 0.09719849,
+        "mean": 0.07000732430624998,
+        "signalThreshold": 0.0001,
+        "nonzero": 16,
+        "mutedSamples": 0
+      },
+      "noteCount": 15,
+      "bassNotes": [
+        39,
+        43,
+        36,
+        36
+      ]
+    },
+    {
+      "label": "waltz/D/D major",
+      "style": "waltz",
+      "run": 6,
+      "begin": 118100.59233333333,
+      "end": 118767.259,
+      "section": "D",
+      "root": 2,
+      "quality": "major",
+      "requestedAt": 117784.4427,
+      "meter": {
+        "begin": 118180.59233333333,
+        "end": 118717.259,
+        "count": 14,
+        "max": 0.104797363,
+        "mean": 0.07670157284285714,
+        "signalThreshold": 0.0001,
+        "nonzero": 14,
+        "mutedSamples": 0
+      },
+      "noteCount": 15,
+      "bassNotes": [
+        42,
+        45,
+        38,
+        38
+      ]
+    },
+    {
+      "label": "waltz/fill",
+      "style": "waltz",
+      "run": 6,
+      "begin": 119767.259,
+      "end": 120767.259,
+      "section": "fill",
+      "bars": 1,
+      "meter": {
+        "begin": 119847.259,
+        "end": 120717.259,
+        "count": 24,
+        "max": 0.102844238,
+        "mean": 0.05255635526249999,
+        "signalThreshold": 0.0001,
+        "nonzero": 24,
+        "mutedSamples": 0
+      },
+      "noteCount": 10
+    },
+    {
+      "label": "waltz/break",
+      "style": "waltz",
+      "run": 6,
+      "begin": 121767.259,
+      "end": 122767.259,
+      "section": "break",
+      "bars": 1,
+      "sparse": true,
+      "meter": {
+        "begin": 121847.259,
+        "end": 122717.259,
+        "count": 24,
+        "max": 0.11428833,
+        "mean": 0.031617482325416675,
+        "signalThreshold": 0.0001,
+        "nonzero": 24,
+        "mutedSamples": 0
+      },
+      "noteCount": 4,
+      "opening": {
+        "begin": 121837.259,
+        "end": 122047.259,
+        "count": 7,
+        "max": 0.11428833,
+        "mean": 0.08563668337142857,
+        "signalThreshold": 0.0001,
+        "nonzero": 7,
+        "mutedSamples": 0
+      },
+      "middleTail": {
+        "begin": 122317.259,
+        "end": 122547.259,
+        "count": 6,
+        "max": 0.00662231445,
+        "mean": 0.005574544241666667,
+        "signalThreshold": 0.0001,
+        "nonzero": 6,
+        "mutedSamples": 0
+      }
+    },
+    {
+      "label": "waltz/ending",
+      "style": "waltz",
+      "run": 6,
+      "begin": 123767.259,
+      "end": 125767.259,
+      "section": "ending",
+      "bars": 2,
+      "meter": {
+        "begin": 123847.259,
+        "end": 125717.259,
+        "count": 52,
+        "max": 0.111083984,
+        "mean": 0.044749920274999994,
+        "signalThreshold": 0.0001,
+        "nonzero": 52,
+        "mutedSamples": 0
+      },
+      "noteCount": 15
+    },
+    {
+      "label": "waltz/loop-wraps",
+      "style": "waltz",
+      "run": 7,
+      "begin": 130787.8474,
+      "end": 133787.8474,
+      "loop": true,
+      "meter": {
+        "begin": 130867.8474,
+        "end": 133737.8474,
+        "count": 84,
+        "max": 0.0770874,
+        "mean": 0.044615245967857126,
+        "signalThreshold": 0.0001,
+        "nonzero": 84,
+        "mutedSamples": 0
+      },
+      "noteCount": 27
+    },
+    {
+      "label": "waltz/loop-restart",
+      "style": "waltz",
+      "run": 8,
+      "begin": 136807.591,
+      "end": 137807.591,
+      "loop": true,
+      "meter": {
+        "begin": 136887.591,
+        "end": 137757.591,
+        "count": 22,
+        "max": 0.07672119,
+        "mean": 0.04524230945454546,
+        "signalThreshold": 0.0001,
+        "nonzero": 22,
+        "mutedSamples": 0
+      },
+      "noteCount": 9
+    },
+    {
+      "label": "memory-repeated-cycles",
+      "style": "pop",
+      "run": 9,
+      "begin": 140845.902,
+      "end": 186199.6528,
+      "meter": {
+        "begin": 140925.902,
+        "end": 186149.6528,
+        "count": 1035,
+        "max": 0.144470215,
+        "mean": 0.06020513707072466,
+        "signalThreshold": 0.0001,
+        "nonzero": 1035,
+        "mutedSamples": 0
+      },
+      "noteCount": 731
+    }
+  ],
+  "stops": [
+    {
+      "label": "pop/ending-stop",
+      "stopAt": 35633.5399,
+      "tailAllowanceMs": 2400,
+      "begin": 38033.5399,
+      "end": 38583.5399,
+      "count": 16,
+      "max": 0.0000305184622,
+      "mean": 0.0000305184622,
+      "signalThreshold": 0.0001,
+      "nonzero": 0,
+      "mutedSamples": 0
+    },
+    {
+      "label": "pop/loop-stop",
+      "stopAt": 45321.7659,
+      "tailAllowanceMs": 2400,
+      "begin": 47721.7659,
+      "end": 48271.7659,
+      "count": 17,
+      "max": 0.0000305184622,
+      "mean": 0.0000305184622,
+      "signalThreshold": 0.0001,
+      "nonzero": 0,
+      "mutedSamples": 0
+    },
+    {
+      "label": "pop/restart-stop",
+      "stopAt": 49686.2005,
+      "tailAllowanceMs": 2400,
+      "begin": 52086.2005,
+      "end": 52636.2005,
+      "count": 14,
+      "max": 0.0000305184622,
+      "mean": 0.0000305184622,
+      "signalThreshold": 0.0001,
+      "nonzero": 0,
+      "mutedSamples": 0
+    },
+    {
+      "label": "rock/ending-stop",
+      "stopAt": 84725.0269,
+      "tailAllowanceMs": 2400,
+      "begin": 87125.0269,
+      "end": 87675.0269,
+      "count": 16,
+      "max": 0.0000305184622,
+      "mean": 0.0000305184622,
+      "signalThreshold": 0.0001,
+      "nonzero": 0,
+      "mutedSamples": 0
+    },
+    {
+      "label": "rock/loop-stop",
+      "stopAt": 94407.4549,
+      "tailAllowanceMs": 2400,
+      "begin": 96807.4549,
+      "end": 97357.4549,
+      "count": 17,
+      "max": 0.0000305184622,
+      "mean": 0.0000305184622,
+      "signalThreshold": 0.0001,
+      "nonzero": 0,
+      "mutedSamples": 0
+    },
+    {
+      "label": "rock/restart-stop",
+      "stopAt": 98758.7426,
+      "tailAllowanceMs": 2400,
+      "begin": 101158.7426,
+      "end": 101708.7426,
+      "count": 17,
+      "max": 0.0000305184622,
+      "mean": 0.0000305184622,
+      "signalThreshold": 0.0001,
+      "nonzero": 0,
+      "mutedSamples": 0
+    },
+    {
+      "label": "waltz/ending-stop",
+      "stopAt": 125781.1632,
+      "tailAllowanceMs": 2400,
+      "begin": 128181.1632,
+      "end": 128731.1632,
+      "count": 16,
+      "max": 0.0000305184622,
+      "mean": 0.0000305184622,
+      "signalThreshold": 0.0001,
+      "nonzero": 0,
+      "mutedSamples": 0
+    },
+    {
+      "label": "waltz/loop-stop",
+      "stopAt": 133802.3454,
+      "tailAllowanceMs": 2400,
+      "begin": 136202.3454,
+      "end": 136752.3454,
+      "count": 16,
+      "max": 0.0000305184622,
+      "mean": 0.0000305184622,
+      "signalThreshold": 0.0001,
+      "nonzero": 0,
+      "mutedSamples": 0
+    },
+    {
+      "label": "waltz/restart-stop",
+      "stopAt": 137836.0279,
+      "tailAllowanceMs": 2400,
+      "begin": 140236.0279,
+      "end": 140786.0279,
+      "count": 13,
+      "max": 0.0000305184622,
+      "mean": 0.0000305184622,
+      "signalThreshold": 0.0001,
+      "nonzero": 0,
+      "mutedSamples": 0
+    },
+    {
+      "label": "memory-cycle-stop",
+      "stopAt": 186201.3616,
+      "tailAllowanceMs": 2400,
+      "begin": 188601.3616,
+      "end": 189151.3616,
+      "count": 13,
+      "max": 0.0000305184622,
+      "mean": 0.0000305184622,
+      "signalThreshold": 0.0001,
+      "nonzero": 0,
+      "mutedSamples": 0
+    }
+  ],
+  "progressions": [
+    {
+      "style": "pop",
+      "progression": {
+        "version": 1,
+        "beatsPerBar": 4,
+        "lengthBars": 1,
+        "events": [
+          {
+            "beat": 0,
+            "root": 0,
+            "quality": "major"
+          },
+          {
+            "beat": 1,
+            "root": 0,
+            "quality": "minor"
+          },
+          {
+            "beat": 2,
+            "root": 2,
+            "quality": "major"
+          }
+        ]
+      },
+      "loopObservations": [
+        {
+          "bar": 2,
+          "beat": 0,
+          "root": 0,
+          "quality": "major"
+        },
+        {
+          "bar": 2,
+          "beat": 1,
+          "root": 0,
+          "quality": "minor"
+        },
+        {
+          "bar": 2,
+          "beat": 2,
+          "root": 2,
+          "quality": "major"
+        },
+        {
+          "bar": 2,
+          "beat": 3,
+          "root": 2,
+          "quality": "major"
+        },
+        {
+          "bar": 3,
+          "beat": 0,
+          "root": 0,
+          "quality": "major"
+        },
+        {
+          "bar": 3,
+          "beat": 1,
+          "root": 0,
+          "quality": "minor"
+        },
+        {
+          "bar": 3,
+          "beat": 2,
+          "root": 2,
+          "quality": "major"
+        },
+        {
+          "bar": 3,
+          "beat": 3,
+          "root": 2,
+          "quality": "major"
+        },
+        {
+          "bar": 4,
+          "beat": 0,
+          "root": 0,
+          "quality": "major"
+        },
+        {
+          "bar": 4,
+          "beat": 1,
+          "root": 0,
+          "quality": "minor"
+        },
+        {
+          "bar": 4,
+          "beat": 2,
+          "root": 2,
+          "quality": "major"
+        },
+        {
+          "bar": 4,
+          "beat": 3,
+          "root": 2,
+          "quality": "major"
+        }
+      ],
+      "restartAtZero": true
+    },
+    {
+      "style": "rock",
+      "progression": {
+        "version": 1,
+        "beatsPerBar": 4,
+        "lengthBars": 1,
+        "events": [
+          {
+            "beat": 0,
+            "root": 0,
+            "quality": "major"
+          },
+          {
+            "beat": 1,
+            "root": 0,
+            "quality": "minor"
+          },
+          {
+            "beat": 2,
+            "root": 2,
+            "quality": "major"
+          }
+        ]
+      },
+      "loopObservations": [
+        {
+          "bar": 2,
+          "beat": 0,
+          "root": 0,
+          "quality": "major"
+        },
+        {
+          "bar": 2,
+          "beat": 1,
+          "root": 0,
+          "quality": "minor"
+        },
+        {
+          "bar": 2,
+          "beat": 2,
+          "root": 2,
+          "quality": "major"
+        },
+        {
+          "bar": 2,
+          "beat": 3,
+          "root": 2,
+          "quality": "major"
+        },
+        {
+          "bar": 3,
+          "beat": 0,
+          "root": 0,
+          "quality": "major"
+        },
+        {
+          "bar": 3,
+          "beat": 1,
+          "root": 0,
+          "quality": "minor"
+        },
+        {
+          "bar": 3,
+          "beat": 2,
+          "root": 2,
+          "quality": "major"
+        },
+        {
+          "bar": 3,
+          "beat": 3,
+          "root": 2,
+          "quality": "major"
+        },
+        {
+          "bar": 4,
+          "beat": 0,
+          "root": 0,
+          "quality": "major"
+        },
+        {
+          "bar": 4,
+          "beat": 1,
+          "root": 0,
+          "quality": "minor"
+        },
+        {
+          "bar": 4,
+          "beat": 2,
+          "root": 2,
+          "quality": "major"
+        },
+        {
+          "bar": 4,
+          "beat": 3,
+          "root": 2,
+          "quality": "major"
+        }
+      ],
+      "restartAtZero": true
+    },
+    {
+      "style": "waltz",
+      "progression": {
+        "version": 1,
+        "beatsPerBar": 3,
+        "lengthBars": 1,
+        "events": [
+          {
+            "beat": 0,
+            "root": 0,
+            "quality": "major"
+          },
+          {
+            "beat": 1,
+            "root": 0,
+            "quality": "minor"
+          },
+          {
+            "beat": 2,
+            "root": 2,
+            "quality": "major"
+          }
+        ]
+      },
+      "loopObservations": [
+        {
+          "bar": 2,
+          "beat": 0,
+          "root": 0,
+          "quality": "major"
+        },
+        {
+          "bar": 2,
+          "beat": 1,
+          "root": 0,
+          "quality": "minor"
+        },
+        {
+          "bar": 2,
+          "beat": 2,
+          "root": 2,
+          "quality": "major"
+        },
+        {
+          "bar": 3,
+          "beat": 0,
+          "root": 0,
+          "quality": "major"
+        },
+        {
+          "bar": 3,
+          "beat": 1,
+          "root": 0,
+          "quality": "minor"
+        },
+        {
+          "bar": 3,
+          "beat": 2,
+          "root": 2,
+          "quality": "major"
+        },
+        {
+          "bar": 4,
+          "beat": 0,
+          "root": 0,
+          "quality": "major"
+        },
+        {
+          "bar": 4,
+          "beat": 1,
+          "root": 0,
+          "quality": "minor"
+        },
+        {
+          "bar": 4,
+          "beat": 2,
+          "root": 2,
+          "quality": "major"
+        }
+      ],
+      "restartAtZero": true
+    }
+  ],
+  "limitations": [
+    "Per-process peak metering observes only the spawned FluidSynth render session; no audio samples are recorded.",
+    "Signal + unmuted session/endpoint does not independently prove physical speaker audibility or identify chord spectra.",
+    "Chord identity is verified at real MIDI submission; frequency-domain proof is outside peak metering.",
+    "Timing is Node/main-process submission and shell acknowledgment, not renderer, DAC or sample-accurate timing.",
+    "Meter timestamps use helper monotonic time anchored to UTC; timestamp alignment has clock/IPC uncertainty.",
+    "Short bounded memory sampling is not proof of absence of leaks; Node memory includes intentionally retained meter, transport and note evidence."
+  ],
+  "measurementBounds": {
+    "meterRequestedPeriodMs": 25,
+    "meterClockAlignmentAllowanceMs": 20,
+    "sceneStartGuardMs": 80,
+    "sceneEndGuardMs": 50,
+    "silenceThresholdPeak": 0.0001,
+    "signalThresholdPeak": 0.0001,
+    "minimumSignalSamples": 4,
+    "stopTailAllowanceMs": 2400,
+    "noteTiming": "API entry immediately before the real AudioEngine call, plus shell acknowledgment; pipe buffering and audio-device latency remain unmeasured."
+  },
+  "references": [
+    "https://learn.microsoft.com/en-us/windows/win32/api/audiopolicy/nn-audiopolicy-iaudiosessioncontrol2",
+    "https://learn.microsoft.com/en-us/windows/win32/api/endpointvolume/nn-endpointvolume-iaudiometerinformation",
+    "https://learn.microsoft.com/en-us/windows/win32/coreaudio/peak-meters"
+  ],
+  "fluidSynthPid": 17996,
+  "meterPid": 21792,
+  "baseline": {
+    "begin": 3099.142,
+    "end": 3606.8685,
+    "count": 12,
+    "max": 0.0000305184622,
+    "mean": 0.0000305184622,
+    "signalThreshold": 0.0001,
+    "nonzero": 0,
+    "mutedSamples": 0
+  },
+  "memorySoak": {
+    "begin": 140845.902,
+    "end": 186199.6103,
+    "cycles": 34,
+    "scope": "Repeated live variation/chord cycles in one long-lived FluidSynth process; no per-cycle backend restart."
+  },
+  "timing": {
+    "noteSubmissions": 2278,
+    "activeSubdivisions": 1070,
+    "latencyMs": {
+      "min": 0.04050000000279397,
+      "median": 7.8991666672664,
+      "p95": 15.977633333401172,
+      "max": 25.205299999943236
+    },
+    "commandAcknowledgmentMs": {
+      "median": 0.6224999999976717,
+      "p95": 1.4508999999961816,
+      "max": 7.045299999997951
+    },
+    "jitterMs": 4.75779840055521,
+    "phaseDriftMs": -0.5312333331967238,
+    "driftSpanMs": 30833.333333333194,
+    "driftRun": 0,
+    "definition": "Host API submission lateness against absolute transport deadlines; acknowledgment is FluidSynth shell roundtrip, not DAC latency. Drift compares first/last active subdivisions within the specified run."
+  },
+  "timingByRun": [
+    {
+      "id": 0,
+      "label": "pop-sections",
+      "origin": 3617.63,
+      "noteSubmissions": 465,
+      "activeSubdivisions": 216,
+      "latencyMs": {
+        "min": 0.05400000018926221,
+        "median": 8.174466666670924,
+        "p95": 16.80723333334572,
+        "max": 22.229300000093644
+      },
+      "commandAcknowledgmentMs": {
+        "median": 0.7334000000009837,
+        "p95": 1.832300000000032,
+        "max": 5.614100000002509
+      },
+      "jitterMs": 4.823337103212619,
+      "phaseDriftMs": -0.5312333331967238,
+      "driftSpanMs": 30833.333333333194,
+      "driftRun": 0,
+      "definition": "Host API submission lateness against absolute transport deadlines; acknowledgment is FluidSynth shell roundtrip, not DAC latency. Drift compares first/last active subdivisions within the specified run."
+    },
+    {
+      "id": 1,
+      "label": "pop-record-loop",
+      "origin": 38642.2397,
+      "noteSubmissions": 80,
+      "activeSubdivisions": 40,
+      "latencyMs": {
+        "min": 0.22213333332911134,
+        "median": 10.533199999830686,
+        "p95": 15.782466666569235,
+        "max": 25.205299999943236
+      },
+      "commandAcknowledgmentMs": {
+        "median": 0.6621000000013737,
+        "p95": 1.974000000001979,
+        "max": 3.043600000004517
+      },
+      "jitterMs": 5.865868527556025,
+      "phaseDriftMs": 4.719099999812897,
+      "driftSpanMs": 6500.000000000189,
+      "driftRun": 1,
+      "definition": "Host API submission lateness against absolute transport deadlines; acknowledgment is FluidSynth shell roundtrip, not DAC latency. Drift compares first/last active subdivisions within the specified run."
+    },
+    {
+      "id": 2,
+      "label": "pop-loop-restart",
+      "origin": 48331.8739,
+      "noteSubmissions": 19,
+      "activeSubdivisions": 9,
+      "latencyMs": {
+        "min": 0.2268000000040047,
+        "median": 3.601733333300217,
+        "p95": 18.22173333331739,
+        "max": 18.22173333331739
+      },
+      "commandAcknowledgmentMs": {
+        "median": 0.7123999999967054,
+        "p95": 2.6385000000009313,
+        "max": 2.6385000000009313
+      },
+      "jitterMs": 5.666682987829031,
+      "phaseDriftMs": 2.7401666666264646,
+      "driftSpanMs": 1333.3333333333721,
+      "driftRun": 2,
+      "definition": "Host API submission lateness against absolute transport deadlines; acknowledgment is FluidSynth shell roundtrip, not DAC latency. Drift compares first/last active subdivisions within the specified run."
+    },
+    {
+      "id": 3,
+      "label": "rock-sections",
+      "origin": 52700.5937,
+      "noteSubmissions": 494,
+      "activeSubdivisions": 221,
+      "latencyMs": {
+        "min": 0.04050000000279397,
+        "median": 8.165366666929913,
+        "p95": 16.100333333859453,
+        "max": 23.371800000357325
+      },
+      "commandAcknowledgmentMs": {
+        "median": 0.6048999999984517,
+        "p95": 1.2391000000061467,
+        "max": 5.646899999992456
+      },
+      "jitterMs": 4.7100148926793555,
+      "phaseDriftMs": 4.539533334005682,
+      "driftSpanMs": 30916.666666665988,
+      "driftRun": 3,
+      "definition": "Host API submission lateness against absolute transport deadlines; acknowledgment is FluidSynth shell roundtrip, not DAC latency. Drift compares first/last active subdivisions within the specified run."
+    },
+    {
+      "id": 4,
+      "label": "rock-record-loop",
+      "origin": 87730.1849,
+      "noteSubmissions": 81,
+      "activeSubdivisions": 31,
+      "latencyMs": {
+        "min": 0.12060000000928994,
+        "median": 6.083400000061374,
+        "p95": 13.58073333367065,
+        "max": 14.591633333664504
+      },
+      "commandAcknowledgmentMs": {
+        "median": 0.5527999999903841,
+        "p95": 0.876300000003539,
+        "max": 1.2286000000021886
+      },
+      "jitterMs": 4.086842102878448,
+      "phaseDriftMs": 7.569033333726111,
+      "driftSpanMs": 6666.666666666279,
+      "driftRun": 4,
+      "definition": "Host API submission lateness against absolute transport deadlines; acknowledgment is FluidSynth shell roundtrip, not DAC latency. Drift compares first/last active subdivisions within the specified run."
+    },
+    {
+      "id": 5,
+      "label": "rock-loop-restart",
+      "origin": 97411.658,
+      "noteSubmissions": 17,
+      "activeSubdivisions": 7,
+      "latencyMs": {
+        "min": 0.14239999999699648,
+        "median": 4.9565333333739545,
+        "p95": 12.515966666745953,
+        "max": 12.515966666745953
+      },
+      "commandAcknowledgmentMs": {
+        "median": 0.5509000000020023,
+        "p95": 0.9064999999973224,
+        "max": 0.9064999999973224
+      },
+      "jitterMs": 3.948349074692694,
+      "phaseDriftMs": 11.29926666674146,
+      "driftSpanMs": 1333.3333333332557,
+      "driftRun": 5,
+      "definition": "Host API submission lateness against absolute transport deadlines; acknowledgment is FluidSynth shell roundtrip, not DAC latency. Drift compares first/last active subdivisions within the specified run."
+    },
+    {
+      "id": 6,
+      "label": "waltz-sections",
+      "origin": 101767.259,
+      "noteSubmissions": 334,
+      "activeSubdivisions": 171,
+      "latencyMs": {
+        "min": 0.10669999998935964,
+        "median": 7.319333333769464,
+        "p95": 15.450833334340132,
+        "max": 20.360900000901893
+      },
+      "commandAcknowledgmentMs": {
+        "median": 0.5620999999955529,
+        "p95": 1.0865999999950873,
+        "max": 1.5043000000005122
+      },
+      "jitterMs": 4.657356975609397,
+      "phaseDriftMs": 3.533466668028268,
+      "driftSpanMs": 23333.333333331975,
+      "driftRun": 6,
+      "definition": "Host API submission lateness against absolute transport deadlines; acknowledgment is FluidSynth shell roundtrip, not DAC latency. Drift compares first/last active subdivisions within the specified run."
+    },
+    {
+      "id": 7,
+      "label": "waltz-record-loop",
+      "origin": 128787.8474,
+      "noteSubmissions": 46,
+      "activeSubdivisions": 31,
+      "latencyMs": {
+        "min": 0.21779999999853317,
+        "median": 6.129399999888847,
+        "p95": 14.29063333333761,
+        "max": 15.996833333425457
+      },
+      "commandAcknowledgmentMs": {
+        "median": 0.6143999999912921,
+        "p95": 1.0203999999794178,
+        "max": 1.4040999999997439
+      },
+      "jitterMs": 4.590616303843259,
+      "phaseDriftMs": 12.282699999821489,
+      "driftSpanMs": 5000.000000000175,
+      "driftRun": 7,
+      "definition": "Host API submission lateness against absolute transport deadlines; acknowledgment is FluidSynth shell roundtrip, not DAC latency. Drift compares first/last active subdivisions within the specified run."
+    },
+    {
+      "id": 8,
+      "label": "waltz-loop-restart",
+      "origin": 136807.591,
+      "noteSubmissions": 11,
+      "activeSubdivisions": 7,
+      "latencyMs": {
+        "min": 0.1329000000259839,
+        "median": 4.864033333258703,
+        "p95": 14.499833333335118,
+        "max": 14.499833333335118
+      },
+      "commandAcknowledgmentMs": {
+        "median": 0.7333999999973457,
+        "p95": 3.330599999986589,
+        "max": 3.330599999986589
+      },
+      "jitterMs": 4.22557280124572,
+      "phaseDriftMs": 10.09149999989313,
+      "driftSpanMs": 1000.0000000001164,
+      "driftRun": 8,
+      "definition": "Host API submission lateness against absolute transport deadlines; acknowledgment is FluidSynth shell roundtrip, not DAC latency. Drift compares first/last active subdivisions within the specified run."
+    },
+    {
+      "id": 9,
+      "label": "bounded-repeated-cycle-memory",
+      "origin": 140845.4754,
+      "noteSubmissions": 731,
+      "activeSubdivisions": 337,
+      "latencyMs": {
+        "min": 0.05830000000423752,
+        "median": 8.318299995793495,
+        "p95": 15.891666663606884,
+        "max": 23.311099998827558
+      },
+      "commandAcknowledgmentMs": {
+        "median": 0.627600000007078,
+        "p95": 1.5010000000183936,
+        "max": 7.045299999997951
+      },
+      "jitterMs": 4.619132000179066,
+      "phaseDriftMs": 10.181666661403142,
+      "driftSpanMs": 45333.33333333861,
+      "driftRun": 9,
+      "definition": "Host API submission lateness against absolute transport deadlines; acknowledgment is FluidSynth shell roundtrip, not DAC latency. Drift compares first/last active subdivisions within the specified run."
+    }
+  ],
+  "meterExit": {
+    "code": 0,
+    "signal": null
+  },
+  "meterDiagnostics": "",
+  "finishedAt": "2026-10-30T13:53:06.114Z",
+  "audioFinalStatus": {
+    "state": "stopped",
+    "pid": null
+  },
+  "configUnchanged": true,
+  "ownedProcessesStopped": true,
+  "memory": {
+    "sampledDurationMs": 186748.02734375,
+    "startup": {
+      "at": 2892.51220703125,
+      "workingSet": 61190144,
+      "privateBytes": 55513088
+    },
+    "warmup10s": {
+      "at": 12904.201416015625,
+      "workingSet": 61231104,
+      "privateBytes": 55513088
+    },
+    "final": {
+      "at": 189640.53955078125,
+      "workingSet": 61173760,
+      "privateBytes": 55349248
+    },
+    "peakWorkingSet": 61272064,
+    "peakPrivateBytes": 55574528,
+    "warmupToFinalWorkingSetDelta": -57344,
+    "warmupToFinalPrivateBytesDelta": -163840
+  },
+  "meter": {
+    "sampleCount": 4581,
+    "approximatePeriodMs": 40.77467845933406,
+    "p95DeliveryDelayMs": 11.301681640623428,
+    "maxDeliveryDelayMs": 464.82003593750414,
+    "first": {
+      "kind": "sample",
+      "unixMs": 1793368199181.219,
+      "elapsedMs": 125.287,
+      "pid": 17996,
+      "endpointId": "{0.0.0.00000000}.{64696fb3-39af-4330-855d-5f3ad2423479}",
+      "peak": 0.0000305184622,
+      "sessionVolume": 1,
+      "sessionMute": false,
+      "endpointVolume": 0.52,
+      "endpointMute": false,
+      "sessionState": 1,
+      "workingSet": 61190144,
+      "privateBytes": 55513088,
+      "at": 2892.51220703125,
+      "receivedAt": 2966.6902
+    },
+    "last": {
+      "kind": "sample",
+      "unixMs": 1793368385929.2463,
+      "elapsedMs": 186873.3144,
+      "pid": 17996,
+      "endpointId": "{0.0.0.00000000}.{64696fb3-39af-4330-855d-5f3ad2423479}",
+      "peak": 0.0000305184622,
+      "sessionVolume": 1,
+      "sessionMute": false,
+      "endpointVolume": 0.52,
+      "endpointMute": false,
+      "sessionState": 1,
+      "workingSet": 61173760,
+      "privateBytes": 55349248,
+      "at": 189640.53955078125,
+      "receivedAt": 189655.0201
+    }
+  }
+}

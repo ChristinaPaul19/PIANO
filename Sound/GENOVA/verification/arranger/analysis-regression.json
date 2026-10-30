@@ -1,0 +1,27 @@
+{
+  "source": "regression-rock-bass-d.wav",
+  "purpose": "Preserved parent-reported failing render before regeneration",
+  "notes": [
+    36,
+    38
+  ],
+  "coherentDiagnostic": {
+    "windowSeconds": [
+      0.19,
+      1.1
+    ],
+    "magnitudes": [
+      11.83541992476754,
+      9.409423009352755
+    ]
+  },
+  "shortTime": {
+    "magnitudes": [
+      108.01944744101179,
+      158.85932848924577
+    ],
+    "frames": 41,
+    "frameMs": 128,
+    "hopMs": 32
+  }
+}

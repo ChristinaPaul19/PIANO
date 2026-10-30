@@ -1,0 +1,392 @@
+{
+  "testedAt": "2026-10-30T13:49:18.097Z",
+  "success": true,
+  "checks": [
+    {
+      "name": "Held-chord crash/retry recognizes new D minor without stale input",
+      "passed": true
+    },
+    {
+      "name": "Invalid tempo validation and successful correction clear the error banner",
+      "passed": true
+    },
+    {
+      "name": "Actual keyboard pedal/bend controls and reload release all held input",
+      "passed": true
+    },
+    {
+      "name": "30 playback cycles, six reloads and measured bounded main/renderer memory",
+      "passed": true
+    }
+  ],
+  "memory": [
+    {
+      "cycle": 0,
+      "elapsedMs": 889,
+      "rendererHeapBytes": 2432684,
+      "mainMemoryBytes": {
+        "rss": 113680384,
+        "heapTotal": 7864320,
+        "heapUsed": 5791672,
+        "external": 2768278,
+        "arrayBuffers": 0
+      },
+      "rendererPid": 30064,
+      "metrics": [
+        {
+          "pid": 25264,
+          "type": "Browser",
+          "memory": {
+            "workingSetSize": 111040,
+            "peakWorkingSetSize": 111864,
+            "privateBytes": 71324
+          }
+        },
+        {
+          "pid": 30268,
+          "type": "GPU",
+          "memory": {
+            "workingSetSize": 162500,
+            "peakWorkingSetSize": 162500,
+            "privateBytes": 147568
+          }
+        },
+        {
+          "pid": 18232,
+          "type": "Utility",
+          "memory": {
+            "workingSetSize": 67872,
+            "peakWorkingSetSize": 67872,
+            "privateBytes": 11796
+          }
+        },
+        {
+          "pid": 30064,
+          "type": "Tab",
+          "memory": {
+            "workingSetSize": 77984,
+            "peakWorkingSetSize": 88816,
+            "privateBytes": 37136
+          }
+        }
+      ]
+    },
+    {
+      "cycle": 5,
+      "elapsedMs": 6471,
+      "rendererHeapBytes": 1793324,
+      "mainMemoryBytes": {
+        "rss": 115798016,
+        "heapTotal": 9175040,
+        "heapUsed": 5946676,
+        "external": 2758729,
+        "arrayBuffers": 0
+      },
+      "rendererPid": 30064,
+      "metrics": [
+        {
+          "pid": 25264,
+          "type": "Browser",
+          "memory": {
+            "workingSetSize": 113088,
+            "peakWorkingSetSize": 115372,
+            "privateBytes": 72372
+          }
+        },
+        {
+          "pid": 30268,
+          "type": "GPU",
+          "memory": {
+            "workingSetSize": 165088,
+            "peakWorkingSetSize": 165088,
+            "privateBytes": 148860
+          }
+        },
+        {
+          "pid": 18232,
+          "type": "Utility",
+          "memory": {
+            "workingSetSize": 67976,
+            "peakWorkingSetSize": 68036,
+            "privateBytes": 11904
+          }
+        },
+        {
+          "pid": 30064,
+          "type": "Tab",
+          "memory": {
+            "workingSetSize": 78584,
+            "peakWorkingSetSize": 88816,
+            "privateBytes": 36788
+          }
+        }
+      ]
+    },
+    {
+      "cycle": 10,
+      "elapsedMs": 12039,
+      "rendererHeapBytes": 1793360,
+      "mainMemoryBytes": {
+        "rss": 117096448,
+        "heapTotal": 7602176,
+        "heapUsed": 5769780,
+        "external": 2757727,
+        "arrayBuffers": 0
+      },
+      "rendererPid": 30064,
+      "metrics": [
+        {
+          "pid": 25264,
+          "type": "Browser",
+          "memory": {
+            "workingSetSize": 114352,
+            "peakWorkingSetSize": 116684,
+            "privateBytes": 73628
+          }
+        },
+        {
+          "pid": 30268,
+          "type": "GPU",
+          "memory": {
+            "workingSetSize": 165156,
+            "peakWorkingSetSize": 165156,
+            "privateBytes": 148820
+          }
+        },
+        {
+          "pid": 18232,
+          "type": "Utility",
+          "memory": {
+            "workingSetSize": 67976,
+            "peakWorkingSetSize": 68036,
+            "privateBytes": 11904
+          }
+        },
+        {
+          "pid": 30064,
+          "type": "Tab",
+          "memory": {
+            "workingSetSize": 77888,
+            "peakWorkingSetSize": 88816,
+            "privateBytes": 36104
+          }
+        }
+      ]
+    },
+    {
+      "cycle": 15,
+      "elapsedMs": 17609,
+      "rendererHeapBytes": 1793360,
+      "mainMemoryBytes": {
+        "rss": 115232768,
+        "heapTotal": 6815744,
+        "heapUsed": 5329668,
+        "external": 2752315,
+        "arrayBuffers": 0
+      },
+      "rendererPid": 30064,
+      "metrics": [
+        {
+          "pid": 25264,
+          "type": "Browser",
+          "memory": {
+            "workingSetSize": 112532,
+            "peakWorkingSetSize": 116684,
+            "privateBytes": 71756
+          }
+        },
+        {
+          "pid": 30268,
+          "type": "GPU",
+          "memory": {
+            "workingSetSize": 166788,
+            "peakWorkingSetSize": 166788,
+            "privateBytes": 150220
+          }
+        },
+        {
+          "pid": 18232,
+          "type": "Utility",
+          "memory": {
+            "workingSetSize": 67976,
+            "peakWorkingSetSize": 68036,
+            "privateBytes": 11904
+          }
+        },
+        {
+          "pid": 30064,
+          "type": "Tab",
+          "memory": {
+            "workingSetSize": 78064,
+            "peakWorkingSetSize": 88816,
+            "privateBytes": 36452
+          }
+        }
+      ]
+    },
+    {
+      "cycle": 20,
+      "elapsedMs": 23427,
+      "rendererHeapBytes": 1793340,
+      "mainMemoryBytes": {
+        "rss": 115036160,
+        "heapTotal": 7340032,
+        "heapUsed": 5819644,
+        "external": 2756704,
+        "arrayBuffers": 0
+      },
+      "rendererPid": 30064,
+      "metrics": [
+        {
+          "pid": 25264,
+          "type": "Browser",
+          "memory": {
+            "workingSetSize": 112348,
+            "peakWorkingSetSize": 116684,
+            "privateBytes": 71116
+          }
+        },
+        {
+          "pid": 30268,
+          "type": "GPU",
+          "memory": {
+            "workingSetSize": 167048,
+            "peakWorkingSetSize": 167048,
+            "privateBytes": 150444
+          }
+        },
+        {
+          "pid": 18232,
+          "type": "Utility",
+          "memory": {
+            "workingSetSize": 67980,
+            "peakWorkingSetSize": 68036,
+            "privateBytes": 11904
+          }
+        },
+        {
+          "pid": 30064,
+          "type": "Tab",
+          "memory": {
+            "workingSetSize": 77956,
+            "peakWorkingSetSize": 88816,
+            "privateBytes": 36764
+          }
+        }
+      ]
+    },
+    {
+      "cycle": 25,
+      "elapsedMs": 29035,
+      "rendererHeapBytes": 1793360,
+      "mainMemoryBytes": {
+        "rss": 113913856,
+        "heapTotal": 6291456,
+        "heapUsed": 4841812,
+        "external": 2752317,
+        "arrayBuffers": 0
+      },
+      "rendererPid": 30064,
+      "metrics": [
+        {
+          "pid": 25264,
+          "type": "Browser",
+          "memory": {
+            "workingSetSize": 111256,
+            "peakWorkingSetSize": 116684,
+            "privateBytes": 69512
+          }
+        },
+        {
+          "pid": 30268,
+          "type": "GPU",
+          "memory": {
+            "workingSetSize": 164944,
+            "peakWorkingSetSize": 167064,
+            "privateBytes": 148472
+          }
+        },
+        {
+          "pid": 18232,
+          "type": "Utility",
+          "memory": {
+            "workingSetSize": 67960,
+            "peakWorkingSetSize": 68036,
+            "privateBytes": 11876
+          }
+        },
+        {
+          "pid": 30064,
+          "type": "Tab",
+          "memory": {
+            "workingSetSize": 77884,
+            "peakWorkingSetSize": 88816,
+            "privateBytes": 36420
+          }
+        }
+      ]
+    },
+    {
+      "cycle": 30,
+      "elapsedMs": 35012,
+      "rendererHeapBytes": 1793340,
+      "mainMemoryBytes": {
+        "rss": 114864128,
+        "heapTotal": 6815744,
+        "heapUsed": 5335164,
+        "external": 2756976,
+        "arrayBuffers": 0
+      },
+      "rendererPid": 30064,
+      "metrics": [
+        {
+          "pid": 25264,
+          "type": "Browser",
+          "memory": {
+            "workingSetSize": 112172,
+            "peakWorkingSetSize": 116684,
+            "privateBytes": 70596
+          }
+        },
+        {
+          "pid": 30268,
+          "type": "GPU",
+          "memory": {
+            "workingSetSize": 170048,
+            "peakWorkingSetSize": 170048,
+            "privateBytes": 153356
+          }
+        },
+        {
+          "pid": 18232,
+          "type": "Utility",
+          "memory": {
+            "workingSetSize": 67960,
+            "peakWorkingSetSize": 68036,
+            "privateBytes": 11876
+          }
+        },
+        {
+          "pid": 30064,
+          "type": "Tab",
+          "memory": {
+            "workingSetSize": 78204,
+            "peakWorkingSetSize": 88816,
+            "privateBytes": 36516
+          }
+        }
+      ]
+    }
+  ],
+  "rendererErrors": [],
+  "memorySummary": {
+    "cycles": 30,
+    "reloads": 6,
+    "elapsedMs": 35012,
+    "rendererHeapGrowthBytes": -639344,
+    "mainRssGrowthBytes": 1183744,
+    "rendererHeapBoundBytes": 8388608,
+    "mainRssBoundBytes": 67108864,
+    "limitation": "Short bounded churn test with renderer GC at sample points; not proof of zero long-term leaks."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "testedAt": "2026-10-30T13:48:44.739Z",
+  "checks": [
+    {
+      "name": "Secure Electron renderer and validated MIDI bridge",
+      "passed": true
+    },
+    {
+      "name": "Piano, organ, strings and instrument switching",
+      "passed": true
+    },
+    {
+      "name": "Three-note polyphony and independent release",
+      "passed": true
+    },
+    {
+      "name": "Pointer capture, mixed input and same-note ownership",
+      "passed": true
+    },
+    {
+      "name": "Multitouch polyphony",
+      "passed": true
+    },
+    {
+      "name": "Sustain, velocity, volume, pitch bend and panic controls",
+      "passed": true
+    },
+    {
+      "name": "Octave shift bounds and lost-focus cleanup",
+      "passed": true
+    },
+    {
+      "name": "Renderer reload releases notes and sustain",
+      "passed": true
+    },
+    {
+      "name": "Audio stop/start and process cleanup",
+      "passed": true
+    },
+    {
+      "name": "Unexpected process exit and manual retry recovery",
+      "passed": true
+    },
+    {
+      "name": "Application exit shuts down FluidSynth",
+      "passed": true
+    }
+  ],
+  "rendererErrors": [],
+  "note": "Real Electron and WASAPI exercised; physical speaker audibility not independently measured."
+}

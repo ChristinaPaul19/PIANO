@@ -1,0 +1,27 @@
+.arranger-panel { padding: 18px 24px; }
+.arranger-panel .section-title { margin-bottom: 15px; }
+.arranger-top { display: grid; grid-template-columns: auto minmax(170px, 1fr) 85px 105px auto auto; align-items: end; gap: 16px; }
+.arranger-panel button { font-size: 12px; padding: 9px 12px; }
+.arranger-panel select { margin-top: 6px; padding: 8px; }
+.tempo-control span { font-size: 10px; float: right; color: #93a4c3; }
+#tempo { width: 100%; border: 1px solid #43516b; border-radius: 7px; background: #26324a; color: #edf0fa; padding: 8px; margin-top: 6px; font: inherit; font-variant-numeric: tabular-nums; }
+.chord-display { text-align: center; }
+.chord-display span { display: block; color: #9baac6; font-size: 9px; letter-spacing: 1px; margin-bottom: 4px; }
+#recognized-chord { display: block; font-size: 23px; font-weight: 600; color: #a9e8d4; min-height: 32px; }
+.arranger-sections, .progression-controls { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 15px; }
+.arranger-sections button { min-width: 65px; }
+#section-pending, #progression-summary { font-size: 11px; color: #b6c4dd; margin-left: 6px; }
+#section-pending { text-transform: capitalize; }
+#arranger-position[data-running="true"] { color: #8ce7c4; }
+#arranger-start { background: #2b4b46; border-color: #4d8374; }
+#arranger-stop { background: #3c3040; }
+#progression-record[aria-pressed="true"] { border-color: #e88d9b; background: #5c3444; color: #ffe2e8; }
+#progression-loop[aria-pressed="true"], #acmp[aria-pressed="true"], .arranger-sections button[aria-pressed="true"] { background: #24483f; border-color: #69ae97; color: #d3f7eb; }
+.arranger-sections button.is-current { box-shadow: inset 0 -3px #89d7bd; }
+.arranger-sections button.is-queued { border-color: #edc17a; border-style: dashed; color: #ffdea9; }
+.arranger-hint { font-size: 10px; color: #8e9db9; margin: 12px 0 0; }
+.key.white.chord-zone { background: linear-gradient(#e5f7ef, #cedfd9); }
+.key.black.chord-zone { border-top: 3px solid #6caa99; }
+.key.white.chord-zone.is-held { background: #87ceb6; box-shadow: inset 0 -2px #57917e; }
+@media (max-width: 950px) { .arranger-top { gap: 10px; grid-template-columns: auto minmax(140px, 1fr) 70px 80px auto auto; } .arranger-panel { padding: 18px; } .arranger-panel button { padding: 8px; } }
+@media (max-width: 780px) { .arranger-top { grid-template-columns: repeat(3, 1fr); } .chord-display { text-align: left; } .arranger-sections button { min-width: 59px; } }

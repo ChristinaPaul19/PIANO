@@ -1,0 +1,14 @@
+﻿▶ extended Electron recovery, controls and memory audit
+  ✔ crash while holding a chord does not contaminate the next chord after recovery (1006.8589ms)
+  ✔ invalid tempo error clears once a corrected tempo succeeds (160.3103ms)
+  ✔ pedal, bend, lead-note ownership and reload reset do not leave held notes (413.3913ms)
+  ✔ 30 repeated playback cycles and six renderer reloads have bounded retained memory (35038.3791ms)
+✔ extended Electron recovery, controls and memory audit (38228.5401ms)
+ℹ tests 5
+ℹ suites 0
+ℹ pass 5
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 38825.9606

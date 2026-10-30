@@ -1,0 +1,55 @@
+:root { color-scheme: dark; font-family: "Segoe UI", sans-serif; color: #edf0fa; background: #101522; font-synthesis: none; }
+* { box-sizing: border-box; }
+body { margin: 0; }
+main { max-width: 1360px; margin: auto; padding: 38px 36px 24px; }
+header, .section-title, .performance-controls, .keyboard-footer, footer, .engine-state { display: flex; align-items: center; justify-content: space-between; gap: 18px; }
+header { margin-bottom: 34px; }
+h1 { font-size: 32px; letter-spacing: 5px; margin: 4px 0; }
+h1 span { font-size: 14px; letter-spacing: 2px; font-weight: 400; color: #9cabc8; }
+h2 { font-size: 17px; margin: 0; font-weight: 600; }
+.eyebrow { color: #95a7ca; font-size: 10px; letter-spacing: 2px; margin: 0 0 8px; }
+.panel { border: 1px solid #30394d; border-radius: 14px; padding: 24px; background: #192131; margin-bottom: 24px; }
+.section-title { margin-bottom: 25px; }
+.section-title > span { color: #9baac6; font-size: 11px; letter-spacing: 1px; }
+.sound-controls { display: grid; grid-template-columns: 2.1fr 1fr 1fr; gap: 30px; }
+label { display: block; color: #b9c4db; font-size: 12px; }
+output { font-variant-numeric: tabular-nums; color: #eef1fb; }
+label output { float: right; }
+button, select { font: inherit; border: 1px solid #43516b; color: #e7ecf8; background: #26324a; border-radius: 7px; padding: 10px 13px; }
+button { cursor: pointer; }
+button:hover:not(:disabled) { background: #33466a; }
+button:disabled, select:disabled, input:disabled { opacity: .45; cursor: not-allowed; }
+button:focus-visible, select:focus-visible, input:focus-visible { outline: 2px solid #a9c6ff; outline-offset: 3px; }
+select { width: 100%; margin-top: 12px; }
+input[type="range"] { display: block; width: 100%; margin: 19px 0 5px; accent-color: #91b1fc; cursor: pointer; }
+.engine-state { font-size: 12px; }
+#status { max-width: 240px; color: #b5c0d6; }
+#status::before { content: ""; display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: #8d98ad; margin-right: 8px; }
+#status[data-state="ready"]::before { background: #7fe0be; box-shadow: 0 0 10px #7fe0be66; }
+#status[data-state="error"]::before { background: #ff9b9b; }
+.performance-controls { margin-bottom: 24px; flex-wrap: wrap; font-size: 12px; }
+.octave-control { display: flex; align-items: center; gap: 12px; }
+.octave-control > span { color: #b9c4db; }
+.octave-control button { width: 35px; padding: 7px; }
+.octave-control output { min-width: 16px; text-align: center; }
+.bend-control { width: 170px; }
+.bend-control input { margin-top: 10px; }
+#sustain[aria-pressed="true"] { color: #caffeb; border-color: #7fe0be; background: #21473f; }
+kbd { font: 10px "Segoe UI", sans-serif; color: #adbad3; }
+button kbd { margin-left: 7px; }
+.quiet { background: transparent; }
+#keyboard { position: relative; display: flex; height: 228px; padding: 0; border: 5px solid #0c111d; border-radius: 6px; background: #0c111d; touch-action: none; user-select: none; }
+.key { position: relative; border-radius: 0 0 5px 5px; padding: 0 0 13px; display: flex; flex-direction: column; justify-content: end; align-items: center; gap: 6px; touch-action: none; user-select: none; }
+.key.white { flex: 1; min-width: 0; border: 1px solid #abb1bc; border-top: 0; color: #4a5468; background: linear-gradient(#fff, #eef0f5); box-shadow: inset 0 -6px 0 #c5cad4; }
+.key.black { position: absolute; top: 0; z-index: 2; width: 4.2%; height: 63%; border: 1px solid #070a12; color: #d5dcec; background: linear-gradient(#2c3444, #101520); box-shadow: inset 0 -6px 0 #060912, 0 4px 5px #0005; }
+.key.white:hover:not(:disabled) { background: #e2e9f6; }
+.key.black:hover:not(:disabled) { background: #34415b; }
+.key.white.is-held { background: #a5c6ff; box-shadow: inset 0 -2px 0 #6d91ca; }
+.key.black.is-held { background: #507ab7; box-shadow: inset 0 -2px 0 #2d4264; }
+.key kbd { color: inherit; font-size: 11px; }
+.key span { font-size: 10px; }
+.key:disabled { opacity: .7; }
+.keyboard-footer { color: #a5b2cc; font-size: 11px; margin-top: 18px; flex-wrap: wrap; }
+#error { border: 1px solid #9b5663; border-radius: 8px; padding: 14px; background: #3c2632; color: #ffd3d9; overflow-wrap: anywhere; }
+footer { font-size: 11px; color: #8795af; }
+@media (max-width: 850px) { main { padding: 24px 18px; } .panel { padding: 18px; } header { gap: 12px; } .engine-state { flex-direction: column; gap: 8px; align-items: end; } .sound-controls { gap: 18px; grid-template-columns: 1.6fr 1fr 1fr; } .performance-controls { gap: 12px; } .bend-control { width: 140px; } footer { flex-wrap: wrap; } }

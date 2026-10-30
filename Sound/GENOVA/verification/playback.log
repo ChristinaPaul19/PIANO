@@ -1,0 +1,984 @@
+﻿fluidsynth: debug: SF Version: 2.1
+fluidsynth: debug: INFO chunk isng (10 bytes) -> E-mu 10K2
+fluidsynth: debug: INFO chunk INAM (26 bytes) -> GeneralUser GS 2.0.3 BETA
+fluidsynth: debug: INFO chunk ICRD (34 bytes) -> Tuesday 15 October 2024, 09:47:28
+fluidsynth: debug: INFO chunk IENG (22 bytes) -> S. Christian Collins
+fluidsynth: debug: INFO chunk ICOP (34 bytes) -> 1997-2025 by S. Christian Collins
+fluidsynth: debug: INFO chunk ICMT (2238 bytes) -> ***     License v2.0    ***
+
+** License of the complete work **
+You may use GeneralUser GS without restriction for your own music creation, private or commercial. This SoundFont bank is provided to the community free of charge. Please feel free to use it in your software projects, and to modify the SoundFont bank or its packaging to suit your needs.
+
+** License of contained samples **
+GeneralUser GS inherits the usage rights of the samples contained within, all of which allow full use in music production, including the ability to make profit from musical recordings created with GeneralUser GS.
+
+Many of the samples are original, but some were taken from other banks freely (and legally) available on the Internet from various SoundFont websites. Because GeneralUser GS originated as a personal project with no intention for publication, I cannot be 100% sure where all of the samples originated, although I do know that none of them came from commercially published SoundFont packages
+fluidsynth: debug: INFO chunk ISFT (10 bytes) -> Polyphone
+fluidsynth: debug: Discovering sample 'overtones 11', src_start 16046688, loop_start 16046738, loop_end 16046770, src_end 16046784
+fluidsynth: debug: Discovering sample 'Xylophone-G#4', src_start 16036774, loop_start 16036774, loop_end 16046641, src_end 16046641
+fluidsynth: debug: Discovering sample 'Xylophone-E5', src_start 16026631, loop_start 16026631, loop_end 16036728, src_end 16036727
+fluidsynth: debug: Discovering sample 'Xylophone-E4', src_start 16016790, loop_start 16016790, loop_end 16026585, src_end 16026584
+fluidsynth: debug: Discovering sample 'Xylophone-C7', src_start 16015415, loop_start 16015423, loop_end 16016718, src_end 16016743
+fluidsynth: debug: Discovering sample 'XyloE4Looped', src_start 16014390, loop_start 16014397, loop_end 16015366, src_end 16015368
+fluidsynth: debug: Discovering sample 'Wood Block Med', src_start 16012546, loop_start 16012549, loop_end 16014337, src_end 16014343
+fluidsynth: debug: Discovering sample 'Wood Block Hard', src_start 16007157, loop_start 16007165, loop_end 16012492, src_end 16012499
+fluidsynth: debug: Discovering sample 'Windchimes', src_start 15983986, loop_start 15983996, loop_end 16007104, src_end 16007110
+fluidsynth: debug: Discovering sample 'WhiteNoiseWave', src_start 15975647, loop_start 15975654, loop_end 15983936, src_end 15983939
+fluidsynth: debug: Discovering sample 'Whistle-E4', src_start 15963386, loop_start 15970417, loop_end 15975589, src_end 15975600
+fluidsynth: debug: Discovering sample 'Whistle-D5', src_start 15957752, loop_start 15960533, loop_end 15963330, src_end 15963339
+fluidsynth: debug: Discovering sample 'Whistle-B4', src_start 15949152, loop_start 15953158, loop_end 15957697, src_end 15957705
+fluidsynth: debug: Discovering sample 'Whistle-A5', src_start 15944941, loop_start 15946656, loop_end 15949095, src_end 15949105
+fluidsynth: debug: Discovering sample 'Whistle-A4', src_start 15935625, loop_start 15939968, loop_end 15944854, src_end 15944894
+fluidsynth: debug: Discovering sample 'Whistle Short', src_start 15931522, loop_start 15931530, loop_end 15935571, src_end 15935578
+fluidsynth: debug: Discovering sample 'Whistle Long', src_start 15914788, loop_start 15914796, loop_end 15931468, src_end 15931475
+fluidsynth: debug: Discovering sample 'Wave_Triangle-123', src_start 15914692, loop_start 15914719, loop_end 15914734, src_end 15914741
+fluidsynth: debug: Discovering sample 'Wave_Triangle-117', src_start 15914566, loop_start 15914613, loop_end 15914638, src_end 15914645
+fluidsynth: debug: Discovering sample 'Wave_Triangle-111', src_start 15914457, loop_start 15914492, loop_end 15914512, src_end 15914519
+fluidsynth: debug: Discovering sample 'Wave_Triangle-105', src_start 15914335, loop_start 15914378, loop_end 15914403, src_end 15914410
+fluidsynth: debug: Discovering sample 'Wave_Triangle-099', src_start 15914232, loop_start 15914261, loop_end 15914281, src_end 15914288
+fluidsynth: debug: Discovering sample 'Wave_Triangle-093', src_start 15914116, loop_start 15914153, loop_end 15914178, src_end 15914185
+fluidsynth: debug: Discovering sample 'Wave_Triangle-087', src_start 15913962, loop_start 15914022, loop_end 15914062, src_end 15914069
+fluidsynth: debug: Discovering sample 'Wave_Triangle-081', src_start 15913783, loop_start 15913858, loop_end 15913908, src_end 15913915
+fluidsynth: debug: Discovering sample 'Wave_Triangle-075', src_start 15913530, loop_start 15913649, loop_end 15913729, src_end 15913736
+fluidsynth: debug: Discovering sample 'Wave_Triangle-069', src_start 15913227, loop_start 15913376, loop_end 15913476, src_end 15913483
+fluidsynth: debug: Discovering sample 'Wave_Triangle-063', src_start 15912774, loop_start 15913013, loop_end 15913173, src_end 15913180
+fluidsynth: debug: Discovering sample 'Wave_Triangle-057', src_start 15912221, loop_start 15912520, loop_end 15912720, src_end 15912727
+fluidsynth: debug: Discovering sample 'Wave_Triangle-051', src_start 15911369, loop_start 15911847, loop_end 15912167, src_end 15912174
+fluidsynth: debug: Discovering sample 'Wave_Triangle-045', src_start 15910318, loop_start 15910915, loop_end 15911315, src_end 15911322
+fluidsynth: debug: Discovering sample 'Wave_Triangle-039', src_start 15908669, loop_start 15909624, loop_end 15910264, src_end 15910271
+fluidsynth: debug: Discovering sample 'Wave_Triangle-033', src_start 15906621, loop_start 15907815, loop_end 15908615, src_end 15908622
+fluidsynth: debug: Discovering sample 'Wave_Saw-123', src_start 15906523, loop_start 15906551, loop_end 15906566, src_end 15906574
+fluidsynth: debug: Discovering sample 'Wave_Saw-117', src_start 15906397, loop_start 15906444, loop_end 15906469, src_end 15906476
+fluidsynth: debug: Discovering sample 'Wave_Saw-111', src_start 15906287, loop_start 15906322, loop_end 15906342, src_end 15906350
+fluidsynth: debug: Discovering sample 'Wave_Saw-105', src_start 15906163, loop_start 15906207, loop_end 15906232, src_end 15906240
+fluidsynth: debug: Discovering sample 'Wave_Saw-099', src_start 15906057, loop_start 15906088, loop_end 15906108, src_end 15906116
+fluidsynth: debug: Discovering sample 'Wave_Saw-093', src_start 15905941, loop_start 15905978, loop_end 15906003, src_end 15906010
+fluidsynth: debug: Discovering sample 'Wave_Saw-087', src_start 15905787, loop_start 15905847, loop_end 15905887, src_end 15905894
+fluidsynth: debug: Discovering sample 'Wave_Saw-081', src_start 15905607, loop_start 15905683, loop_end 15905733, src_end 15905740
+fluidsynth: debug: Discovering sample 'Wave_Saw-075', src_start 15905351, loop_start 15905472, loop_end 15905552, src_end 15905560
+fluidsynth: debug: Discovering sample 'Wave_Saw-069', src_start 15905045, loop_start 15905196, loop_end 15905296, src_end 15905304
+fluidsynth: debug: Discovering sample 'Wave_Saw-063', src_start 15904591, loop_start 15904831, loop_end 15904991, src_end 15904998
+fluidsynth: debug: Discovering sample 'Wave_Saw-057', src_start 15904037, loop_start 15904337, loop_end 15904537, src_end 15904544
+fluidsynth: debug: Discovering sample 'Wave_Saw-051', src_start 15903183, loop_start 15903663, loop_end 15903983, src_end 15903990
+fluidsynth: debug: Discovering sample 'Wave_Saw-045', src_start 15902127, loop_start 15902728, loop_end 15903128, src_end 15903136
+fluidsynth: debug: Discovering sample 'Wave_Saw-039', src_start 15900473, loop_start 15901433, loop_end 15902073, src_end 15902080
+fluidsynth: debug: Discovering sample 'Wave_Saw-033', src_start 15898419, loop_start 15899619, loop_end 15900419, src_end 15900426
+fluidsynth: debug: Discovering sample 'Wave_Ramp-123', src_start 15898322, loop_start 15898350, loop_end 15898365, src_end 15898372
+fluidsynth: debug: Discovering sample 'Wave_Ramp-117', src_start 15898196, loop_start 15898243, loop_end 15898268, src_end 15898275
+fluidsynth: debug: Discovering sample 'Wave_Ramp-111', src_start 15898087, loop_start 15898122, loop_end 15898142, src_end 15898149
+fluidsynth: debug: Discovering sample 'Wave_Ramp-105', src_start 15897964, loop_start 15898008, loop_end 15898033, src_end 15898040
+fluidsynth: debug: Discovering sample 'Wave_Ramp-099', src_start 15897859, loop_start 15897890, loop_end 15897910, src_end 15897917
+fluidsynth: debug: Discovering sample 'Wave_Ramp-093', src_start 15897743, loop_start 15897780, loop_end 15897805, src_end 15897812
+fluidsynth: debug: Discovering sample 'Wave_Ramp-087', src_start 15897589, loop_start 15897649, loop_end 15897689, src_end 15897696
+fluidsynth: debug: Discovering sample 'Wave_Ramp-081', src_start 15897409, loop_start 15897485, loop_end 15897535, src_end 15897542
+fluidsynth: debug: Discovering sample 'Wave_Ramp-075', src_start 15897153, loop_start 15897274, loop_end 15897354, src_end 15897362
+fluidsynth: debug: Discovering sample 'Wave_Ramp-069', src_start 15896847, loop_start 15896998, loop_end 15897098, src_end 15897106
+fluidsynth: debug: Discovering sample 'Wave_Ramp-063', src_start 15896393, loop_start 15896633, loop_end 15896793, src_end 15896800
+fluidsynth: debug: Discovering sample 'Wave_Ramp-057', src_start 15895839, loop_start 15896139, loop_end 15896339, src_end 15896346
+fluidsynth: debug: Discovering sample 'Wave_Ramp-051', src_start 15894985, loop_start 15895465, loop_end 15895785, src_end 15895792
+fluidsynth: debug: Discovering sample 'Wave_Ramp-045', src_start 15893929, loop_start 15894530, loop_end 15894930, src_end 15894938
+fluidsynth: debug: Discovering sample 'Wave_Ramp-039', src_start 15892275, loop_start 15893235, loop_end 15893875, src_end 15893882
+fluidsynth: debug: Discovering sample 'Wave_Ramp-033', src_start 15890221, loop_start 15891421, loop_end 15892221, src_end 15892228
+fluidsynth: debug: Discovering sample 'Wave_Pulse5000-123', src_start 15890124, loop_start 15890152, loop_end 15890167, src_end 15890174
+fluidsynth: debug: Discovering sample 'Wave_Pulse5000-117', src_start 15889998, loop_start 15890045, loop_end 15890070, src_end 15890077
+fluidsynth: debug: Discovering sample 'Wave_Pulse5000-111', src_start 15889889, loop_start 15889924, loop_end 15889944, src_end 15889951
+fluidsynth: debug: Discovering sample 'Wave_Pulse5000-105', src_start 15889767, loop_start 15889810, loop_end 15889835, src_end 15889842
+fluidsynth: debug: Discovering sample 'Wave_Pulse5000-099', src_start 15889662, loop_start 15889693, loop_end 15889713, src_end 15889720
+fluidsynth: debug: Discovering sample 'Wave_Pulse5000-093', src_start 15889545, loop_start 15889583, loop_end 15889608, src_end 15889615
+fluidsynth: debug: Discovering sample 'Wave_Pulse5000-087', src_start 15889391, loop_start 15889451, loop_end 15889491, src_end 15889498
+fluidsynth: debug: Discovering sample 'Wave_Pulse5000-081', src_start 15889211, loop_start 15889286, loop_end 15889336, src_end 15889344
+fluidsynth: debug: Discovering sample 'Wave_Pulse5000-075', src_start 15888957, loop_start 15889077, loop_end 15889157, src_end 15889164
+fluidsynth: debug: Discovering sample 'Wave_Pulse5000-069', src_start 15888653, loop_start 15888803, loop_end 15888903, src_end 15888910
+fluidsynth: debug: Discovering sample 'Wave_Pulse5000-063', src_start 15888199, loop_start 15888439, loop_end 15888599, src_end 15888606
+fluidsynth: debug: Discovering sample 'Wave_Pulse5000-057', src_start 15887645, loop_start 15887945, loop_end 15888145, src_end 15888152
+fluidsynth: debug: Discovering sample 'Wave_Pulse5000-051', src_start 15886791, loop_start 15887271, loop_end 15887591, src_end 15887598
+fluidsynth: debug: Discovering sample 'Wave_Pulse5000-045', src_start 15885737, loop_start 15886337, loop_end 15886737, src_end 15886744
+fluidsynth: debug: Discovering sample 'Wave_Pulse5000-039', src_start 15884083, loop_start 15885043, loop_end 15885683, src_end 15885690
+fluidsynth: debug: Discovering sample 'Wave_Pulse5000-033', src_start 15882029, loop_start 15883229, loop_end 15884029, src_end 15884036
+fluidsynth: debug: Discovering sample 'Wave_Pulse4375-123', src_start 15881933, loop_start 15881958, loop_end 15881973, src_end 15881982
+fluidsynth: debug: Discovering sample 'Wave_Pulse4375-117', src_start 15881809, loop_start 15881853, loop_end 15881878, src_end 15881886
+fluidsynth: debug: Discovering sample 'Wave_Pulse4375-111', src_start 15881703, loop_start 15881733, loop_end 15881753, src_end 15881762
+fluidsynth: debug: Discovering sample 'Wave_Pulse4375-105', src_start 15881585, loop_start 15881623, loop_end 15881648, src_end 15881656
+fluidsynth: debug: Discovering sample 'Wave_Pulse4375-099', src_start 15881491, loop_start 15881511, loop_end 15881531, src_end 15881538
+fluidsynth: debug: Discovering sample 'Wave_Pulse4375-093', src_start 15881385, loop_start 15881411, loop_end 15881436, src_end 15881444
+fluidsynth: debug: Discovering sample 'Wave_Pulse4375-087', src_start 15881251, loop_start 15881291, loop_end 15881331, src_end 15881338
+fluidsynth: debug: Discovering sample 'Wave_Pulse4375-081', src_start 15881095, loop_start 15881145, loop_end 15881195, src_end 15881204
+fluidsynth: debug: Discovering sample 'Wave_Pulse4375-075', src_start 15880879, loop_start 15880959, loop_end 15881039, src_end 15881048
+fluidsynth: debug: Discovering sample 'Wave_Pulse4375-069', src_start 15880623, loop_start 15880723, loop_end 15880823, src_end 15880832
+fluidsynth: debug: Discovering sample 'Wave_Pulse4375-063', src_start 15880247, loop_start 15880407, loop_end 15880567, src_end 15880576
+fluidsynth: debug: Discovering sample 'Wave_Pulse4375-057', src_start 15879791, loop_start 15879992, loop_end 15880192, src_end 15880200
+fluidsynth: debug: Discovering sample 'Wave_Pulse4375-051', src_start 15879097, loop_start 15879417, loop_end 15879737, src_end 15879744
+fluidsynth: debug: Discovering sample 'Wave_Pulse4375-045', src_start 15878243, loop_start 15878643, loop_end 15879043, src_end 15879050
+fluidsynth: debug: Discovering sample 'Wave_Pulse4375-039', src_start 15876909, loop_start 15877549, loop_end 15878189, src_end 15878196
+fluidsynth: debug: Discovering sample 'Wave_Pulse4375-033', src_start 15875253, loop_start 15876053, loop_end 15876853, src_end 15876862
+fluidsynth: debug: Discovering sample 'Wave_Pulse3750-123', src_start 15875157, loop_start 15875183, loop_end 15875198, src_end 15875206
+fluidsynth: debug: Discovering sample 'Wave_Pulse3750-117', src_start 15875033, loop_start 15875077, loop_end 15875102, src_end 15875110
+fluidsynth: debug: Discovering sample 'Wave_Pulse3750-111', src_start 15874927, loop_start 15874958, loop_end 15874978, src_end 15874986
+fluidsynth: debug: Discovering sample 'Wave_Pulse3750-105', src_start 15874809, loop_start 15874847, loop_end 15874872, src_end 15874880
+fluidsynth: debug: Discovering sample 'Wave_Pulse3750-099', src_start 15874715, loop_start 15874735, loop_end 15874755, src_end 15874762
+fluidsynth: debug: Discovering sample 'Wave_Pulse3750-093', src_start 15874609, loop_start 15874635, loop_end 15874660, src_end 15874668
+fluidsynth: debug: Discovering sample 'Wave_Pulse3750-087', src_start 15874473, loop_start 15874514, loop_end 15874554, src_end 15874562
+fluidsynth: debug: Discovering sample 'Wave_Pulse3750-081', src_start 15874317, loop_start 15874368, loop_end 15874418, src_end 15874426
+fluidsynth: debug: Discovering sample 'Wave_Pulse3750-075', src_start 15874101, loop_start 15874182, loop_end 15874262, src_end 15874270
+fluidsynth: debug: Discovering sample 'Wave_Pulse3750-069', src_start 15873845, loop_start 15873946, loop_end 15874046, src_end 15874054
+fluidsynth: debug: Discovering sample 'Wave_Pulse3750-063', src_start 15873469, loop_start 15873630, loop_end 15873790, src_end 15873798
+fluidsynth: debug: Discovering sample 'Wave_Pulse3750-057', src_start 15873013, loop_start 15873214, loop_end 15873414, src_end 15873422
+fluidsynth: debug: Discovering sample 'Wave_Pulse3750-051', src_start 15872319, loop_start 15872639, loop_end 15872959, src_end 15872966
+fluidsynth: debug: Discovering sample 'Wave_Pulse3750-045', src_start 15871465, loop_start 15871865, loop_end 15872265, src_end 15872272
+fluidsynth: debug: Discovering sample 'Wave_Pulse3750-039', src_start 15870129, loop_start 15870769, loop_end 15871409, src_end 15871418
+fluidsynth: debug: Discovering sample 'Wave_Pulse3750-033', src_start 15868473, loop_start 15869273, loop_end 15870073, src_end 15870082
+fluidsynth: debug: Discovering sample 'Wave_Noise_White', src_start 15751004, loop_start 15751090, loop_end 15868394, src_end 15868426
+fluidsynth: debug: Discovering sample 'Voice Oohs-G3', src_start 15738701, loop_start 15743297, loop_end 15750950, src_end 15750957
+fluidsynth: debug: Discovering sample 'Voice Oohs-G2', src_start 15722659, loop_start 15730937, loop_end 15738647, src_end 15738654
+fluidsynth: debug: Discovering sample 'Voice Oohs-Eb4', src_start 15709830, loop_start 15714233, loop_end 15722605, src_end 15722612
+fluidsynth: debug: Discovering sample 'Voice Oohs-Eb3', src_start 15696475, loop_start 15702136, loop_end 15709776, src_end 15709783
+fluidsynth: debug: Discovering sample 'Voice Oohs-C6', src_start 15692629, loop_start 15693945, loop_end 15696421, src_end 15696428
+fluidsynth: debug: Discovering sample 'Voice Oohs-B4', src_start 15680539, loop_start 15685863, loop_end 15692575, src_end 15692582
+fluidsynth: debug: Discovering sample 'Voice Oohs-B2', src_start 15668971, loop_start 15673705, loop_end 15680485, src_end 15680492
+fluidsynth: debug: Discovering sample 'Voice Loop-F4', src_start 15659419, loop_start 15659425, loop_end 15668917, src_end 15668924
+fluidsynth: debug: Discovering sample 'Voice Loop-Db3', src_start 15652185, loop_start 15652281, loop_end 15659365, src_end 15659372
+fluidsynth: debug: Discovering sample 'Voice Loop-C5', src_start 15640708, loop_start 15640731, loop_end 15652131, src_end 15652138
+fluidsynth: debug: Discovering sample 'Voice Loop-A3', src_start 15633680, loop_start 15633684, loop_end 15640654, src_end 15640661
+fluidsynth: debug: Discovering sample 'VlnStrike-G6', src_start 15626904, loop_start 15626912, loop_end 15633626, src_end 15633633
+fluidsynth: debug: Discovering sample 'VlnStrike-E6', src_start 15620401, loop_start 15620409, loop_end 15626850, src_end 15626857
+fluidsynth: debug: Discovering sample 'VlnStrike-E5', src_start 15613297, loop_start 15613305, loop_end 15620347, src_end 15620354
+fluidsynth: debug: Discovering sample 'VlnStrike-D4', src_start 15604237, loop_start 15604245, loop_end 15613243, src_end 15613250
+fluidsynth: debug: Discovering sample 'VlnStrike-C6', src_start 15597171, loop_start 15597179, loop_end 15604183, src_end 15604190
+fluidsynth: debug: Discovering sample 'VlnStrike-A5', src_start 15590715, loop_start 15590723, loop_end 15597117, src_end 15597124
+fluidsynth: debug: Discovering sample 'VlnStrike-A4', src_start 15580912, loop_start 15580920, loop_end 15590661, src_end 15590668
+fluidsynth: debug: Discovering sample 'VlnStrike-A3', src_start 15573822, loop_start 15573830, loop_end 15580858, src_end 15580865
+fluidsynth: debug: Discovering sample 'Violin-F5', src_start 15538213, loop_start 15560821, loop_end 15573771, src_end 15573775
+fluidsynth: debug: Discovering sample 'Violin-F#6', src_start 15497494, loop_start 15526122, loop_end 15538163, src_end 15538166
+fluidsynth: debug: Discovering sample 'Violin-F#5', src_start 15460184, loop_start 15483076, loop_end 15497444, src_end 15497447
+fluidsynth: debug: Discovering sample 'Violin-F#4', src_start 15423817, loop_start 15444105, loop_end 15459084, src_end 15460137
+fluidsynth: debug: Discovering sample 'Violin-D#6', src_start 15389728, loop_start 15410306, loop_end 15423767, src_end 15423770
+fluidsynth: debug: Discovering sample 'Violin-D#4', src_start 15353315, loop_start 15374733, loop_end 15389660, src_end 15389681
+fluidsynth: debug: Discovering sample 'Violin-C#5', src_start 15317934, loop_start 15332743, loop_end 15347742, src_end 15353268
+fluidsynth: debug: Discovering sample 'Violin-B5', src_start 15280353, loop_start 15304201, loop_end 15317885, src_end 15317887
+fluidsynth: debug: Discovering sample 'Violin-B3', src_start 15240763, loop_start 15264685, loop_end 15280305, src_end 15280306
+fluidsynth: debug: Discovering sample 'Violin-A3', src_start 15204119, loop_start 15227060, loop_end 15240715, src_end 15240716
+fluidsynth: debug: Discovering sample 'Violin-A#4', src_start 15165944, loop_start 15189479, loop_end 15204067, src_end 15204072
+fluidsynth: debug: Discovering sample 'Viola-86', src_start 15133924, loop_start 15160027, loop_end 15165866, src_end 15165897
+fluidsynth: debug: Discovering sample 'Viola-83', src_start 15103808, loop_start 15128336, loop_end 15133846, src_end 15133877
+fluidsynth: debug: Discovering sample 'Viola-82', src_start 15074987, loop_start 15098968, loop_end 15103754, src_end 15103761
+fluidsynth: debug: Discovering sample 'Viola-77', src_start 15047848, loop_start 15069610, loop_end 15074933, src_end 15074940
+fluidsynth: debug: Discovering sample 'Viola-74', src_start 15018013, loop_start 15043174, loop_end 15047770, src_end 15047801
+fluidsynth: debug: Discovering sample 'Viola-72', src_start 14987795, loop_start 15013296, loop_end 15017935, src_end 15017966
+fluidsynth: debug: Discovering sample 'Viola-68', src_start 14958084, loop_start 14982372, loop_end 14987717, src_end 14987748
+fluidsynth: debug: Discovering sample 'Viola-64', src_start 14928770, loop_start 14952530, loop_end 14958006, src_end 14958037
+fluidsynth: debug: Discovering sample 'Viola-60', src_start 14899346, loop_start 14923427, loop_end 14928692, src_end 14928723
+fluidsynth: debug: Discovering sample 'Viola-57', src_start 14865721, loop_start 14893465, loop_end 14899268, src_end 14899299
+fluidsynth: debug: Discovering sample 'Viola-54', src_start 14836133, loop_start 14855111, loop_end 14865667, src_end 14865674
+fluidsynth: debug: Discovering sample 'Viola-51', src_start 14808854, loop_start 14830824, loop_end 14836055, src_end 14836086
+fluidsynth: debug: Discovering sample 'Viola-49', src_start 14779147, loop_start 14803142, loop_end 14808776, src_end 14808807
+fluidsynth: debug: Discovering sample 'Vibraphone-F3', src_start 14771087, loop_start 14777715, loop_end 14779069, src_end 14779100
+fluidsynth: debug: Discovering sample 'Vibraphone-D4', src_start 14763328, loop_start 14770204, loop_end 14771009, src_end 14771040
+fluidsynth: debug: Discovering sample 'Vibraphone-C6', src_start 14757991, loop_start 14761881, loop_end 14763250, src_end 14763281
+fluidsynth: debug: Discovering sample 'Vibraphone-B6', src_start 14746656, loop_start 14757284, loop_end 14757913, src_end 14757944
+fluidsynth: debug: Discovering sample 'Vibraphone-A#4', src_start 14740617, loop_start 14745881, loop_end 14746578, src_end 14746609
+fluidsynth: debug: Discovering sample 'Vibraphone-A#2', src_start 14726828, loop_start 14738511, loop_end 14740539, src_end 14740570
+fluidsynth: debug: Discovering sample 'Vibraloop', src_start 14725995, loop_start 14726004, loop_end 14726778, src_end 14726781
+fluidsynth: debug: Discovering sample 'Vibra Slap', src_start 14671877, loop_start 14671878, loop_end 14725949, src_end 14725948
+fluidsynth: debug: Discovering sample 'VibesE2', src_start 14671050, loop_start 14671746, loop_end 14671827, src_end 14671830
+fluidsynth: debug: Discovering sample 'Tumba Low', src_start 14666205, loop_start 14666206, loop_end 14671004, src_end 14671003
+fluidsynth: debug: Discovering sample 'Tubular Bells-G4', src_start 14609061, loop_start 14649896, loop_end 14666151, src_end 14666158
+fluidsynth: debug: Discovering sample 'Tubular Bells-D5', src_start 14547437, loop_start 14590729, loop_end 14609007, src_end 14609014
+fluidsynth: debug: Discovering sample 'Tubular Bells-C4', src_start 14477004, loop_start 14524395, loop_end 14547383, src_end 14547390
+fluidsynth: debug: Discovering sample 'Tubular Bells-A6', src_start 14444122, loop_start 14468116, loop_end 14476950, src_end 14476957
+fluidsynth: debug: Discovering sample 'Tubular Bells-A5', src_start 14378402, loop_start 14426398, loop_end 14444068, src_end 14444075
+fluidsynth: debug: Discovering sample 'Tuba-F#1', src_start 14373625, loop_start 14378135, loop_end 14378351, src_end 14378355
+fluidsynth: debug: Discovering sample 'Tuba-F#0', src_start 14368516, loop_start 14373142, loop_end 14373574, src_end 14373578
+fluidsynth: debug: Discovering sample 'Tuba-D1', src_start 14362774, loop_start 14368192, loop_end 14368465, src_end 14368469
+fluidsynth: debug: Discovering sample 'Tuba-A#1', src_start 14356864, loop_start 14362551, loop_end 14362723, src_end 14362727
+fluidsynth: debug: Discovering sample 'Trumpet-G5', src_start 14348310, loop_start 14356749, loop_end 14356788, src_end 14356817
+fluidsynth: debug: Discovering sample 'Trumpet-F#6', src_start 14335025, loop_start 14348205, loop_end 14348247, src_end 14348263
+fluidsynth: debug: Discovering sample 'Trumpet-E4', src_start 14324046, loop_start 14334819, loop_end 14334914, src_end 14334978
+fluidsynth: debug: Discovering sample 'Trumpet-D5', src_start 14310600, loop_start 14323934, loop_end 14323987, src_end 14323999
+fluidsynth: debug: Discovering sample 'Trumpet-B5', src_start 14302563, loop_start 14310493, loop_end 14310524, src_end 14310553
+fluidsynth: debug: Discovering sample 'Trumpet-A4', src_start 14295201, loop_start 14302432, loop_end 14302503, src_end 14302516
+fluidsynth: debug: Discovering sample 'Trumpet-A#3', src_start 14284144, loop_start 14294952, loop_end 14295086, src_end 14295154
+fluidsynth: debug: Discovering sample 'Trombone-G3', src_start 14274075, loop_start 14283978, loop_end 14284090, src_end 14284097
+fluidsynth: debug: Discovering sample 'Trombone-E2', src_start 14263328, loop_start 14273717, loop_end 14273984, src_end 14274028
+fluidsynth: debug: Discovering sample 'Trombone-D3', src_start 14254458, loop_start 14263124, loop_end 14263274, src_end 14263281
+fluidsynth: debug: Discovering sample 'Trombone-C4xt', src_start 14252243, loop_start 14254383, loop_end 14254404, src_end 14254411
+fluidsynth: debug: Discovering sample 'Trombone-C4', src_start 14243547, loop_start 14252105, loop_end 14252189, src_end 14252196
+fluidsynth: debug: Discovering sample 'Trombone-C#1', src_start 14227608, loop_start 14242858, loop_end 14243493, src_end 14243500
+fluidsynth: debug: Discovering sample 'Trombone-B1', src_start 14216075, loop_start 14227198, loop_end 14227554, src_end 14227561
+fluidsynth: debug: Discovering sample 'Trombone-A2', src_start 14205771, loop_start 14215821, loop_end 14216021, src_end 14216028
+fluidsynth: debug: Discovering sample 'Triangle', src_start 14203657, loop_start 14203993, loop_end 14205721, src_end 14205724
+fluidsynth: debug: Discovering sample 'Triangle (Perc)', src_start 14201543, loop_start 14201875, loop_end 14203603, src_end 14203610
+fluidsynth: debug: Discovering sample 'Train', src_start 14172751, loop_start 14172764, loop_end 14201490, src_end 14201496
+fluidsynth: debug: Discovering sample 'Timpani Soft', src_start 14147062, loop_start 14166980, loop_end 14172682, src_end 14172704
+fluidsynth: debug: Discovering sample 'Timpani Soft-xt', src_start 14124292, loop_start 14138733, loop_end 14147008, src_end 14147015
+fluidsynth: debug: Discovering sample 'Timpani Hard', src_start 14073515, loop_start 14073518, loop_end 14124239, src_end 14124245
+fluidsynth: debug: Discovering sample 'Timpani Hard-xt', src_start 14060787, loop_start 14060787, loop_end 14073468, src_end 14073468
+fluidsynth: debug: Discovering sample 'Timbale Rim', src_start 14049094, loop_start 14049095, loop_end 14060741, src_end 14060740
+fluidsynth: debug: Discovering sample 'Timbale Low', src_start 14034276, loop_start 14034284, loop_end 14049040, src_end 14049047
+fluidsynth: debug: Discovering sample 'Thunder', src_start 13994866, loop_start 13994873, loop_end 14033921, src_end 14034229
+fluidsynth: debug: Discovering sample 'Tenor Sax-G2', src_start 13984298, loop_start 13994588, loop_end 13994812, src_end 13994819
+fluidsynth: debug: Discovering sample 'Tenor Sax-F3', src_start 13975172, loop_start 13984118, loop_end 13984244, src_end 13984251
+fluidsynth: debug: Discovering sample 'Tenor Sax-Eb4', src_start 13969475, loop_start 13975048, loop_end 13975118, src_end 13975125
+fluidsynth: debug: Discovering sample 'Tenor Sax-E2', src_start 13959182, loop_start 13969154, loop_end 13969421, src_end 13969428
+fluidsynth: debug: Discovering sample 'Tenor Sax-D3', src_start 13952238, loop_start 13958978, loop_end 13959128, src_end 13959135
+fluidsynth: debug: Discovering sample 'Tenor Sax-C4', src_start 13945903, loop_start 13952100, loop_end 13952184, src_end 13952191
+fluidsynth: debug: Discovering sample 'Tenor Sax-C2', src_start 13940393, loop_start 13945608, loop_end 13945847, src_end 13945856
+fluidsynth: debug: Discovering sample 'Tenor Sax-Bb2', src_start 13937263, loop_start 13940150, loop_end 13940339, src_end 13940346
+fluidsynth: debug: Discovering sample 'Telephone 2', src_start 13934032, loop_start 13935112, loop_end 13937207, src_end 13937216
+fluidsynth: debug: Discovering sample 'Techno Bass', src_start 13928134, loop_start 13931366, loop_end 13931641, src_end 13933985
+fluidsynth: debug: Discovering sample 'Tambourine', src_start 13921388, loop_start 13923250, loop_end 13928080, src_end 13928087
+fluidsynth: debug: Discovering sample 'Taiko Drum', src_start 13909489, loop_start 13918960, loop_end 13921334, src_end 13921341
+fluidsynth: debug: Discovering sample 'TR-909 Snare 2', src_start 13896611, loop_start 13896619, loop_end 13909435, src_end 13909442
+fluidsynth: debug: Discovering sample 'TR-909 Snare 1', src_start 13888726, loop_start 13888734, loop_end 13896557, src_end 13896564
+fluidsynth: debug: Discovering sample 'TR-909 Scratch Push', src_start 13884378, loop_start 13884386, loop_end 13888672, src_end 13888679
+fluidsynth: debug: Discovering sample 'TR-909 Scratch Pull', src_start 13879870, loop_start 13879878, loop_end 13884324, src_end 13884331
+fluidsynth: debug: Discovering sample 'TR-909 Kick', src_start 13874080, loop_start 13874081, loop_end 13879824, src_end 13879823
+fluidsynth: debug: Discovering sample 'TR-808 Snare', src_start 13867038, loop_start 13867046, loop_end 13874026, src_end 13874033
+fluidsynth: debug: Discovering sample 'TR-808 Kick', src_start 13859901, loop_start 13865245, loop_end 13866929, src_end 13866991
+fluidsynth: debug: Discovering sample 'TR-808 Hat 3', src_start 13832063, loop_start 13832071, loop_end 13859847, src_end 13859854
+fluidsynth: debug: Discovering sample 'TR-808 Hat 2', src_start 13829093, loop_start 13829101, loop_end 13832009, src_end 13832016
+fluidsynth: debug: Discovering sample 'TR-808 Hat 1', src_start 13825913, loop_start 13825921, loop_end 13829039, src_end 13829046
+fluidsynth: debug: Discovering sample 'TR-808 Cymbal', src_start 13783761, loop_start 13783769, loop_end 13825859, src_end 13825866
+fluidsynth: debug: Discovering sample 'TR-808 Cowbell', src_start 13782727, loop_start 13783563, loop_end 13783707, src_end 13783714
+fluidsynth: debug: Discovering sample 'TR-808 Click', src_start 13781879, loop_start 13781882, loop_end 13782674, src_end 13782680
+fluidsynth: debug: Discovering sample 'TR-808 Clap', src_start 13777160, loop_start 13777168, loop_end 13781825, src_end 13781832
+fluidsynth: debug: Discovering sample 'TBellD4Wave', src_start 13771698, loop_start 13776527, loop_end 13777110, src_end 13777113
+fluidsynth: debug: Discovering sample 'SynthStringsC4', src_start 13761686, loop_start 13762958, loop_end 13771648, src_end 13771651
+fluidsynth: debug: Discovering sample 'SynthBassLoop', src_start 13761200, loop_start 13761209, loop_end 13761636, src_end 13761639
+fluidsynth: debug: Discovering sample 'Synth Vox Oohs-F#3', src_start 13746400, loop_start 13746467, loop_end 13761146, src_end 13761153
+fluidsynth: debug: Discovering sample 'Synth Vox Oohs-C4', src_start 13723373, loop_start 13723387, loop_end 13746346, src_end 13746353
+fluidsynth: debug: Discovering sample 'Synth Vox Oohs-C3', src_start 13712179, loop_start 13712241, loop_end 13723319, src_end 13723326
+fluidsynth: debug: Discovering sample 'Synth Vox Aahs-G4', src_start 13681818, loop_start 13694341, loop_end 13712085, src_end 13712132
+fluidsynth: debug: Discovering sample 'Synth Vox Aahs-G3', src_start 13640560, loop_start 13645151, loop_end 13681703, src_end 13681771
+fluidsynth: debug: Discovering sample 'Synth Vox Aahs-C#5', src_start 13604496, loop_start 13618381, loop_end 13640472, src_end 13640513
+fluidsynth: debug: Discovering sample 'Synth Vox Aahs-C#4', src_start 13577892, loop_start 13592117, loop_end 13604419, src_end 13604449
+fluidsynth: debug: Discovering sample 'Synth Vox Aahs-B5', src_start 13556526, loop_start 13563199, loop_end 13577837, src_end 13577845
+fluidsynth: debug: Discovering sample 'Synth Vox Aahs-A#3', src_start 13514166, loop_start 13521990, loop_end 13556420, src_end 13556479
+fluidsynth: debug: Discovering sample 'Synth Strings 2-C5', src_start 13491185, loop_start 13491190, loop_end 13514112, src_end 13514119
+fluidsynth: debug: Discovering sample 'Synth Strings 2-C4', src_start 13465489, loop_start 13465494, loop_end 13491131, src_end 13491138
+fluidsynth: debug: Discovering sample 'Synth Strings 2-C3', src_start 13445619, loop_start 13445624, loop_end 13465435, src_end 13465442
+fluidsynth: debug: Discovering sample 'Synth Strings 2-C2', src_start 13426464, loop_start 13426469, loop_end 13445564, src_end 13445572
+fluidsynth: debug: Discovering sample 'Synth Strings 1-C63', src_start 13419476, loop_start 13419642, loop_end 13426410, src_end 13426417
+fluidsynth: debug: Discovering sample 'Synth Strings 1-C62', src_start 13405554, loop_start 13405885, loop_end 13419422, src_end 13419429
+fluidsynth: debug: Discovering sample 'Synth Strings 1-C6', src_start 13377764, loop_start 13378427, loop_end 13405500, src_end 13405507
+fluidsynth: debug: Discovering sample 'Synth Strings 1-C42', src_start 13351474, loop_start 13353280, loop_end 13377303, src_end 13377717
+fluidsynth: debug: Discovering sample 'Synth Strings 1-C4', src_start 13298943, loop_start 13302555, loop_end 13350601, src_end 13351427
+fluidsynth: debug: Discovering sample 'Synth Hand Clap', src_start 13286513, loop_start 13286521, loop_end 13298889, src_end 13298896
+fluidsynth: debug: Discovering sample 'Synth Bell-3a', src_start 13273837, loop_start 13274097, loop_end 13286459, src_end 13286466
+fluidsynth: debug: Discovering sample 'Synth Bell-3', src_start 13261419, loop_start 13261584, loop_end 13273783, src_end 13273790
+fluidsynth: debug: Discovering sample 'Synth Bell-2a', src_start 13236121, loop_start 13236641, loop_end 13261365, src_end 13261372
+fluidsynth: debug: Discovering sample 'Synth Bell-2', src_start 13211278, loop_start 13211343, loop_end 13236067, src_end 13236074
+fluidsynth: debug: Discovering sample 'Synth Bell-1a', src_start 13185891, loop_start 13186495, loop_end 13211224, src_end 13211231
+fluidsynth: debug: Discovering sample 'Synth Bell-1', src_start 13160977, loop_start 13161108, loop_end 13185837, src_end 13185844
+fluidsynth: debug: Discovering sample 'Synth Bass 2-F2', src_start 13147576, loop_start 13160042, loop_end 13160899, src_end 13160930
+fluidsynth: debug: Discovering sample 'Synth Bass 2-F1', src_start 13124826, loop_start 13145206, loop_end 13147498, src_end 13147529
+fluidsynth: debug: Discovering sample 'Synth Bass 2-B1', src_start 13100628, loop_start 13123128, loop_end 13124748, src_end 13124779
+fluidsynth: debug: Discovering sample 'Surdo Open', src_start 13027554, loop_start 13027562, loop_end 13100574, src_end 13100581
+fluidsynth: debug: Discovering sample 'Surdo Muted', src_start 13018148, loop_start 13018156, loop_end 13027500, src_end 13027507
+fluidsynth: debug: Discovering sample 'Stream', src_start 12947319, loop_start 12947327, loop_end 13018094, src_end 13018101
+fluidsynth: debug: Discovering sample 'StrLoop - F#5', src_start 12895641, loop_start 12910101, loop_end 12947273, src_end 12947272
+fluidsynth: debug: Discovering sample 'StrLoop - F#4', src_start 12849506, loop_start 12865137, loop_end 12895594, src_end 12895594
+fluidsynth: debug: Discovering sample 'StrLoop - F#3', src_start 12796781, loop_start 12812407, loop_end 12849457, src_end 12849459
+fluidsynth: debug: Discovering sample 'StrLoop - F#2', src_start 12750888, loop_start 12760900, loop_end 12795667, src_end 12796734
+fluidsynth: debug: Discovering sample 'StrLoop - F#1', src_start 12674667, loop_start 12693995, loop_end 12750834, src_end 12750841
+fluidsynth: debug: Discovering sample 'StrLoop - D#5', src_start 12626851, loop_start 12640267, loop_end 12674621, src_end 12674620
+fluidsynth: debug: Discovering sample 'StrLoop - D#4', src_start 12578823, loop_start 12594649, loop_end 12626803, src_end 12626804
+fluidsynth: debug: Discovering sample 'StrLoop - D#3', src_start 12522570, loop_start 12541578, loop_end 12578773, src_end 12578776
+fluidsynth: debug: Discovering sample 'StrLoop - D#2', src_start 12458280, loop_start 12473563, loop_end 12522523, src_end 12522523
+fluidsynth: debug: Discovering sample 'StrLoop - D#1', src_start 12385012, loop_start 12405681, loop_end 12458231, src_end 12458233
+fluidsynth: debug: Discovering sample 'StrLoop - C6', src_start 12322947, loop_start 12338232, loop_end 12384960, src_end 12384965
+fluidsynth: debug: Discovering sample 'StrLoop - C5', src_start 12267366, loop_start 12284769, loop_end 12322899, src_end 12322900
+fluidsynth: debug: Discovering sample 'StrLoop - C4', src_start 12214718, loop_start 12230812, loop_end 12267319, src_end 12267319
+fluidsynth: debug: Discovering sample 'StrLoop - C3', src_start 12158009, loop_start 12176910, loop_end 12214670, src_end 12214671
+fluidsynth: debug: Discovering sample 'StrLoop - C2', src_start 12068501, loop_start 12086644, loop_end 12157961, src_end 12157962
+fluidsynth: debug: Discovering sample 'StrLoop - C1', src_start 11999840, loop_start 12019616, loop_end 12068453, src_end 12068454
+fluidsynth: debug: Discovering sample 'StrLoop - A5', src_start 11951401, loop_start 11966417, loop_end 11999145, src_end 11999793
+fluidsynth: debug: Discovering sample 'StrLoop - A4', src_start 11895778, loop_start 11912472, loop_end 11951352, src_end 11951354
+fluidsynth: debug: Discovering sample 'StrLoop - A3', src_start 11851552, loop_start 11867915, loop_end 11895725, src_end 11895731
+fluidsynth: debug: Discovering sample 'StrLoop - A2', src_start 11778670, loop_start 11795962, loop_end 11851500, src_end 11851505
+fluidsynth: debug: Discovering sample 'StrLoop - A1', src_start 11721299, loop_start 11741668, loop_end 11778623, src_end 11778623
+fluidsynth: debug: Discovering sample 'Sticks', src_start 11712324, loop_start 11712332, loop_end 11721245, src_end 11721252
+fluidsynth: debug: Discovering sample 'Steel Guitar-G5', src_start 11693669, loop_start 11708253, loop_end 11712256, src_end 11712277
+fluidsynth: debug: Discovering sample 'Steel Guitar-G4', src_start 11667165, loop_start 11689524, loop_end 11693600, src_end 11693622
+fluidsynth: debug: Discovering sample 'Steel Guitar-E6', src_start 11660083, loop_start 11666445, loop_end 11667103, src_end 11667118
+fluidsynth: debug: Discovering sample 'Steel Guitar-E5', src_start 11637421, loop_start 11652259, loop_end 11660014, src_end 11660036
+fluidsynth: debug: Discovering sample 'Steel Guitar-E3', src_start 11610048, loop_start 11629823, loop_end 11637358, src_end 11637374
+fluidsynth: debug: Discovering sample 'Steel Guitar-D4', src_start 11592365, loop_start 11607367, loop_end 11609982, src_end 11610001
+fluidsynth: debug: Discovering sample 'Steel Guitar-C#6', src_start 11577463, loop_start 11588814, loop_end 11592291, src_end 11592318
+fluidsynth: debug: Discovering sample 'Steel Guitar-B4', src_start 11545386, loop_start 11566132, loop_end 11577395, src_end 11577416
+fluidsynth: debug: Discovering sample 'Steel Guitar-A3', src_start 11522741, loop_start 11539463, loop_end 11545323, src_end 11545339
+fluidsynth: debug: Discovering sample 'Steel Guitar-A#5', src_start 11508944, loop_start 11519648, loop_end 11522672, src_end 11522694
+fluidsynth: debug: Discovering sample 'Steel Drums-D5', src_start 11506841, loop_start 11508665, loop_end 11508890, src_end 11508897
+fluidsynth: debug: Discovering sample 'Steel Drums-C4', src_start 11480885, loop_start 11506619, loop_end 11506733, src_end 11506794
+fluidsynth: debug: Discovering sample 'Starship Noise', src_start 11471611, loop_start 11474236, loop_end 11480831, src_end 11480838
+fluidsynth: debug: Discovering sample 'Standard Tom 5', src_start 11396941, loop_start 11470319, loop_end 11471307, src_end 11471564
+fluidsynth: debug: Discovering sample 'Standard Tom 4', src_start 11317183, loop_start 11395942, loop_end 11396751, src_end 11396894
+fluidsynth: debug: Discovering sample 'Standard Tom 3', src_start 11257153, loop_start 11316195, loop_end 11316805, src_end 11317136
+fluidsynth: debug: Discovering sample 'Standard Tom 2', src_start 11227539, loop_start 11255327, loop_end 11256485, src_end 11257106
+fluidsynth: debug: Discovering sample 'Standard Tom 1', src_start 11203781, loop_start 11226402, loop_end 11226999, src_end 11227492
+fluidsynth: debug: Discovering sample 'Standard Snare 5', src_start 11192370, loop_start 11192370, loop_end 11203735, src_end 11203734
+fluidsynth: debug: Discovering sample 'Standard Snare 4', src_start 11178086, loop_start 11178086, loop_end 11184769, src_end 11192323
+fluidsynth: debug: Discovering sample 'Standard Snare 3', src_start 11160923, loop_start 11160923, loop_end 11167186, src_end 11178039
+fluidsynth: debug: Discovering sample 'Standard Snare 2', src_start 11147065, loop_start 11154028, loop_end 11160877, src_end 11160876
+fluidsynth: debug: Discovering sample 'Standard Snare 1gate', src_start 11121127, loop_start 11121127, loop_end 11121127, src_end 11147018
+fluidsynth: debug: Discovering sample 'Standard Snare 1_v3', src_start 11088550, loop_start 11088550, loop_end 11088550, src_end 11121080
+fluidsynth: debug: Discovering sample 'Standard Snare 1_v2', src_start 11056991, loop_start 11056991, loop_end 11056991, src_end 11088503
+fluidsynth: debug: Discovering sample 'Standard Snare 1_v1', src_start 11026747, loop_start 11026747, loop_end 11026747, src_end 11056944
+fluidsynth: debug: Discovering sample 'Standard Snare 1', src_start 11015336, loop_start 11015336, loop_end 11026701, src_end 11026700
+fluidsynth: debug: Discovering sample 'Standard Kick 3', src_start 11011048, loop_start 11011048, loop_end 11015154, src_end 11015289
+fluidsynth: debug: Discovering sample 'Standard Kick 2', src_start 11002979, loop_start 11002987, loop_end 11010994, src_end 11011001
+fluidsynth: debug: Discovering sample 'Standard Kick 1', src_start 10990900, loop_start 10990901, loop_end 11002933, src_end 11002932
+fluidsynth: debug: Discovering sample 'Stacked Saw-C63', src_start 10982610, loop_start 10982982, loop_end 10990846, src_end 10990853
+fluidsynth: debug: Discovering sample 'Stacked Saw-C62', src_start 10966085, loop_start 10966829, loop_end 10982556, src_end 10982563
+fluidsynth: debug: Discovering sample 'Stacked Saw-C6', src_start 10933088, loop_start 10934576, loop_end 10966031, src_end 10966038
+fluidsynth: debug: Discovering sample 'Stacked Saw-C42', src_start 10906214, loop_start 10908746, loop_end 10932768, src_end 10933041
+fluidsynth: debug: Discovering sample 'Stacked Saw-C4', src_start 10852516, loop_start 10857580, loop_end 10905625, src_end 10906167
+fluidsynth: debug: Discovering sample 'Square Click', src_start 10852340, loop_start 10852348, loop_end 10852462, src_end 10852469
+fluidsynth: debug: Discovering sample 'Splash Cymbal', src_start 10799919, loop_start 10799927, loop_end 10852286, src_end 10852293
+fluidsynth: debug: Discovering sample 'Soprano Sax-G#3', src_start 10782114, loop_start 10794765, loop_end 10799865, src_end 10799872
+fluidsynth: debug: Discovering sample 'Soprano Sax-G#2', src_start 10765018, loop_start 10776951, loop_end 10782060, src_end 10782067
+fluidsynth: debug: Discovering sample 'Soprano Sax-G#1', src_start 10747513, loop_start 10759508, loop_end 10764964, src_end 10764971
+fluidsynth: debug: Discovering sample 'Soprano Sax-E3', src_start 10729893, loop_start 10742166, loop_end 10747459, src_end 10747466
+fluidsynth: debug: Discovering sample 'Soprano Sax-E2', src_start 10712146, loop_start 10724171, loop_end 10729839, src_end 10729846
+fluidsynth: debug: Discovering sample 'Soprano Sax-C4', src_start 10695368, loop_start 10707225, loop_end 10712092, src_end 10712099
+fluidsynth: debug: Discovering sample 'Soprano Sax-C3', src_start 10678227, loop_start 10690048, loop_end 10695314, src_end 10695321
+fluidsynth: debug: Discovering sample 'Soprano Sax-C2', src_start 10661119, loop_start 10672878, loop_end 10678173, src_end 10678180
+fluidsynth: debug: Discovering sample 'Solo Vox-G5', src_start 10656697, loop_start 10656705, loop_end 10661053, src_end 10661072
+fluidsynth: debug: Discovering sample 'Solo Vox-G4', src_start 10652933, loop_start 10652975, loop_end 10656617, src_end 10656650
+fluidsynth: debug: Discovering sample 'Solo Vox-G3', src_start 10646149, loop_start 10646224, loop_end 10652819, src_end 10652886
+fluidsynth: debug: Discovering sample 'Solo Vox-C5', src_start 10642240, loop_start 10642262, loop_end 10646083, src_end 10646102
+fluidsynth: debug: Discovering sample 'Solo Vox-C4', src_start 10638502, loop_start 10638516, loop_end 10642159, src_end 10642193
+fluidsynth: debug: Discovering sample 'Solo Vox-A#7', src_start 10635917, loop_start 10635955, loop_end 10638357, src_end 10638455
+fluidsynth: debug: Discovering sample 'Solo Vox-A#5', src_start 10630793, loop_start 10630817, loop_end 10635860, src_end 10635870
+fluidsynth: debug: Discovering sample 'Slap', src_start 10624899, loop_start 10624900, loop_end 10630747, src_end 10630746
+fluidsynth: debug: Discovering sample 'Slap Bass 2-F3F', src_start 10613993, loop_start 10624522, loop_end 10624847, src_end 10624852
+fluidsynth: debug: Discovering sample 'Slap Bass 2-F2P', src_start 10604700, loop_start 10613271, loop_end 10613944, src_end 10613946
+fluidsynth: debug: Discovering sample 'Slap Bass 2-E3P', src_start 10596403, loop_start 10604292, loop_end 10604649, src_end 10604653
+fluidsynth: debug: Discovering sample 'Slap Bass 2-A2F', src_start 10584446, loop_start 10595746, loop_end 10596282, src_end 10596356
+fluidsynth: debug: Discovering sample 'Slap Bass 1-G2', src_start 10577466, loop_start 10583604, loop_end 10584380, src_end 10584399
+fluidsynth: debug: Discovering sample 'Slap Bass 1-E3', src_start 10571324, loop_start 10576940, loop_end 10577401, src_end 10577419
+fluidsynth: debug: Discovering sample 'Slap Bass 1-C4', src_start 10561751, loop_start 10569806, loop_end 10571258, src_end 10571277
+fluidsynth: debug: Discovering sample 'Slap Bass 1-C2', src_start 10554120, loop_start 10560524, loop_end 10561686, src_end 10561704
+fluidsynth: debug: Discovering sample 'Slap Bass 1-A4', src_start 10548838, loop_start 10553018, loop_end 10554054, src_end 10554073
+fluidsynth: debug: Discovering sample 'Sitar-G5', src_start 10522078, loop_start 10522086, loop_end 10548784, src_end 10548791
+fluidsynth: debug: Discovering sample 'Sitar-G4', src_start 10477723, loop_start 10477731, loop_end 10522024, src_end 10522031
+fluidsynth: debug: Discovering sample 'Sitar-G3', src_start 10433368, loop_start 10433376, loop_end 10477669, src_end 10477676
+fluidsynth: debug: Discovering sample 'Sitar-G2', src_start 10393847, loop_start 10393855, loop_end 10433314, src_end 10433321
+fluidsynth: debug: Discovering sample 'Siren', src_start 10385791, loop_start 10385805, loop_end 10393769, src_end 10393800
+fluidsynth: debug: Discovering sample 'Sine-Triangle-12000H', src_start 10385697, loop_start 10385703, loop_end 10385739, src_end 10385744
+fluidsynth: debug: Discovering sample 'Sine-Triangle-12000', src_start 10385603, loop_start 10385609, loop_end 10385645, src_end 10385650
+fluidsynth: debug: Discovering sample 'Sine-93.75Hz', src_start 10384533, loop_start 10384789, loop_end 10385301, src_end 10385556
+fluidsynth: debug: Discovering sample 'Sine-750Hz', src_start 10384359, loop_start 10384391, loop_end 10384455, src_end 10384486
+fluidsynth: debug: Discovering sample 'Sine-6000Hz', src_start 10384249, loop_start 10384261, loop_end 10384301, src_end 10384312
+fluidsynth: debug: Discovering sample 'Sine-375Hz', src_start 10383947, loop_start 10384011, loop_end 10384139, src_end 10384202
+fluidsynth: debug: Discovering sample 'Sine-3000Hz', src_start 10383837, loop_start 10383845, loop_end 10383893, src_end 10383900
+fluidsynth: debug: Discovering sample 'Sine-187.5Hz', src_start 10383279, loop_start 10383407, loop_end 10383663, src_end 10383790
+fluidsynth: debug: Discovering sample 'Sine-1500Hz', src_start 10383169, loop_start 10383185, loop_end 10383217, src_end 10383232
+fluidsynth: debug: Discovering sample 'Siku-C6', src_start 10382772, loop_start 10383104, loop_end 10383115, src_end 10383122
+fluidsynth: debug: Discovering sample 'Shenai-F#3', src_start 10381952, loop_start 10382650, loop_end 10382718, src_end 10382725
+fluidsynth: debug: Discovering sample 'Shenai-D6', src_start 10381663, loop_start 10381888, loop_end 10381898, src_end 10381905
+fluidsynth: debug: Discovering sample 'Shenai-D4', src_start 10380559, loop_start 10381565, loop_end 10381609, src_end 10381616
+fluidsynth: debug: Discovering sample 'Shenai-D3', src_start 10379679, loop_start 10380420, loop_end 10380505, src_end 10380512
+fluidsynth: debug: Discovering sample 'Shenai-C3', src_start 10379011, loop_start 10379531, loop_end 10379625, src_end 10379632
+fluidsynth: debug: Discovering sample 'Shenai-A#3', src_start 10377975, loop_start 10378902, loop_end 10378957, src_end 10378964
+fluidsynth: debug: Discovering sample 'Shamisen-F#3', src_start 10376852, loop_start 10377830, loop_end 10377897, src_end 10377928
+fluidsynth: debug: Discovering sample 'Shamisen-F#2', src_start 10375566, loop_start 10376639, loop_end 10376774, src_end 10376805
+fluidsynth: debug: Discovering sample 'Shamisen-C3', src_start 10374291, loop_start 10375393, loop_end 10375488, src_end 10375519
+fluidsynth: debug: Discovering sample 'Shamisen-C#4', src_start 10373068, loop_start 10374123, loop_end 10374213, src_end 10374244
+fluidsynth: debug: Discovering sample 'Shamisen-B3', src_start 10371907, loop_start 10372939, loop_end 10372990, src_end 10373021
+fluidsynth: debug: Discovering sample 'Shakuhachi', src_start 10306183, loop_start 10348722, loop_end 10370853, src_end 10371860
+fluidsynth: debug: Discovering sample 'Shaker', src_start 10299046, loop_start 10299047, loop_end 10306137, src_end 10306136
+fluidsynth: debug: Discovering sample 'Seashore', src_start 10278147, loop_start 10278150, loop_end 10298992, src_end 10298999
+fluidsynth: debug: Discovering sample 'Scream', src_start 10252898, loop_start 10267484, loop_end 10278101, src_end 10278100
+fluidsynth: debug: Discovering sample 'Scratch Push', src_start 10245008, loop_start 10245016, loop_end 10252844, src_end 10252851
+fluidsynth: debug: Discovering sample 'Scratch Pull', src_start 10234805, loop_start 10234813, loop_end 10244954, src_end 10244961
+fluidsynth: debug: Discovering sample 'SawStackWaveMS', src_start 10221011, loop_start 10221300, loop_end 10234756, src_end 10234758
+fluidsynth: debug: Discovering sample 'Room Tom 2', src_start 10181808, loop_start 10181809, loop_end 10220965, src_end 10220964
+fluidsynth: debug: Discovering sample 'Room Tom 1', src_start 10141709, loop_start 10141710, loop_end 10181762, src_end 10181761
+fluidsynth: debug: Discovering sample 'Room Snare', src_start 10132285, loop_start 10141605, loop_end 10141663, src_end 10141662
+fluidsynth: debug: Discovering sample 'Room Kick', src_start 10124989, loop_start 10124989, loop_end 10132239, src_end 10132238
+fluidsynth: debug: Discovering sample 'Rim Shot', src_start 10119325, loop_start 10119333, loop_end 10124935, src_end 10124942
+fluidsynth: debug: Discovering sample 'Ride Cymbal', src_start 9997979, loop_start 9997987, loop_end 10119271, src_end 10119278
+fluidsynth: debug: Discovering sample 'Ride Bell', src_start 9917921, loop_start 9917929, loop_end 9997925, src_end 9997932
+fluidsynth: debug: Discovering sample 'Rhodes-G2 P', src_start 9910992, loop_start 9917643, loop_end 9917867, src_end 9917874
+fluidsynth: debug: Discovering sample 'Rhodes-G2 M', src_start 9904101, loop_start 9910714, loop_end 9910938, src_end 9910945
+fluidsynth: debug: Discovering sample 'Rhodes-G2 F', src_start 9896899, loop_start 9903822, loop_end 9904047, src_end 9904054
+fluidsynth: debug: Discovering sample 'Rhodes-F4 P', src_start 9892648, loop_start 9896776, loop_end 9896839, src_end 9896852
+fluidsynth: debug: Discovering sample 'Rhodes-F4 M', src_start 9887956, loop_start 9892515, loop_end 9892578, src_end 9892601
+fluidsynth: debug: Discovering sample 'Rhodes-F4 F', src_start 9883223, loop_start 9887811, loop_end 9887874, src_end 9887909
+fluidsynth: debug: Discovering sample 'Rhodes-F#1 M', src_start 9874187, loop_start 9882576, loop_end 9883055, src_end 9883176
+fluidsynth: debug: Discovering sample 'Rhodes-F#1 F', src_start 9866943, loop_start 9873516, loop_end 9873991, src_end 9874140
+fluidsynth: debug: Discovering sample 'Rhodes-Eb6 P', src_start 9864744, loop_start 9866818, loop_end 9866889, src_end 9866896
+fluidsynth: debug: Discovering sample 'Rhodes-Eb6 M', src_start 9861402, loop_start 9864619, loop_end 9864690, src_end 9864697
+fluidsynth: debug: Discovering sample 'Rhodes-Eb6 F', src_start 9857847, loop_start 9861277, loop_end 9861348, src_end 9861355
+fluidsynth: debug: Discovering sample 'Rhodes-Eb5 P', src_start 9851478, loop_start 9857616, loop_end 9857793, src_end 9857800
+fluidsynth: debug: Discovering sample 'Rhodes-Eb5 M', src_start 9844761, loop_start 9851176, loop_end 9851424, src_end 9851431
+fluidsynth: debug: Discovering sample 'Rhodes-Eb5 F', src_start 9834233, loop_start 9844530, loop_end 9844707, src_end 9844714
+fluidsynth: debug: Discovering sample 'Rhodes-E3 P', src_start 9824500, loop_start 9833748, loop_end 9834149, src_end 9834186
+fluidsynth: debug: Discovering sample 'Rhodes-E3 M', src_start 9812464, loop_start 9824178, loop_end 9824446, src_end 9824453
+fluidsynth: debug: Discovering sample 'Rhodes-E3 F', src_start 9808393, loop_start 9812218, loop_end 9812352, src_end 9812417
+fluidsynth: debug: Discovering sample 'Rhodes-D1 P', src_start 9798092, loop_start 9807745, loop_end 9808347, src_end 9808346
+fluidsynth: debug: Discovering sample 'Rhodes-C2 P', src_start 9790662, loop_start 9797700, loop_end 9798038, src_end 9798045
+fluidsynth: debug: Discovering sample 'Rhodes-C2 M', src_start 9783961, loop_start 9790271, loop_end 9790608, src_end 9790615
+fluidsynth: debug: Discovering sample 'Rhodes-C2 F', src_start 9778596, loop_start 9783570, loop_end 9783907, src_end 9783914
+fluidsynth: debug: Discovering sample 'Rhodes-Bb5 P', src_start 9775639, loop_start 9778471, loop_end 9778542, src_end 9778549
+fluidsynth: debug: Discovering sample 'Rhodes-Bb5 M', src_start 9773156, loop_start 9775498, loop_end 9775569, src_end 9775592
+fluidsynth: debug: Discovering sample 'Rhodes-Bb5 F', src_start 9767833, loop_start 9772652, loop_end 9773102, src_end 9773109
+fluidsynth: debug: Discovering sample 'Rhodes-B3 P', src_start 9760767, loop_start 9767600, loop_end 9767779, src_end 9767786
+fluidsynth: debug: Discovering sample 'Rhodes-B3 M', src_start 9750532, loop_start 9760534, loop_end 9760713, src_end 9760720
+fluidsynth: debug: Discovering sample 'Rhodes-B3 F', src_start 9742089, loop_start 9750299, loop_end 9750478, src_end 9750485
+fluidsynth: debug: Discovering sample 'Rhodes-Ab4 P', src_start 9739458, loop_start 9741968, loop_end 9742021, src_end 9742042
+fluidsynth: debug: Discovering sample 'Rhodes-Ab4 M', src_start 9737560, loop_start 9739322, loop_end 9739375, src_end 9739411
+fluidsynth: debug: Discovering sample 'Rhodes-Ab4 F', src_start 9729415, loop_start 9737448, loop_end 9737501, src_end 9737513
+fluidsynth: debug: Discovering sample 'Reverse Cymbal', src_start 9690028, loop_start 9690036, loop_end 9729361, src_end 9729368
+fluidsynth: debug: Discovering sample 'Recorder-D5', src_start 9677278, loop_start 9685556, loop_end 9689735, src_end 9689981
+fluidsynth: debug: Discovering sample 'Recorder-D3', src_start 9637936, loop_start 9664787, loop_end 9677216, src_end 9677231
+fluidsynth: debug: Discovering sample 'Recorder-C#5', src_start 9628018, loop_start 9632107, loop_end 9637818, src_end 9637889
+fluidsynth: debug: Discovering sample 'Recorder-B4', src_start 9605284, loop_start 9617179, loop_end 9627930, src_end 9627971
+fluidsynth: debug: Discovering sample 'Recorder-A5', src_start 9597214, loop_start 9604844, loop_end 9605213, src_end 9605237
+fluidsynth: debug: Discovering sample 'Recorder-A4', src_start 9586544, loop_start 9589695, loop_end 9597162, src_end 9597167
+fluidsynth: debug: Discovering sample 'Recorder-A#5', src_start 9577138, loop_start 9580789, loop_end 9586394, src_end 9586497
+fluidsynth: debug: Discovering sample 'Rain', src_start 9503691, loop_start 9503723, loop_end 9577060, src_end 9577091
+fluidsynth: debug: Discovering sample 'Punch', src_start 9500684, loop_start 9500692, loop_end 9503172, src_end 9503644
+fluidsynth: debug: Discovering sample 'Power Snare 2', src_start 9487816, loop_start 9487824, loop_end 9500630, src_end 9500637
+fluidsynth: debug: Discovering sample 'Power Kick', src_start 9479439, loop_start 9479447, loop_end 9487762, src_end 9487769
+fluidsynth: debug: Discovering sample 'Pizz. Strings-G#3', src_start 9460571, loop_start 9479329, loop_end 9479361, src_end 9479392
+fluidsynth: debug: Discovering sample 'Pizz. Strings-F5', src_start 9448373, loop_start 9460461, loop_end 9460493, src_end 9460524
+fluidsynth: debug: Discovering sample 'Pizz. Strings-F#4', src_start 9432655, loop_start 9448263, loop_end 9448295, src_end 9448326
+fluidsynth: debug: Discovering sample 'Pizz. Strings-A#2', src_start 9411870, loop_start 9432545, loop_end 9432577, src_end 9432608
+fluidsynth: debug: Discovering sample 'Pipe Organ-G#6', src_start 9352748, loop_start 9363963, loop_end 9411759, src_end 9411823
+fluidsynth: debug: Discovering sample 'Pipe Organ-G#5', src_start 9293542, loop_start 9304770, loop_end 9352637, src_end 9352701
+fluidsynth: debug: Discovering sample 'Pipe Organ-G#4', src_start 9234206, loop_start 9245465, loop_end 9293431, src_end 9293495
+fluidsynth: debug: Discovering sample 'Pipe Organ-G#3', src_start 9175018, loop_start 9186257, loop_end 9234095, src_end 9234159
+fluidsynth: debug: Discovering sample 'Pipe Organ-G#2', src_start 9135324, loop_start 9145657, loop_end 9174909, src_end 9174971
+fluidsynth: debug: Discovering sample 'Pipe Organ-A#1', src_start 9076166, loop_start 9091556, loop_end 9135214, src_end 9135277
+fluidsynth: debug: Discovering sample 'Pick Bass-G1', src_start 9058139, loop_start 9075886, loop_end 9076090, src_end 9076119
+fluidsynth: debug: Discovering sample 'Pick Bass-E0', src_start 9037370, loop_start 9057410, loop_end 9057895, src_end 9058092
+fluidsynth: debug: Discovering sample 'Pick Bass-D1', src_start 9018811, loop_start 9037033, loop_end 9037306, src_end 9037323
+fluidsynth: debug: Discovering sample 'Pick Bass-C6', src_start 9018626, loop_start 9018746, loop_end 9018757, src_end 9018764
+fluidsynth: debug: Discovering sample 'Pick Bass-A0', src_start 9003072, loop_start 9018223, loop_end 9018566, src_end 9018579
+fluidsynth: debug: Discovering sample 'Piccolo-F#2', src_start 8988757, loop_start 8997773, loop_end 9003021, src_end 9003025
+fluidsynth: debug: Discovering sample 'Piccolo-D3', src_start 8974724, loop_start 8983177, loop_end 8988706, src_end 8988710
+fluidsynth: debug: Discovering sample 'Piccolo-D2', src_start 8959888, loop_start 8969465, loop_end 8974673, src_end 8974677
+fluidsynth: debug: Discovering sample 'Piccolo-A#2', src_start 8945438, loop_start 8954339, loop_end 8959837, src_end 8959841
+fluidsynth: debug: Discovering sample 'Piccolo-A#1', src_start 8925857, loop_start 8940403, loop_end 8945387, src_end 8945391
+fluidsynth: debug: Discovering sample 'Pan Flute_2', src_start 8893456, loop_start 8912166, loop_end 8925789, src_end 8925810
+fluidsynth: debug: Discovering sample 'Pan Flute_1', src_start 8888997, loop_start 8889005, loop_end 8893410, src_end 8893409
+fluidsynth: debug: Discovering sample 'Overdrive Guitar-G5', src_start 8881015, loop_start 8888082, loop_end 8888705, src_end 8888950
+fluidsynth: debug: Discovering sample 'Overdrive Guitar-G4', src_start 8846473, loop_start 8880492, loop_end 8880832, src_end 8880968
+fluidsynth: debug: Discovering sample 'Overdrive Guitar-G3', src_start 8829403, loop_start 8845935, loop_end 8846386, src_end 8846426
+fluidsynth: debug: Discovering sample 'Overdrive Guitar-G2', src_start 8812333, loop_start 8828637, loop_end 8829308, src_end 8829356
+fluidsynth: debug: Discovering sample 'Overdrive Guitar-F4', src_start 8762687, loop_start 8811904, loop_end 8812095, src_end 8812286
+fluidsynth: debug: Discovering sample 'Overdrive Guitar-E5', src_start 8725733, loop_start 8762532, loop_end 8762633, src_end 8762640
+fluidsynth: debug: Discovering sample 'Overdrive Guitar-E3', src_start 8710903, loop_start 8725248, loop_end 8725648, src_end 8725686
+fluidsynth: debug: Discovering sample 'Overdrive Guitar-E2', src_start 8692617, loop_start 8710527, loop_end 8710794, src_end 8710856
+fluidsynth: debug: Discovering sample 'Overdrive Guitar-D6', src_start 8677403, loop_start 8691901, loop_end 8692389, src_end 8692570
+fluidsynth: debug: Discovering sample 'Overdrive Guitar-D5', src_start 8645869, loop_start 8676465, loop_end 8677184, src_end 8677356
+fluidsynth: debug: Discovering sample 'Overdrive Guitar-D4', src_start 8620799, loop_start 8645006, loop_end 8645686, src_end 8645822
+fluidsynth: debug: Discovering sample 'Overdrive Guitar-D3', src_start 8604593, loop_start 8619893, loop_end 8620642, src_end 8620752
+fluidsynth: debug: Discovering sample 'Overdrive Guitar-D2', src_start 8582609, loop_start 8604238, loop_end 8604537, src_end 8604546
+fluidsynth: debug: Discovering sample 'Overdrive Guitar-C6', src_start 8567364, loop_start 8581840, loop_end 8582454, src_end 8582562
+fluidsynth: debug: Discovering sample 'Overdrive Guitar-C5', src_start 8553174, loop_start 8566751, loop_end 8567090, src_end 8567317
+fluidsynth: debug: Discovering sample 'Overdrive Guitar-C4', src_start 8537768, loop_start 8552143, loop_end 8552904, src_end 8553127
+fluidsynth: debug: Discovering sample 'Overdrive Guitar-C3', src_start 8507770, loop_start 8537287, loop_end 8537623, src_end 8537721
+fluidsynth: debug: Discovering sample 'Overdrive Guitar-A5', src_start 8495372, loop_start 8507011, loop_end 8507516, src_end 8507723
+fluidsynth: debug: Discovering sample 'Overdrive Guitar-A4', src_start 8480799, loop_start 8494993, loop_end 8495245, src_end 8495325
+fluidsynth: debug: Discovering sample 'Overdrive Guitar-A3', src_start 8458961, loop_start 8479975, loop_end 8480577, src_end 8480752
+fluidsynth: debug: Discovering sample 'Overdrive Guitar-A2', src_start 8444212, loop_start 8457455, loop_end 8458854, src_end 8458914
+fluidsynth: debug: Discovering sample 'Organ Slow-F#2', src_start 8439189, loop_start 8439448, loop_end 8444158, src_end 8444165
+fluidsynth: debug: Discovering sample 'Organ Slow-D#3', src_start 8433766, loop_start 8434015, loop_end 8439135, src_end 8439142
+fluidsynth: debug: Discovering sample 'Organ Slow-C4', src_start 8428118, loop_start 8428358, loop_end 8433711, src_end 8433719
+fluidsynth: debug: Discovering sample 'Organ Slow-A4', src_start 8422855, loop_start 8423118, loop_end 8428064, src_end 8428071
+fluidsynth: debug: Discovering sample 'Organ Perc.-F#5', src_start 8411241, loop_start 8411248, loop_end 8422807, src_end 8422808
+fluidsynth: debug: Discovering sample 'Organ Perc.-F#2', src_start 8398653, loop_start 8398660, loop_end 8411193, src_end 8411194
+fluidsynth: debug: Discovering sample 'Organ Perc.-D#3', src_start 8386326, loop_start 8386333, loop_end 8398605, src_end 8398606
+fluidsynth: debug: Discovering sample 'Organ Perc.-C4', src_start 8373627, loop_start 8373634, loop_end 8386278, src_end 8386279
+fluidsynth: debug: Discovering sample 'Organ Perc.-A4', src_start 8360814, loop_start 8360821, loop_end 8373579, src_end 8373580
+fluidsynth: debug: Discovering sample 'Organ Perc.-A1', src_start 8347547, loop_start 8347554, loop_end 8360766, src_end 8360767
+fluidsynth: debug: Discovering sample 'Organ Fast-F#5', src_start 8343637, loop_start 8344215, loop_end 8347493, src_end 8347500
+fluidsynth: debug: Discovering sample 'Organ Fast-F#4', src_start 8339647, loop_start 8340326, loop_end 8343585, src_end 8343590
+fluidsynth: debug: Discovering sample 'Organ Fast-F#3', src_start 8335534, loop_start 8336142, loop_end 8339593, src_end 8339600
+fluidsynth: debug: Discovering sample 'Organ Fast-F#2', src_start 8331595, loop_start 8332165, loop_end 8335481, src_end 8335487
+fluidsynth: debug: Discovering sample 'Organ Fast-F#1', src_start 8326878, loop_start 8327486, loop_end 8331541, src_end 8331548
+fluidsynth: debug: Discovering sample 'Organ Fast-C5', src_start 8322943, loop_start 8323550, loop_end 8326824, src_end 8326831
+fluidsynth: debug: Discovering sample 'Organ Fast-C4', src_start 8318667, loop_start 8319269, loop_end 8322890, src_end 8322896
+fluidsynth: debug: Discovering sample 'Organ Fast-C3', src_start 8314801, loop_start 8315414, loop_end 8318613, src_end 8318620
+fluidsynth: debug: Discovering sample 'Organ Fast-C2', src_start 8310725, loop_start 8311367, loop_end 8314747, src_end 8314754
+fluidsynth: debug: Discovering sample 'Orchestral Harp-F#5', src_start 8267792, loop_start 8307940, loop_end 8310647, src_end 8310678
+fluidsynth: debug: Discovering sample 'Orchestral Harp-E3', src_start 8249397, loop_start 8265614, loop_end 8267714, src_end 8267745
+fluidsynth: debug: Discovering sample 'Orchestral Harp-C4', src_start 8234201, loop_start 8247172, loop_end 8249319, src_end 8249350
+fluidsynth: debug: Discovering sample 'Orchestral Harp-C#4', src_start 8191148, loop_start 8231403, loop_end 8234123, src_end 8234154
+fluidsynth: debug: Discovering sample 'Orchestral Harp-A6', src_start 8157905, loop_start 8184861, loop_end 8191070, src_end 8191101
+fluidsynth: debug: Discovering sample 'Orchestral Cymbal', src_start 8095047, loop_start 8095055, loop_end 8157851, src_end 8157858
+fluidsynth: debug: Discovering sample 'Orchestra Hit-2xt', src_start 8089900, loop_start 8089900, loop_end 8095002, src_end 8095000
+fluidsynth: debug: Discovering sample 'Orchestra Hit-2', src_start 8069447, loop_start 8069448, loop_end 8089854, src_end 8089853
+fluidsynth: debug: Discovering sample 'Orchestra Hit-1', src_start 8056717, loop_start 8056721, loop_end 8069401, src_end 8069400
+fluidsynth: debug: Discovering sample 'OohVoiceC3', src_start 8047570, loop_start 8047605, loop_end 8056667, src_end 8056670
+fluidsynth: debug: Discovering sample 'OcarinaWave-F#6', src_start 8047498, loop_start 8047506, loop_end 8047516, src_end 8047523
+fluidsynth: debug: Discovering sample 'OcarinaWave-C5', src_start 8047372, loop_start 8047400, loop_end 8047444, src_end 8047451
+fluidsynth: debug: Discovering sample 'OcarinaFx2', src_start 8046140, loop_start 8047284, loop_end 8047322, src_end 8047325
+fluidsynth: debug: Discovering sample 'Ocarina-G#6', src_start 8008926, loop_start 8016480, loop_end 8046086, src_end 8046093
+fluidsynth: debug: Discovering sample 'Ocarina-G#5', src_start 7964827, loop_start 7977270, loop_end 8008872, src_end 8008879
+fluidsynth: debug: Discovering sample 'Ocarina-C#5', src_start 7923041, loop_start 7940261, loop_end 7964773, src_end 7964780
+fluidsynth: debug: Discovering sample 'Oboe-F#3', src_start 7892928, loop_start 7917881, loop_end 7922990, src_end 7922994
+fluidsynth: debug: Discovering sample 'Oboe-E4', src_start 7863855, loop_start 7888230, loop_end 7892877, src_end 7892881
+fluidsynth: debug: Discovering sample 'Oboe-C5', src_start 7840920, loop_start 7858517, loop_end 7863804, src_end 7863808
+fluidsynth: debug: Discovering sample 'Oboe-C#3', src_start 7810317, loop_start 7835365, loop_end 7840869, src_end 7840873
+fluidsynth: debug: Discovering sample 'Oboe-A4', src_start 7783937, loop_start 7805506, loop_end 7810266, src_end 7810270
+fluidsynth: debug: Discovering sample 'Oboe-A#3', src_start 7762056, loop_start 7778634, loop_end 7783886, src_end 7783890
+fluidsynth: debug: Discovering sample 'Nylon Guitar-G3', src_start 7747169, loop_start 7761848, loop_end 7761960, src_end 7762009
+fluidsynth: debug: Discovering sample 'Nylon Guitar-G#3', src_start 7734346, loop_start 7746862, loop_end 7747073, src_end 7747122
+fluidsynth: debug: Discovering sample 'Nylon Guitar-F4', src_start 7720681, loop_start 7734182, loop_end 7734245, src_end 7734299
+fluidsynth: debug: Discovering sample 'Nylon Guitar-F2', src_start 7696986, loop_start 7720332, loop_end 7720585, src_end 7720634
+fluidsynth: debug: Discovering sample 'Nylon Guitar-E4', src_start 7685295, loop_start 7696756, loop_end 7696890, src_end 7696939
+fluidsynth: debug: Discovering sample 'Nylon Guitar-D3', src_start 7651734, loop_start 7685049, loop_end 7685199, src_end 7685248
+fluidsynth: debug: Discovering sample 'Nylon Guitar-D#3', src_start 7625841, loop_start 7651355, loop_end 7651638, src_end 7651687
+fluidsynth: debug: Discovering sample 'Nylon Guitar-C4', src_start 7608969, loop_start 7625577, loop_end 7625745, src_end 7625794
+fluidsynth: debug: Discovering sample 'Nylon Guitar-B3', src_start 7589656, loop_start 7608694, loop_end 7608873, src_end 7608922
+fluidsynth: debug: Discovering sample 'Nylon Guitar-A4xt', src_start 7586703, loop_start 7589577, loop_end 7589602, src_end 7589609
+fluidsynth: debug: Discovering sample 'Nylon Guitar-A4', src_start 7575022, loop_start 7586521, loop_end 7586621, src_end 7586656
+fluidsynth: debug: Discovering sample 'Nylon Guitar-A#2', src_start 7552211, loop_start 7574763, loop_end 7574953, src_end 7574975
+fluidsynth: debug: Discovering sample 'NGuitrF2xt', src_start 7550908, loop_start 7552060, loop_end 7552157, src_end 7552164
+fluidsynth: debug: Discovering sample 'NGuitrF2', src_start 7546152, loop_start 7550761, loop_end 7550858, src_end 7550861
+fluidsynth: debug: Discovering sample 'Muted Trumpet-F#5', src_start 7532263, loop_start 7543554, loop_end 7546074, src_end 7546105
+fluidsynth: debug: Discovering sample 'Muted Trumpet-F#4', src_start 7518585, loop_start 7529937, loop_end 7532178, src_end 7532216
+fluidsynth: debug: Discovering sample 'Muted Trumpet-D5', src_start 7504461, loop_start 7515959, loop_end 7518507, src_end 7518538
+fluidsynth: debug: Discovering sample 'Muted Trumpet-D4', src_start 7490162, loop_start 7501783, loop_end 7504383, src_end 7504414
+fluidsynth: debug: Discovering sample 'Muted Trumpet-A#4', src_start 7469602, loop_start 7487549, loop_end 7490084, src_end 7490115
+fluidsynth: debug: Discovering sample 'Muted Guitar-E6', src_start 7468304, loop_start 7469480, loop_end 7469528, src_end 7469555
+fluidsynth: debug: Discovering sample 'Muted Guitar-E4', src_start 7464809, loop_start 7467985, loop_end 7468052, src_end 7468257
+fluidsynth: debug: Discovering sample 'Muted Guitar-D#4', src_start 7461662, loop_start 7464020, loop_end 7464090, src_end 7464762
+fluidsynth: debug: Discovering sample 'Muted Guitar-B3', src_start 7458839, loop_start 7461092, loop_end 7461180, src_end 7461615
+fluidsynth: debug: Discovering sample 'Muted Guitar-B2', src_start 7443954, loop_start 7458181, loop_end 7458360, src_end 7458792
+fluidsynth: debug: Discovering sample 'MarimbaC3', src_start 7443092, loop_start 7443880, loop_end 7443904, src_end 7443907
+fluidsynth: debug: Discovering sample 'Marimba-C6', src_start 7436709, loop_start 7442960, loop_end 7443022, src_end 7443045
+fluidsynth: debug: Discovering sample 'Marimba-C4', src_start 7419199, loop_start 7436429, loop_end 7436599, src_end 7436662
+fluidsynth: debug: Discovering sample 'Maracas', src_start 7410720, loop_start 7410721, loop_end 7419153, src_end 7419152
+fluidsynth: debug: Discovering sample 'LeFone', src_start 7409090, loop_start 7409097, loop_end 7410670, src_end 7410673
+fluidsynth: debug: Discovering sample 'Laughing', src_start 7384376, loop_start 7384379, loop_end 7409037, src_end 7409043
+fluidsynth: debug: Discovering sample 'Koto-E4', src_start 7351844, loop_start 7384118, loop_end 7384306, src_end 7384329
+fluidsynth: debug: Discovering sample 'Koto-A3', src_start 7318585, loop_start 7351462, loop_end 7351745, src_end 7351797
+fluidsynth: debug: Discovering sample 'Kalimba-C6', src_start 7318112, loop_start 7318518, loop_end 7318531, src_end 7318538
+fluidsynth: debug: Discovering sample 'Kalimba-C5', src_start 7315783, loop_start 7318032, loop_end 7318058, src_end 7318065
+fluidsynth: debug: Discovering sample 'Kalimba-C3', src_start 7306347, loop_start 7315622, loop_end 7315729, src_end 7315736
+fluidsynth: debug: Discovering sample 'KPianoG2', src_start 7284171, loop_start 7301808, loop_end 7306298, src_end 7306300
+fluidsynth: debug: Discovering sample 'KPianoF5', src_start 7277146, loop_start 7283994, loop_end 7284120, src_end 7284124
+fluidsynth: debug: Discovering sample 'KPianoDx5', src_start 7270955, loop_start 7277048, loop_end 7277096, src_end 7277099
+fluidsynth: debug: Discovering sample 'KPianoCx4', src_start 7249336, loop_start 7270842, loop_end 7270905, src_end 7270908
+fluidsynth: debug: Discovering sample 'KPianoB5', src_start 7243892, loop_start 7246855, loop_end 7249286, src_end 7249289
+fluidsynth: debug: Discovering sample 'KPianoB4', src_start 7218630, loop_start 7234058, loop_end 7243842, src_end 7243845
+fluidsynth: debug: Discovering sample 'KPianoB1', src_start 7201353, loop_start 7212008, loop_end 7218580, src_end 7218583
+fluidsynth: debug: Discovering sample 'Jingle Bell', src_start 7181906, loop_start 7181914, loop_end 7201299, src_end 7201306
+fluidsynth: debug: Discovering sample 'Jet', src_start 7158294, loop_start 7158368, loop_end 7181852, src_end 7181859
+fluidsynth: debug: Discovering sample 'JazzGuitLoop', src_start 7158130, loop_start 7158139, loop_end 7158244, src_end 7158247
+fluidsynth: debug: Discovering sample 'Jazz Snare Soft 2', src_start 7154673, loop_start 7154681, loop_end 7158076, src_end 7158083
+fluidsynth: debug: Discovering sample 'Jazz Snare Soft 1', src_start 7151153, loop_start 7151161, loop_end 7154619, src_end 7154626
+fluidsynth: debug: Discovering sample 'Jazz Snare Hard', src_start 7136057, loop_start 7136065, loop_end 7151099, src_end 7151106
+fluidsynth: debug: Discovering sample 'Jazz Rim Shot', src_start 7130249, loop_start 7130257, loop_end 7136003, src_end 7136010
+fluidsynth: debug: Discovering sample 'Jazz Guitar-G4', src_start 7118366, loop_start 7130115, loop_end 7130171, src_end 7130202
+fluidsynth: debug: Discovering sample 'Jazz Guitar-G3', src_start 7106342, loop_start 7118027, loop_end 7118252, src_end 7118319
+fluidsynth: debug: Discovering sample 'Jazz Guitar-F3', src_start 7095616, loop_start 7105989, loop_end 7106240, src_end 7106295
+fluidsynth: debug: Discovering sample 'Jazz Guitar-F#4', src_start 7085039, loop_start 7095420, loop_end 7095539, src_end 7095569
+fluidsynth: debug: Discovering sample 'Jazz Guitar-F#2', src_start 7075644, loop_start 7084688, loop_end 7084926, src_end 7084992
+fluidsynth: debug: Discovering sample 'Jazz Guitar-E5', src_start 7068928, loop_start 7075548, loop_end 7075581, src_end 7075597
+fluidsynth: debug: Discovering sample 'Jazz Guitar-E2', src_start 7059434, loop_start 7068565, loop_end 7068832, src_end 7068881
+fluidsynth: debug: Discovering sample 'Jazz Guitar-D3', src_start 7049026, loop_start 7059038, loop_end 7059338, src_end 7059387
+fluidsynth: debug: Discovering sample 'Jazz Guitar-D#4', src_start 7039020, loop_start 7048809, loop_end 7048950, src_end 7048979
+fluidsynth: debug: Discovering sample 'Jazz Guitar-C4', src_start 7031253, loop_start 7038860, loop_end 7038944, src_end 7038973
+fluidsynth: debug: Discovering sample 'Jazz Guitar-C3', src_start 7021973, loop_start 7030978, loop_end 7031146, src_end 7031206
+fluidsynth: debug: Discovering sample 'Jazz Guitar-C#5', src_start 7013803, loop_start 7021827, loop_end 7021906, src_end 7021926
+fluidsynth: debug: Discovering sample 'Jazz Guitar-B4', src_start 7005695, loop_start 7013647, loop_end 7013736, src_end 7013756
+fluidsynth: debug: Discovering sample 'Jazz Guitar-A2', src_start 6997166, loop_start 7005320, loop_end 7005520, src_end 7005648
+fluidsynth: debug: Discovering sample 'Jazz Guitar-A#3', src_start 6986833, loop_start 6996882, loop_end 6997071, src_end 6997119
+fluidsynth: debug: Discovering sample 'Jazz Bass Drum', src_start 6979784, loop_start 6979787, loop_end 6986780, src_end 6986786
+fluidsynth: debug: Discovering sample 'Horse Gallop', src_start 6959359, loop_start 6959367, loop_end 6979730, src_end 6979737
+fluidsynth: debug: Discovering sample 'Hi-Hat Pedal', src_start 6954588, loop_start 6954596, loop_end 6959305, src_end 6959312
+fluidsynth: debug: Discovering sample 'Hi-Hat Open', src_start 6859548, loop_start 6932122, loop_end 6954528, src_end 6954541
+fluidsynth: debug: Discovering sample 'Hi-Hat Open Attack', src_start 6856793, loop_start 6856801, loop_end 6859494, src_end 6859501
+fluidsynth: debug: Discovering sample 'Hi-Hat Closed Soft', src_start 6850203, loop_start 6850211, loop_end 6856739, src_end 6856746
+fluidsynth: debug: Discovering sample 'Hi-Hat Closed Hard', src_start 6841097, loop_start 6841105, loop_end 6848482, src_end 6850156
+fluidsynth: debug: Discovering sample 'Helicopter', src_start 6828141, loop_start 6828144, loop_end 6841043, src_end 6841050
+fluidsynth: debug: Discovering sample 'Heartbeat', src_start 6807039, loop_start 6807047, loop_end 6828087, src_end 6828094
+fluidsynth: debug: Discovering sample 'Harpsi_2-E2', src_start 6805899, loop_start 6806848, loop_end 6806985, src_end 6806992
+fluidsynth: debug: Discovering sample 'Harpsi_2-C6', src_start 6804753, loop_start 6805833, loop_end 6805845, src_end 6805852
+fluidsynth: debug: Discovering sample 'Harpsi_2-C3', src_start 6803348, loop_start 6804612, loop_end 6804699, src_end 6804706
+fluidsynth: debug: Discovering sample 'Harpsi_2-Bb4', src_start 6802059, loop_start 6803269, loop_end 6803294, src_end 6803301
+fluidsynth: debug: Discovering sample 'Harpsi_2-Ab1', src_start 6800489, loop_start 6801745, loop_end 6802004, src_end 6802012
+fluidsynth: debug: Discovering sample 'Harpsi_2-A3', src_start 6799299, loop_start 6800383, loop_end 6800435, src_end 6800442
+fluidsynth: debug: Discovering sample 'Harpsi_1-F5xt', src_start 6796021, loop_start 6799182, loop_end 6799245, src_end 6799252
+fluidsynth: debug: Discovering sample 'Harpsi_1-F5', src_start 6783202, loop_start 6795850, loop_end 6795913, src_end 6795974
+fluidsynth: debug: Discovering sample 'Harpsi_1-F4', src_start 6755234, loop_start 6782839, loop_end 6783090, src_end 6783155
+fluidsynth: debug: Discovering sample 'Harpsi_1-F3', src_start 6728851, loop_start 6754897, loop_end 6755148, src_end 6755187
+fluidsynth: debug: Discovering sample 'Harpsi_1-C#2', src_start 6708088, loop_start 6728080, loop_end 6728711, src_end 6728804
+fluidsynth: debug: Discovering sample 'Harpsi_1-A2', src_start 6687556, loop_start 6707561, loop_end 6707961, src_end 6708041
+fluidsynth: debug: Discovering sample 'Harmonica-E5', src_start 6683138, loop_start 6687428, loop_end 6687500, src_end 6687509
+fluidsynth: debug: Discovering sample 'Harmonica-E4', src_start 6678706, loop_start 6682973, loop_end 6683069, src_end 6683091
+fluidsynth: debug: Discovering sample 'Harmonica-E3', src_start 6673278, loop_start 6678423, loop_end 6678616, src_end 6678659
+fluidsynth: debug: Discovering sample 'Harmonica-B5', src_start 6668466, loop_start 6673173, loop_end 6673205, src_end 6673231
+fluidsynth: debug: Discovering sample 'Harmonica-A4', src_start 6663439, loop_start 6668239, loop_end 6668384, src_end 6668419
+fluidsynth: debug: Discovering sample 'Harmonica-A3', src_start 6656694, loop_start 6663209, loop_end 6663354, src_end 6663392
+fluidsynth: debug: Discovering sample 'Hand Clap', src_start 6652106, loop_start 6652114, loop_end 6656640, src_end 6656647
+fluidsynth: debug: Discovering sample 'Hammond Organ-9', src_start 6649565, loop_start 6651872, loop_end 6652037, src_end 6652059
+fluidsynth: debug: Discovering sample 'Hammond Organ-8', src_start 6647101, loop_start 6649323, loop_end 6649483, src_end 6649518
+fluidsynth: debug: Discovering sample 'Hammond Organ-7', src_start 6644845, loop_start 6646891, loop_end 6647037, src_end 6647054
+fluidsynth: debug: Discovering sample 'Hammond Organ-6', src_start 6642735, loop_start 6644476, loop_end 6644767, src_end 6644798
+fluidsynth: debug: Discovering sample 'Hammond Organ-5', src_start 6641131, loop_start 6642405, loop_end 6642659, src_end 6642688
+fluidsynth: debug: Discovering sample 'Hammond Organ-4', src_start 6639517, loop_start 6640765, loop_end 6641015, src_end 6641084
+fluidsynth: debug: Discovering sample 'Hammond Organ-3', src_start 6637796, loop_start 6639160, loop_end 6639393, src_end 6639470
+fluidsynth: debug: Discovering sample 'Hammond Organ-2', src_start 6636454, loop_start 6637519, loop_end 6637733, src_end 6637749
+fluidsynth: debug: Discovering sample 'Hammond Organ-11', src_start 6635599, loop_start 6636344, loop_end 6636398, src_end 6636407
+fluidsynth: debug: Discovering sample 'Hammond Organ-10', src_start 6634067, loop_start 6635434, loop_end 6635532, src_end 6635552
+fluidsynth: debug: Discovering sample 'Hammond Organ-1', src_start 6632473, loop_start 6633626, loop_end 6633819, src_end 6634020
+fluidsynth: debug: Discovering sample 'Gun Shot', src_start 6622007, loop_start 6622010, loop_end 6632420, src_end 6632426
+fluidsynth: debug: Discovering sample 'Guiro Short', src_start 6619985, loop_start 6619993, loop_end 6621953, src_end 6621960
+fluidsynth: debug: Discovering sample 'Guiro Long', src_start 6606888, loop_start 6606896, loop_end 6619931, src_end 6619938
+fluidsynth: debug: Discovering sample 'Gtr Slap', src_start 6603703, loop_start 6603706, loop_end 6606835, src_end 6606841
+fluidsynth: debug: Discovering sample 'Gtr Harmonics-Gb2', src_start 6595722, loop_start 6603461, loop_end 6603649, src_end 6603656
+fluidsynth: debug: Discovering sample 'Gtr Harmonics-Eb3', src_start 6594447, loop_start 6595557, loop_end 6595668, src_end 6595675
+fluidsynth: debug: Discovering sample 'Gtr Harmonics-C6', src_start 6594259, loop_start 6594377, loop_end 6594393, src_end 6594400
+fluidsynth: debug: Discovering sample 'Gtr Harmonics-C5', src_start 6593876, loop_start 6594172, loop_end 6594205, src_end 6594212
+fluidsynth: debug: Discovering sample 'Gtr Harmonics-B2', src_start 6587953, loop_start 6593399, loop_end 6593822, src_end 6593829
+fluidsynth: debug: Discovering sample 'Gtr Harmonics-Ab3', src_start 6587053, loop_start 6587732, loop_end 6587899, src_end 6587906
+fluidsynth: debug: Discovering sample 'Gtr Cut Up', src_start 6584132, loop_start 6584135, loop_end 6587000, src_end 6587006
+fluidsynth: debug: Discovering sample 'Gtr Cut Down', src_start 6580174, loop_start 6580177, loop_end 6584079, src_end 6584085
+fluidsynth: debug: Discovering sample 'Gtr Click', src_start 6579854, loop_start 6579857, loop_end 6580121, src_end 6580127
+fluidsynth: debug: Discovering sample 'Grand Piano-G6', src_start 6560727, loop_start 6571108, loop_end 6579788, src_end 6579807
+fluidsynth: debug: Discovering sample 'Grand Piano-G#2', src_start 6482827, loop_start 6522073, loop_end 6560681, src_end 6560680
+fluidsynth: debug: Discovering sample 'Grand Piano-F3', src_start 6419374, loop_start 6452224, loop_end 6482780, src_end 6482780
+fluidsynth: debug: Discovering sample 'Grand Piano-F1', src_start 6339398, loop_start 6387267, loop_end 6419327, src_end 6419327
+fluidsynth: debug: Discovering sample 'Grand Piano-F#4', src_start 6288056, loop_start 6316487, loop_end 6339352, src_end 6339351
+fluidsynth: debug: Discovering sample 'Grand Piano-D6', src_start 6256352, loop_start 6273713, loop_end 6288010, src_end 6288009
+fluidsynth: debug: Discovering sample 'Grand Piano-D2', src_start 6175388, loop_start 6224706, loop_end 6256306, src_end 6256305
+fluidsynth: debug: Discovering sample 'Grand Piano-D1', src_start 6104555, loop_start 6140195, loop_end 6175341, src_end 6175341
+fluidsynth: debug: Discovering sample 'Grand Piano-D#5', src_start 6030858, loop_start 6069255, loop_end 6104504, src_end 6104508
+fluidsynth: debug: Discovering sample 'Grand Piano-D#3', src_start 5907492, loop_start 6024248, loop_end 6030780, src_end 6030811
+fluidsynth: debug: Discovering sample 'Grand Piano-C7', src_start 5883946, loop_start 5903242, loop_end 5907446, src_end 5907445
+fluidsynth: debug: Discovering sample 'Grand Piano-C5', src_start 5824384, loop_start 5858329, loop_end 5883900, src_end 5883899
+fluidsynth: debug: Discovering sample 'Grand Piano-C4', src_start 5761812, loop_start 5792682, loop_end 5824338, src_end 5824337
+fluidsynth: debug: Discovering sample 'Grand Piano-C3', src_start 5683712, loop_start 5727633, loop_end 5761766, src_end 5761765
+fluidsynth: debug: Discovering sample 'Grand Piano-A5', src_start 5637701, loop_start 5665137, loop_end 5683666, src_end 5683665
+fluidsynth: debug: Discovering sample 'Grand Piano-A#3', src_start 5575037, loop_start 5607141, loop_end 5637655, src_end 5637654
+fluidsynth: debug: Discovering sample 'Grand Piano-A#1', src_start 5493378, loop_start 5543913, loop_end 5574991, src_end 5574990
+fluidsynth: debug: Discovering sample 'Goblin Loop-Eb6', src_start 5493066, loop_start 5493314, loop_end 5493324, src_end 5493331
+fluidsynth: debug: Discovering sample 'Goblin Loop-Eb4', src_start 5490905, loop_start 5492975, loop_end 5493012, src_end 5493019
+fluidsynth: debug: Discovering sample 'Goblin Loop-Eb3', src_start 5485680, loop_start 5490336, loop_end 5490851, src_end 5490858
+fluidsynth: debug: Discovering sample 'Glockenspiel-G#4', src_start 5445832, loop_start 5476271, loop_end 5485629, src_end 5485633
+fluidsynth: debug: Discovering sample 'Glockenspiel-D6', src_start 5444140, loop_start 5445683, loop_end 5445778, src_end 5445785
+fluidsynth: debug: Discovering sample 'GlockLoopC4', src_start 5443879, loop_start 5443886, loop_end 5444090, src_end 5444093
+fluidsynth: debug: Discovering sample 'Gated Kick', src_start 5428057, loop_start 5428065, loop_end 5443825, src_end 5443832
+fluidsynth: debug: Discovering sample 'Fretless Bass-G#4', src_start 5416400, loop_start 5427865, loop_end 5427971, src_end 5428010
+fluidsynth: debug: Discovering sample 'Fretless Bass-G#3', src_start 5400995, loop_start 5416106, loop_end 5416319, src_end 5416353
+fluidsynth: debug: Discovering sample 'Fretless Bass-G#2', src_start 5385992, loop_start 5400448, loop_end 5400872, src_end 5400948
+fluidsynth: debug: Discovering sample 'Fretless Bass-D3', src_start 5371577, loop_start 5385762, loop_end 5385913, src_end 5385945
+fluidsynth: debug: Discovering sample 'Fret Slide', src_start 5363748, loop_start 5363751, loop_end 5371524, src_end 5371530
+fluidsynth: debug: Discovering sample 'French Horn-D#4xt', src_start 5350760, loop_start 5356259, loop_end 5363694, src_end 5363701
+fluidsynth: debug: Discovering sample 'French Horn-D#4', src_start 5318719, loop_start 5340716, loop_end 5350629, src_end 5350713
+fluidsynth: debug: Discovering sample 'French Horn-D#3', src_start 5278990, loop_start 5297547, loop_end 5318561, src_end 5318672
+fluidsynth: debug: Discovering sample 'French Horn-A#3xt', src_start 5268613, loop_start 5273151, loop_end 5278936, src_end 5278943
+fluidsynth: debug: Discovering sample 'French Horn-A#3', src_start 5238655, loop_start 5256806, loop_end 5268376, src_end 5268566
+fluidsynth: debug: Discovering sample 'French Horn-A#2', src_start 5174275, loop_start 5214013, loop_end 5236840, src_end 5238608
+fluidsynth: debug: Discovering sample 'FrHorns_2 F3', src_start 5168677, loop_start 5174131, loop_end 5174224, src_end 5174228
+fluidsynth: debug: Discovering sample 'FrHorns_2 F2', src_start 5163676, loop_start 5168449, loop_end 5168626, src_end 5168630
+fluidsynth: debug: Discovering sample 'FrHorns_2 D2', src_start 5158876, loop_start 5163421, loop_end 5163625, src_end 5163629
+fluidsynth: debug: Discovering sample 'FrHorns_2 D#6', src_start 5158405, loop_start 5158815, loop_end 5158825, src_end 5158829
+fluidsynth: debug: Discovering sample 'FrHorns_2 D#4', src_start 5152470, loop_start 5158301, loop_end 5158354, src_end 5158358
+fluidsynth: debug: Discovering sample 'FrHorns_2 C3', src_start 5143583, loop_start 5152297, loop_end 5152419, src_end 5152423
+fluidsynth: debug: Discovering sample 'FrHorns_2 A#3', src_start 5139658, loop_start 5143462, loop_end 5143532, src_end 5143536
+fluidsynth: debug: Discovering sample 'FrHorns_1 G2', src_start 5133867, loop_start 5139466, loop_end 5139607, src_end 5139611
+fluidsynth: debug: Discovering sample 'FrHorns_1 F3', src_start 5129442, loop_start 5133737, loop_end 5133816, src_end 5133820
+fluidsynth: debug: Discovering sample 'FrHorns_1 D2', src_start 5121185, loop_start 5129202, loop_end 5129391, src_end 5129395
+fluidsynth: debug: Discovering sample 'FrHorns_1 D#6', src_start 5120777, loop_start 5121124, loop_end 5121134, src_end 5121138
+fluidsynth: debug: Discovering sample 'FrHorns_1 D#4', src_start 5115375, loop_start 5120682, loop_end 5120726, src_end 5120730
+fluidsynth: debug: Discovering sample 'FrHorns_1 C3', src_start 5111194, loop_start 5115218, loop_end 5115324, src_end 5115328
+fluidsynth: debug: Discovering sample 'Foot Step', src_start 5107349, loop_start 5107352, loop_end 5111141, src_end 5111147
+fluidsynth: debug: Discovering sample 'Flute-G6', src_start 5070799, loop_start 5096450, loop_end 5107295, src_end 5107302
+fluidsynth: debug: Discovering sample 'Flute-G5', src_start 5032195, loop_start 5059506, loop_end 5070745, src_end 5070752
+fluidsynth: debug: Discovering sample 'Flute-G4', src_start 4991485, loop_start 5019915, loop_end 5032141, src_end 5032148
+fluidsynth: debug: Discovering sample 'Flute-E6', src_start 4964495, loop_start 4979736, loop_end 4991431, src_end 4991438
+fluidsynth: debug: Discovering sample 'Flute-E5', src_start 4928399, loop_start 4953389, loop_end 4964441, src_end 4964448
+fluidsynth: debug: Discovering sample 'Flute-D#4', src_start 4904758, loop_start 4917250, loop_end 4928345, src_end 4928352
+fluidsynth: debug: Discovering sample 'Flute-C#6', src_start 4872319, loop_start 4899120, loop_end 4904704, src_end 4904711
+fluidsynth: debug: Discovering sample 'Flute-C#5', src_start 4827248, loop_start 4861194, loop_end 4872265, src_end 4872272
+fluidsynth: debug: Discovering sample 'Flute-C#4', src_start 4797556, loop_start 4814978, loop_end 4827194, src_end 4827201
+fluidsynth: debug: Discovering sample 'Flute-A#6', src_start 4764967, loop_start 4786534, loop_end 4797502, src_end 4797509
+fluidsynth: debug: Discovering sample 'Flute-A#5', src_start 4732497, loop_start 4753918, loop_end 4764913, src_end 4764920
+fluidsynth: debug: Discovering sample 'Flute-A#4', src_start 4702640, loop_start 4721097, loop_end 4732443, src_end 4732450
+fluidsynth: debug: Discovering sample 'Finger Bass-G1', src_start 4692333, loop_start 4702482, loop_end 4702584, src_end 4702593
+fluidsynth: debug: Discovering sample 'Finger Bass-E0', src_start 4681738, loop_start 4692038, loop_end 4692278, src_end 4692286
+fluidsynth: debug: Discovering sample 'Finger Bass-D1', src_start 4671319, loop_start 4681548, loop_end 4681684, src_end 4681691
+fluidsynth: debug: Discovering sample 'Finger Bass-A0', src_start 4661455, loop_start 4671072, loop_end 4671242, src_end 4671272
+fluidsynth: debug: Discovering sample 'FilterSnap', src_start 4660990, loop_start 4660997, loop_end 4661406, src_end 4661408
+fluidsynth: debug: Discovering sample 'Filter Snap', src_start 4659139, loop_start 4659140, loop_end 4660944, src_end 4660943
+fluidsynth: debug: Discovering sample 'Explosion', src_start 4640501, loop_start 4640509, loop_end 4659085, src_end 4659092
+fluidsynth: debug: Discovering sample 'English Horn-G#4', src_start 4618685, loop_start 4633768, loop_end 4640423, src_end 4640454
+fluidsynth: debug: Discovering sample 'English Horn-F#4', src_start 4597479, loop_start 4612422, loop_end 4618605, src_end 4618638
+fluidsynth: debug: Discovering sample 'English Horn-F#3', src_start 4571929, loop_start 4591079, loop_end 4597401, src_end 4597432
+fluidsynth: debug: Discovering sample 'English Horn-C#4', src_start 4543963, loop_start 4566327, loop_end 4571851, src_end 4571882
+fluidsynth: debug: Discovering sample 'English Horn-C#3', src_start 4523297, loop_start 4538044, loop_end 4543885, src_end 4543916
+fluidsynth: debug: Discovering sample 'English Horn-A#3', src_start 4502236, loop_start 4516994, loop_end 4523219, src_end 4523250
+fluidsynth: debug: Discovering sample 'English Horn-A#2', src_start 4490723, loop_start 4496368, loop_end 4502158, src_end 4502189
+fluidsynth: debug: Discovering sample 'Electronic Kick', src_start 4477447, loop_start 4477455, loop_end 4490669, src_end 4490676
+fluidsynth: debug: Discovering sample 'Electric Tom', src_start 4462403, loop_start 4462404, loop_end 4477401, src_end 4477400
+fluidsynth: debug: Discovering sample 'Electric Snare', src_start 4449254, loop_start 4449262, loop_end 4462349, src_end 4462356
+fluidsynth: debug: Discovering sample 'EPiano2MS', src_start 4448036, loop_start 4449156, loop_end 4449204, src_end 4449207
+fluidsynth: debug: Discovering sample 'Dulcimer-F#5', src_start 4418171, loop_start 4447936, loop_end 4447982, src_end 4447989
+fluidsynth: debug: Discovering sample 'Dulcimer-F#4', src_start 4387961, loop_start 4418028, loop_end 4418117, src_end 4418124
+fluidsynth: debug: Discovering sample 'Dulcimer-E6', src_start 4337250, loop_start 4387873, loop_end 4387907, src_end 4387914
+fluidsynth: debug: Discovering sample 'Dulcimer-C5', src_start 4293397, loop_start 4337136, loop_end 4337197, src_end 4337203
+fluidsynth: debug: Discovering sample 'Dulcimer-C#4', src_start 4248100, loop_start 4293231, loop_end 4293343, src_end 4293350
+fluidsynth: debug: Discovering sample 'Dulcimer-B5', src_start 4214042, loop_start 4248011, loop_end 4248046, src_end 4248053
+fluidsynth: debug: Discovering sample 'Double Bass-G3', src_start 4194122, loop_start 4208716, loop_end 4213964, src_end 4213995
+fluidsynth: debug: Discovering sample 'Double Bass-G1', src_start 4179964, loop_start 4187644, loop_end 4194044, src_end 4194075
+fluidsynth: debug: Discovering sample 'Double Bass-F#2', src_start 4161201, loop_start 4172714, loop_end 4179886, src_end 4179917
+fluidsynth: debug: Discovering sample 'Double Bass-D3', src_start 4141937, loop_start 4154444, loop_end 4161123, src_end 4161154
+fluidsynth: debug: Discovering sample 'Double Bass-D#2', src_start 4121865, loop_start 4135008, loop_end 4141859, src_end 4141890
+fluidsynth: debug: Discovering sample 'Double Bass-C3', src_start 4099756, loop_start 4115321, loop_end 4121787, src_end 4121818
+fluidsynth: debug: Discovering sample 'Double Bass-A#1', src_start 4077293, loop_start 4092824, loop_end 4099678, src_end 4099709
+fluidsynth: debug: Discovering sample 'Door Slam', src_start 4063762, loop_start 4063765, loop_end 4077240, src_end 4077246
+fluidsynth: debug: Discovering sample 'Door Creak', src_start 4035101, loop_start 4035104, loop_end 4063709, src_end 4063715
+fluidsynth: debug: Discovering sample 'Dog', src_start 4025349, loop_start 4025352, loop_end 4035048, src_end 4035054
+fluidsynth: debug: Discovering sample 'Distortion Gt-G4', src_start 4000161, loop_start 4024894, loop_end 4025139, src_end 4025302
+fluidsynth: debug: Discovering sample 'Distortion Gt-G3', src_start 3974936, loop_start 3999925, loop_end 4000052, src_end 4000114
+fluidsynth: debug: Discovering sample 'Distortion Gt-E5', src_start 3956339, loop_start 3974728, loop_end 3974819, src_end 3974889
+fluidsynth: debug: Discovering sample 'Distortion Gt-E4', src_start 3930247, loop_start 3956118, loop_end 3956194, src_end 3956292
+fluidsynth: debug: Discovering sample 'Distortion Gt-E2', src_start 3913625, loop_start 3929897, loop_end 3930080, src_end 3930200
+fluidsynth: debug: Discovering sample 'Distortion Gt-D3', src_start 3884448, loop_start 3913000, loop_end 3913341, src_end 3913578
+fluidsynth: debug: Discovering sample 'Distortion Gt-B4', src_start 3861956, loop_start 3884056, loop_end 3884238, src_end 3884401
+fluidsynth: debug: Discovering sample 'Distortion Gt-B3', src_start 3833274, loop_start 3861673, loop_end 3861774, src_end 3861909
+fluidsynth: debug: Discovering sample 'Distortion Gt-A5', src_start 3810617, loop_start 3832938, loop_end 3833177, src_end 3833227
+fluidsynth: debug: Discovering sample 'Distortion Gt-A2', src_start 3789491, loop_start 3810285, loop_end 3810468, src_end 3810570
+fluidsynth: debug: Discovering sample 'Dist. Gt. Low-G2', src_start 3755397, loop_start 3788003, loop_end 3789346, src_end 3789444
+fluidsynth: debug: Discovering sample 'Dist. Gt. Low-E2', src_start 3718871, loop_start 3754163, loop_end 3755228, src_end 3755350
+fluidsynth: debug: Discovering sample 'Dist. Gt. Low-C3', src_start 3658921, loop_start 3716795, loop_end 3718477, src_end 3718824
+fluidsynth: debug: Discovering sample 'Dist. Gt. Low-C3-ds', src_start 3637141, loop_start 3658342, loop_end 3658830, src_end 3658874
+fluidsynth: debug: Discovering sample 'Dist. Gt. Low-A2', src_start 3607689, loop_start 3634175, loop_end 3636974, src_end 3637094
+fluidsynth: debug: Discovering sample 'Dead Air', src_start 3607423, loop_start 3607431, loop_end 3607635, src_end 3607642
+fluidsynth: debug: Discovering sample 'Dance Snare', src_start 3594718, loop_start 3594726, loop_end 3607377, src_end 3607376
+fluidsynth: debug: Discovering sample 'DX7 Wave', src_start 3585319, loop_start 3587565, loop_end 3594641, src_end 3594671
+fluidsynth: debug: Discovering sample 'DX7 Strike 6', src_start 3563235, loop_start 3583850, loop_end 3585183, src_end 3585272
+fluidsynth: debug: Discovering sample 'DX7 Strike 5', src_start 3530136, loop_start 3560469, loop_end 3563060, src_end 3563188
+fluidsynth: debug: Discovering sample 'DX7 Strike 4', src_start 3498778, loop_start 3529318, loop_end 3529956, src_end 3530089
+fluidsynth: debug: Discovering sample 'DX7 Strike 3', src_start 3466392, loop_start 3498477, loop_end 3498665, src_end 3498731
+fluidsynth: debug: Discovering sample 'DX7 Strike 2', src_start 3438426, loop_start 3464753, loop_end 3466255, src_end 3466345
+fluidsynth: debug: Discovering sample 'DX7 Strike 1', src_start 3409705, loop_start 3437565, loop_end 3438315, src_end 3438379
+fluidsynth: debug: Discovering sample 'Cuica Open', src_start 3396978, loop_start 3396986, loop_end 3409651, src_end 3409658
+fluidsynth: debug: Discovering sample 'Cuica Mute', src_start 3387817, loop_start 3387825, loop_end 3396924, src_end 3396931
+fluidsynth: debug: Discovering sample 'Crystal-C5', src_start 3383262, loop_start 3387535, loop_end 3387702, src_end 3387770
+fluidsynth: debug: Discovering sample 'Crash Cymbal', src_start 3276917, loop_start 3276925, loop_end 3383208, src_end 3383215
+fluidsynth: debug: Discovering sample 'Cowbell', src_start 3272040, loop_start 3272040, loop_end 3276871, src_end 3276870
+fluidsynth: debug: Discovering sample 'Conga High Open', src_start 3262112, loop_start 3262120, loop_end 3271986, src_end 3271993
+fluidsynth: debug: Discovering sample 'Conga High Muted', src_start 3259059, loop_start 3259060, loop_end 3262066, src_end 3262065
+fluidsynth: debug: Discovering sample 'Concert Choir-G5', src_start 3226249, loop_start 3236123, loop_end 3256607, src_end 3259012
+fluidsynth: debug: Discovering sample 'Concert Choir-G3', src_start 3194274, loop_start 3207878, loop_end 3226161, src_end 3226202
+fluidsynth: debug: Discovering sample 'Concert Choir-F5', src_start 3162758, loop_start 3174989, loop_end 3192943, src_end 3194227
+fluidsynth: debug: Discovering sample 'Concert Choir-F4', src_start 3134851, loop_start 3146706, loop_end 3162659, src_end 3162711
+fluidsynth: debug: Discovering sample 'Concert Choir-D#3', src_start 3107216, loop_start 3117335, loop_end 3134730, src_end 3134804
+fluidsynth: debug: Discovering sample 'Concert Choir-C6', src_start 3102144, loop_start 3102162, loop_end 3107162, src_end 3107169
+fluidsynth: debug: Discovering sample 'Concert Choir-C#5', src_start 3070839, loop_start 3087527, loop_end 3100379, src_end 3102097
+fluidsynth: debug: Discovering sample 'Concert Choir-C#4', src_start 3037311, loop_start 3054445, loop_end 3070761, src_end 3070792
+fluidsynth: debug: Discovering sample 'Concert Choir-C#3', src_start 3005519, loop_start 3022946, loop_end 3037221, src_end 3037264
+fluidsynth: debug: Discovering sample 'Concert Choir-B4', src_start 2972554, loop_start 2990145, loop_end 3004732, src_end 3005472
+fluidsynth: debug: Discovering sample 'Concert Choir-B3', src_start 2941203, loop_start 2956344, loop_end 2972494, src_end 2972507
+fluidsynth: debug: Discovering sample 'Concert Choir-A4', src_start 2912774, loop_start 2923695, loop_end 2941132, src_end 2941156
+fluidsynth: debug: Discovering sample 'Concert Choir-A2', src_start 2879186, loop_start 2895531, loop_end 2912678, src_end 2912727
+fluidsynth: debug: Discovering sample 'ColdGlass7Wave', src_start 2879071, loop_start 2879088, loop_end 2879136, src_end 2879139
+fluidsynth: debug: Discovering sample 'ColdGlass12Wave', src_start 2878935, loop_start 2878950, loop_end 2879021, src_end 2879024
+fluidsynth: debug: Discovering sample 'Clean Guitar-G4', src_start 2851483, loop_start 2877330, loop_end 2878857, src_end 2878888
+fluidsynth: debug: Discovering sample 'Clean Guitar-G3', src_start 2808334, loop_start 2849877, loop_end 2851405, src_end 2851436
+fluidsynth: debug: Discovering sample 'Clean Guitar-E5', src_start 2772770, loop_start 2806740, loop_end 2808256, src_end 2808287
+fluidsynth: debug: Discovering sample 'Clean Guitar-E4', src_start 2737174, loop_start 2771330, loop_end 2772692, src_end 2772723
+fluidsynth: debug: Discovering sample 'Clean Guitar-E2', src_start 2716436, loop_start 2735585, loop_end 2737096, src_end 2737127
+fluidsynth: debug: Discovering sample 'Clean Guitar-D3', src_start 2680800, loop_start 2715002, loop_end 2716358, src_end 2716389
+fluidsynth: debug: Discovering sample 'Clean Guitar-B3', src_start 2650937, loop_start 2679207, loop_end 2680722, src_end 2680753
+fluidsynth: debug: Discovering sample 'Clean Guitar-A2', src_start 2625267, loop_start 2649502, loop_end 2650859, src_end 2650890
+fluidsynth: debug: Discovering sample 'Clean Guitar-A#4', src_start 2605883, loop_start 2623743, loop_end 2625189, src_end 2625220
+fluidsynth: debug: Discovering sample 'Clavinet-F#2', src_start 2582031, loop_start 2605482, loop_end 2605829, src_end 2605836
+fluidsynth: debug: Discovering sample 'Clavinet-E6', src_start 2567925, loop_start 2581859, loop_end 2581958, src_end 2581984
+fluidsynth: debug: Discovering sample 'Clavinet-E4', src_start 2554811, loop_start 2567727, loop_end 2567826, src_end 2567878
+fluidsynth: debug: Discovering sample 'Clavinet-D5', src_start 2543697, loop_start 2554486, loop_end 2554652, src_end 2554764
+fluidsynth: debug: Discovering sample 'Clavinet-D3', src_start 2527822, loop_start 2543198, loop_end 2543643, src_end 2543650
+fluidsynth: debug: Discovering sample 'Clavinet-B1', src_start 2504853, loop_start 2527252, loop_end 2527768, src_end 2527775
+fluidsynth: debug: Discovering sample 'Clavinet-A5', src_start 2485367, loop_start 2504724, loop_end 2504761, src_end 2504806
+fluidsynth: debug: Discovering sample 'Clavinet-A3', src_start 2466877, loop_start 2485129, loop_end 2485277, src_end 2485320
+fluidsynth: debug: Discovering sample 'Claves', src_start 2464481, loop_start 2464482, loop_end 2466831, src_end 2466830
+fluidsynth: debug: Discovering sample 'Clarinet-F3', src_start 2460142, loop_start 2462684, loop_end 2464403, src_end 2464434
+fluidsynth: debug: Discovering sample 'Clarinet-E5', src_start 2455848, loop_start 2458390, loop_end 2460064, src_end 2460095
+fluidsynth: debug: Discovering sample 'Clarinet-E4', src_start 2451563, loop_start 2454106, loop_end 2455770, src_end 2455801
+fluidsynth: debug: Discovering sample 'Clarinet-A#5', src_start 2447260, loop_start 2449803, loop_end 2451485, src_end 2451516
+fluidsynth: debug: Discovering sample 'Clarinet-A#4', src_start 2442951, loop_start 2445494, loop_end 2447182, src_end 2447213
+fluidsynth: debug: Discovering sample 'Clarinet-A#3', src_start 2438620, loop_start 2441163, loop_end 2442873, src_end 2442904
+fluidsynth: debug: Discovering sample 'Chinese Cymbal', src_start 2394256, loop_start 2431679, loop_end 2438566, src_end 2438573
+fluidsynth: debug: Discovering sample 'Chimes', src_start 2293696, loop_start 2375975, loop_end 2394200, src_end 2394209
+fluidsynth: debug: Discovering sample 'Chiff Flute', src_start 2277506, loop_start 2285119, loop_end 2293611, src_end 2293649
+fluidsynth: debug: Discovering sample 'ChanterAx1', src_start 2275603, loop_start 2277408, loop_end 2277456, src_end 2277459
+fluidsynth: debug: Discovering sample 'CelloAttack-F#3', src_start 2270616, loop_start 2270624, loop_end 2275549, src_end 2275556
+fluidsynth: debug: Discovering sample 'CelloAttack-F#2', src_start 2264113, loop_start 2264121, loop_end 2270562, src_end 2270569
+fluidsynth: debug: Discovering sample 'CelloAttack-F#1', src_start 2258557, loop_start 2258565, loop_end 2264059, src_end 2264066
+fluidsynth: debug: Discovering sample 'CelloAttack-D3', src_start 2252670, loop_start 2252678, loop_end 2258503, src_end 2258510
+fluidsynth: debug: Discovering sample 'CelloAttack-D2', src_start 2247271, loop_start 2247279, loop_end 2252616, src_end 2252623
+fluidsynth: debug: Discovering sample 'CelloAttack-D1', src_start 2242455, loop_start 2242463, loop_end 2247217, src_end 2247224
+fluidsynth: debug: Discovering sample 'CelloAttack-A#3', src_start 2237596, loop_start 2237604, loop_end 2242401, src_end 2242408
+fluidsynth: debug: Discovering sample 'CelloAttack-A#2', src_start 2231866, loop_start 2231874, loop_end 2237542, src_end 2237549
+fluidsynth: debug: Discovering sample 'CelloAttack-A#1', src_start 2225651, loop_start 2225659, loop_end 2231812, src_end 2231819
+fluidsynth: debug: Discovering sample 'Cello-G#1', src_start 2188538, loop_start 2218890, loop_end 2225573, src_end 2225604
+fluidsynth: debug: Discovering sample 'Cello-F3', src_start 2164912, loop_start 2182416, loop_end 2188460, src_end 2188491
+fluidsynth: debug: Discovering sample 'Cello-F1', src_start 2131373, loop_start 2158687, loop_end 2164834, src_end 2164865
+fluidsynth: debug: Discovering sample 'Cello-F#2', src_start 2097707, loop_start 2125332, loop_end 2131295, src_end 2131326
+fluidsynth: debug: Discovering sample 'Cello-E3', src_start 2070254, loop_start 2092026, loop_end 2097629, src_end 2097660
+fluidsynth: debug: Discovering sample 'Cello-D#4xt', src_start 2052631, loop_start 2067292, loop_end 2070200, src_end 2070207
+fluidsynth: debug: Discovering sample 'Cello-D#4', src_start 2017414, loop_start 2046737, loop_end 2052553, src_end 2052584
+fluidsynth: debug: Discovering sample 'Cello-D#2', src_start 1984186, loop_start 2011364, loop_end 2017336, src_end 2017367
+fluidsynth: debug: Discovering sample 'Cello-D#1', src_start 1943186, loop_start 1977958, loop_end 1984108, src_end 1984139
+fluidsynth: debug: Discovering sample 'Cello-C#1', src_start 1902657, loop_start 1936584, loop_end 1943108, src_end 1943139
+fluidsynth: debug: Discovering sample 'Cello-B3', src_start 1872724, loop_start 1897213, loop_end 1902576, src_end 1902610
+fluidsynth: debug: Discovering sample 'Cello-B2', src_start 1835946, loop_start 1866937, loop_end 1872646, src_end 1872677
+fluidsynth: debug: Discovering sample 'Cello-A3', src_start 1806204, loop_start 1830063, loop_end 1835868, src_end 1835899
+fluidsynth: debug: Discovering sample 'Cello-A#1', src_start 1772784, loop_start 1799796, loop_end 1806126, src_end 1806157
+fluidsynth: debug: Discovering sample 'Celeste-F#5', src_start 1763375, loop_start 1772506, loop_end 1772730, src_end 1772737
+fluidsynth: debug: Discovering sample 'Celeste-D#7', src_start 1752117, loop_start 1762948, loop_end 1763321, src_end 1763328
+fluidsynth: debug: Discovering sample 'Celeste-D#6', src_start 1745812, loop_start 1751850, loop_end 1752063, src_end 1752070
+fluidsynth: debug: Discovering sample 'Celeste-D#4', src_start 1737651, loop_start 1745545, loop_end 1745758, src_end 1745765
+fluidsynth: debug: Discovering sample 'Celeste-A4', src_start 1730261, loop_start 1737371, loop_end 1737597, src_end 1737604
+fluidsynth: debug: Discovering sample 'Castanets', src_start 1728572, loop_start 1728580, loop_end 1730207, src_end 1730214
+fluidsynth: debug: Discovering sample 'Carillon', src_start 1727328, loop_start 1727620, loop_end 1728492, src_end 1728525
+fluidsynth: debug: Discovering sample 'Carillon-C6', src_start 1717219, loop_start 1726083, loop_end 1727274, src_end 1727281
+fluidsynth: debug: Discovering sample 'Car-Start', src_start 1678573, loop_start 1710310, loop_end 1717165, src_end 1717172
+fluidsynth: debug: Discovering sample 'Car-Skid', src_start 1657736, loop_start 1657739, loop_end 1678520, src_end 1678526
+fluidsynth: debug: Discovering sample 'Car-Pass', src_start 1615013, loop_start 1655518, loop_end 1657683, src_end 1657689
+fluidsynth: debug: Discovering sample 'Car-Crash', src_start 1569978, loop_start 1569986, loop_end 1614959, src_end 1614966
+fluidsynth: debug: Discovering sample 'Cabasa', src_start 1566335, loop_start 1566336, loop_end 1569932, src_end 1569931
+fluidsynth: debug: Discovering sample 'CP-80 EP-G6', src_start 1559672, loop_start 1565978, loop_end 1566266, src_end 1566288
+fluidsynth: debug: Discovering sample 'CP-80 EP-G4', src_start 1549435, loop_start 1559570, loop_end 1559598, src_end 1559625
+fluidsynth: debug: Discovering sample 'CP-80 EP-G2', src_start 1536558, loop_start 1549015, loop_end 1549353, src_end 1549388
+fluidsynth: debug: Discovering sample 'CP-80 EP-E5', src_start 1528457, loop_start 1536390, loop_end 1536490, src_end 1536511
+fluidsynth: debug: Discovering sample 'CP-80 EP-E3', src_start 1515674, loop_start 1528126, loop_end 1528393, src_end 1528410
+fluidsynth: debug: Discovering sample 'CP-80 EP-C6', src_start 1509510, loop_start 1515591, loop_end 1515612, src_end 1515627
+fluidsynth: debug: Discovering sample 'CP-80 EP-C4', src_start 1499923, loop_start 1509402, loop_end 1509444, src_end 1509463
+fluidsynth: debug: Discovering sample 'CP-80 EP-C2', src_start 1489580, loop_start 1499656, loop_end 1499824, src_end 1499876
+fluidsynth: debug: Discovering sample 'Bubbles', src_start 1462651, loop_start 1462696, loop_end 1489528, src_end 1489533
+fluidsynth: debug: Discovering sample 'Brushed Tom', src_start 1447602, loop_start 1447605, loop_end 1462598, src_end 1462604
+fluidsynth: debug: Discovering sample 'Brush Swirl', src_start 1432553, loop_start 1432556, loop_end 1447549, src_end 1447555
+fluidsynth: debug: Discovering sample 'Brush Snare', src_start 1430055, loop_start 1430058, loop_end 1432500, src_end 1432506
+fluidsynth: debug: Discovering sample 'Breath Noise-2', src_start 1427889, loop_start 1427897, loop_end 1430001, src_end 1430008
+fluidsynth: debug: Discovering sample 'Breath Noise-1', src_start 1420426, loop_start 1420434, loop_end 1427843, src_end 1427842
+fluidsynth: debug: Discovering sample 'Brass Section-G5', src_start 1353203, loop_start 1372688, loop_end 1420373, src_end 1420379
+fluidsynth: debug: Discovering sample 'Brass Section-G4', src_start 1277169, loop_start 1297267, loop_end 1353149, src_end 1353156
+fluidsynth: debug: Discovering sample 'Brass Section-E5', src_start 1199423, loop_start 1227051, loop_end 1277116, src_end 1277122
+fluidsynth: debug: Discovering sample 'Brass Section-C6xt', src_start 1183857, loop_start 1189502, loop_end 1199369, src_end 1199376
+fluidsynth: debug: Discovering sample 'Brass Section-C6', src_start 1121757, loop_start 1144337, loop_end 1183803, src_end 1183810
+fluidsynth: debug: Discovering sample 'Brass Section-C5', src_start 1046138, loop_start 1058608, loop_end 1121703, src_end 1121710
+fluidsynth: debug: Discovering sample 'Brass Section-C4', src_start 945660, loop_start 971684, loop_end 1046084, src_end 1046091
+fluidsynth: debug: Discovering sample 'Bottle Blow', src_start 913998, loop_start 931780, loop_end 945555, src_end 945613
+fluidsynth: debug: Discovering sample 'Bongo Tone', src_start 911038, loop_start 913863, loop_end 913944, src_end 913951
+fluidsynth: debug: Discovering sample 'Bongo Rim', src_start 908593, loop_start 908596, loop_end 909907, src_end 910991
+fluidsynth: debug: Discovering sample 'Bone Crunch', src_start 896521, loop_start 896529, loop_end 908539, src_end 908546
+fluidsynth: debug: Discovering sample 'Birds', src_start 788476, loop_start 788481, loop_end 896467, src_end 896474
+fluidsynth: debug: Discovering sample 'Bell Organ', src_start 731054, loop_start 735816, loop_end 788424, src_end 788429
+fluidsynth: debug: Discovering sample 'Bassoon-G#4', src_start 725218, loop_start 730893, loop_end 730973, src_end 731007
+fluidsynth: debug: Discovering sample 'Bassoon-F#4', src_start 719203, loop_start 725050, loop_end 725140, src_end 725171
+fluidsynth: debug: Discovering sample 'Bassoon-E3', src_start 709807, loop_start 718923, loop_end 719125, src_end 719156
+fluidsynth: debug: Discovering sample 'Bassoon-E2', src_start 703732, loop_start 709325, loop_end 709726, src_end 709760
+fluidsynth: debug: Discovering sample 'Bassoon-D5', src_start 697991, loop_start 703214, loop_end 703667, src_end 703685
+fluidsynth: debug: Discovering sample 'Bassoon-D4', src_start 691803, loop_start 697794, loop_end 697909, src_end 697944
+fluidsynth: debug: Discovering sample 'Bassoon-D3', src_start 682370, loop_start 691492, loop_end 691718, src_end 691756
+fluidsynth: debug: Discovering sample 'Bassoon-D2', src_start 675128, loop_start 681815, loop_end 682264, src_end 682323
+fluidsynth: debug: Discovering sample 'Bassoon-C5', src_start 668856, loop_start 674980, loop_end 675043, src_end 675081
+fluidsynth: debug: Discovering sample 'Bassoon-C4', src_start 662865, loop_start 668645, loop_end 668773, src_end 668809
+fluidsynth: debug: Discovering sample 'Bassoon-C3', src_start 655836, loop_start 662532, loop_end 662787, src_end 662818
+fluidsynth: debug: Discovering sample 'Bassoon-C2', src_start 649817, loop_start 655257, loop_end 655758, src_end 655789
+fluidsynth: debug: Discovering sample 'Bassoon-B4', src_start 645166, loop_start 649472, loop_end 649738, src_end 649770
+fluidsynth: debug: Discovering sample 'Bassoon-A#3', src_start 638896, loop_start 644934, loop_end 645076, src_end 645119
+fluidsynth: debug: Discovering sample 'Baritone Sax-F3', src_start 627195, loop_start 632377, loop_end 638657, src_end 638849
+fluidsynth: debug: Discovering sample 'Baritone Sax-F#2', src_start 613243, loop_start 626790, loop_end 626941, src_end 627148
+fluidsynth: debug: Discovering sample 'Baritone Sax-F#1', src_start 599501, loop_start 612573, loop_end 612874, src_end 613196
+fluidsynth: debug: Discovering sample 'Baritone Sax-D4', src_start 590385, loop_start 599251, loop_end 599298, src_end 599454
+fluidsynth: debug: Discovering sample 'Baritone Sax-D3', src_start 581465, loop_start 590067, loop_end 590161, src_end 590338
+fluidsynth: debug: Discovering sample 'Baritone Sax-D2', src_start 568864, loop_start 581106, loop_end 581295, src_end 581418
+fluidsynth: debug: Discovering sample 'Baritone Sax-A#3', src_start 562569, loop_start 568707, loop_end 568767, src_end 568817
+fluidsynth: debug: Discovering sample 'Baritone Sax-A#2', src_start 551738, loop_start 562148, loop_end 562267, src_end 562522
+fluidsynth: debug: Discovering sample 'Baritone Sax-A#1', src_start 541589, loop_start 551159, loop_end 551398, src_end 551691
+fluidsynth: debug: Discovering sample 'Banjo-F5', src_start 534821, loop_start 541449, loop_end 541509, src_end 541542
+fluidsynth: debug: Discovering sample 'Banjo-F4', src_start 528589, loop_start 534598, loop_end 534717, src_end 534774
+fluidsynth: debug: Discovering sample 'Banjo-F3', src_start 520990, loop_start 528239, loop_end 528477, src_end 528542
+fluidsynth: debug: Discovering sample 'Bagpipe Drone', src_start 492264, loop_start 492455, loop_end 520938, src_end 520943
+fluidsynth: debug: Discovering sample 'Bagpipe Chant', src_start 488100, loop_start 491953, loop_end 491994, src_end 492217
+fluidsynth: debug: Discovering sample 'BSawtoothWaveA3', src_start 487985, loop_start 488000, loop_end 488050, src_end 488053
+fluidsynth: debug: Discovering sample 'Applause', src_start 398441, loop_start 453931, loop_end 487939, src_end 487938
+fluidsynth: debug: Discovering sample 'Alto Sax-G4', src_start 380333, loop_start 398119, loop_end 398342, src_end 398394
+fluidsynth: debug: Discovering sample 'Alto Sax-G3', src_start 358685, loop_start 375505, loop_end 380239, src_end 380286
+fluidsynth: debug: Discovering sample 'Alto Sax-G#5', src_start 344010, loop_start 357875, loop_end 358599, src_end 358638
+fluidsynth: debug: Discovering sample 'Alto Sax-F6', src_start 324094, loop_start 342931, loop_end 343783, src_end 343963
+fluidsynth: debug: Discovering sample 'Alto Sax-F3', src_start 302230, loop_start 323692, loop_end 323945, src_end 324047
+fluidsynth: debug: Discovering sample 'Alto Sax-F#5', src_start 283081, loop_start 300922, loop_end 302030, src_end 302183
+fluidsynth: debug: Discovering sample 'Alto Sax-E5', src_start 254648, loop_start 282164, loop_end 282952, src_end 283034
+fluidsynth: debug: Discovering sample 'Alto Sax-E4', src_start 236851, loop_start 253984, loop_end 254116, src_end 254601
+fluidsynth: debug: Discovering sample 'Alto Sax-D4', src_start 205588, loop_start 220144, loop_end 236783, src_end 236804
+fluidsynth: debug: Discovering sample 'Alto Sax-C5', src_start 192618, loop_start 205258, loop_end 205509, src_end 205541
+fluidsynth: debug: Discovering sample 'Alto Sax-A5', src_start 176237, loop_start 192134, loop_end 192233, src_end 192571
+fluidsynth: debug: Discovering sample 'Alto Sax-A4', src_start 161493, loop_start 175630, loop_end 176027, src_end 176190
+fluidsynth: debug: Discovering sample 'Alto Sax-A#3', src_start 147705, loop_start 159990, loop_end 161127, src_end 161446
+fluidsynth: debug: Discovering sample 'Agogo', src_start 141318, loop_start 141326, loop_end 147651, src_end 147658
+fluidsynth: debug: Discovering sample 'Agogo-xt', src_start 139687, loop_start 139689, loop_end 141271, src_end 141271
+fluidsynth: debug: Discovering sample 'Acoustic Bass-G#3', src_start 133761, loop_start 139512, loop_end 139598, src_end 139640
+fluidsynth: debug: Discovering sample 'Acoustic Bass-G#2', src_start 123213, loop_start 133392, loop_end 133659, src_end 133714
+fluidsynth: debug: Discovering sample 'Acoustic Bass-C5', src_start 121015, loop_start 123123, loop_end 123157, src_end 123166
+fluidsynth: debug: Discovering sample 'Acoustic Bass-C3', src_start 107145, loop_start 120282, loop_end 120957, src_end 120968
+fluidsynth: debug: Discovering sample 'Accordion-F#5', src_start 99021, loop_start 107068, loop_end 107091, src_end 107098
+fluidsynth: debug: Discovering sample 'Accordion-F#4', src_start 91803, loop_start 98920, loop_end 98967, src_end 98974
+fluidsynth: debug: Discovering sample 'Accordion-F#3', src_start 85153, loop_start 91656, loop_end 91749, src_end 91756
+fluidsynth: debug: Discovering sample 'Accordion-F#2', src_start 74892, loop_start 84913, loop_end 85100, src_end 85106
+fluidsynth: debug: Discovering sample 'Accordion-D5', src_start 65230, loop_start 74809, loop_end 74838, src_end 74845
+fluidsynth: debug: Discovering sample 'Accordion-D4', src_start 61377, loop_start 65117, loop_end 65176, src_end 65183
+fluidsynth: debug: Discovering sample 'Accordion-D3', src_start 45468, loop_start 61206, loop_end 61324, src_end 61330
+fluidsynth: debug: Discovering sample 'Accordion-D2', src_start 34820, loop_start 45179, loop_end 45414, src_end 45421
+fluidsynth: debug: Discovering sample 'Accordion-A#5', src_start 26750, loop_start 34748, loop_end 34766, src_end 34773
+fluidsynth: debug: Discovering sample 'Accordion-A#4', src_start 22810, loop_start 26585, loop_end 26696, src_end 26703
+fluidsynth: debug: Discovering sample 'Accordion-A#3', src_start 13893, loop_start 22682, loop_end 22756, src_end 22763
+fluidsynth: debug: Discovering sample 'Accordion-A#2', src_start 0, loop_start 13691, loop_end 13839, src_end 13846
+fluidsynth: debug: Sample 'Orchestra Hit-2xt': loop range '8089900 - 8095002' after sample end '8095001', using it anyway
+fluidsynth: prog		0	0	0
+fluidsynth: prog		1	0	0
+fluidsynth: prog		2	0	0
+fluidsynth: prog		3	0	0
+fluidsynth: prog		4	0	0
+fluidsynth: prog		5	0	0
+fluidsynth: prog		6	0	0
+fluidsynth: prog		7	0	0
+fluidsynth: prog		8	0	0
+fluidsynth: prog		9	128	0
+fluidsynth: prog		10	0	0
+fluidsynth: prog		11	0	0
+fluidsynth: prog		12	0	0
+fluidsynth: prog		13	0	0
+fluidsynth: prog		14	0	0
+fluidsynth: prog		15	0	0
+fluidsynth: debug: Using 'wasapi' audio driver
+fluidsynth: debug: wasapi: using shared mode.
+fluidsynth: debug: wasapi: using device period size: 480
+fluidsynth: debug: wasapi: requested 3840 frames of buffers, got 3840.
+fluidsynth: debug: wasapi: latency: 0.000000ms.
+fluidsynth: debug: D:\a\fluidsynth\fluidsynth\src\midi\fluid_midi.c: 1982: Loading midifile D:\Christina\Sound\GENOVA\verification\soundfont-test.mid
+fluidsynth: debug: File load: Allocating 64 bytes
+fluidsynth: debug: Division=480
+fluidsynth: debug: tempo=500000, tick time=1.041667 msec, cur time=0 msec, cur tick=0
+fluidsynth: debug: tempo=500000, tick time=1.041667 msec, cur time=0 msec, cur tick=0
+fluidsynth: prog		0	0	0
+fluidsynth: noteon	0	60	80	00000	0.000	0.103	0.000	0
+fluidsynth: noteoff	0	60	0	00000	0.529	1
+fluidsynth: noteon	0	64	80	00001	0.500	0.530	0.000	1
+fluidsynth: noteoff	0	64	0	00001	1.043	2
+fluidsynth: noteon	0	67	80	00002	1.000	1.043	0.000	2
+fluidsynth: noteoff	0	67	0	00002	1.556	3
+fluidsynth: debug: D:\a\fluidsynth\fluidsynth\src\midi\fluid_midi.c: 2263: Duration=4.500 sec
+fluidsynth: === systemreset ===
+FluidSynth runtime version 2.6.1
+Copyright (C) 2000-2026 Peter Hanappe and others.
+Distributed under the LGPL license.
+SoundFont(R) is a registered trademark of Creative Technology Ltd.
+
+Now loading 'D:\Christina\Sound\GENOVA\assets\soundfonts\GeneralUser-GS.sf2' with bank-offset=0
+
+Failed to early-load config file 'C:\ProgramData\fluidsynth\fluidsynth.cfg' - file doesn't exist.
+Failed to early-load config file 'C:\Users\godis\fluidsynth.cfg' - file doesn't exist.
+Failed to load config file 'C:\ProgramData\fluidsynth\fluidsynth.cfg' - file doesn't exist.
+Failed to load config file 'C:\Users\godis\fluidsynth.cfg' - file doesn't exist.
+

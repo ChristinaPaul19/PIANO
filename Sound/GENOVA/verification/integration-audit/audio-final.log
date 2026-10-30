@@ -1,0 +1,5 @@
+﻿
+> genova@0.3.0 verify:audio
+> node scripts/verify-engine.js
+
+Verified 7 FluidSynth render scenarios; results: D:\Christina\Sound\GENOVA\verification\engine\results.json

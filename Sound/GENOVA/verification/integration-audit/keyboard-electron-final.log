@@ -1,0 +1,24 @@
+﻿
+> genova@0.3.0 test:electron
+> node --test test/electron.integration.js
+
+▶ real Electron UI drives FluidSynth and recovers from process failure
+  ✔ renderer is sandboxed and has only the narrow audio bridge (74.1159ms)
+  ✔ piano, organ and strings selection with real note playback (924.7259ms)
+  ✔ polyphonic laptop notes and release (337.9817ms)
+  ✔ mouse and laptop can share a note without premature note-off (153.3474ms)
+  ✔ multiple touch contacts play simultaneous notes (138.2247ms)
+  ✔ sustain pedal, volume, velocity, pitch bend and panic (303.2765ms)
+  ✔ octave shifting, bounded range and blur release (155.9324ms)
+  ✔ renderer reload clears held notes and sustain without leaking a process (225.6267ms)
+  ✔ stop/start lifecycle leaves no old synthesizer (595.7245ms)
+  ✔ a real FluidSynth crash is reported and retry restores playback (372.2027ms)
+✔ real Electron UI drives FluidSynth and recovers from process failure (5459.6603ms)
+ℹ tests 11
+ℹ suites 0
+ℹ pass 11
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 6028.1615

@@ -1,0 +1,81 @@
+GENOVA SoundFont setup milestone (historical milestone 1 record)
+
+Scope
+-----
+At milestone 1, the supplied workspace contained only FluidSynth, not an
+existing GENOVA app. This setup-only GENOVA folder was created with approval.
+No application code was replaced and no audio engine was implemented then.
+config\audio.json is used by scripts\Test-SoundFont.ps1.
+
+Milestone 2 added the approved Electron keyboard and independent audio engine.
+Milestone 3 adds original drum/bass accompaniment and chord progression loops.
+Both use the same configuration and SoundFont. See README.md for architecture,
+controls, launch commands and verification.
+
+Installed paths
+---------------
+FluidSynth executable:
+D:\Christina\Sound\fluidsynth-v2.6.1-win10-x64-cpp11\bin\fluidsynth.exe
+SoundFont (original filename preserved):
+D:\Christina\Sound\GENOVA\assets\soundfonts\GeneralUser-GS.sf2
+
+Configuration: config\audio.json
+Audio driver: WASAPI, default Windows output, shared mode
+Sample rate: 48000 Hz; gain: 0.2
+Paths are absolute Windows paths. Update the configuration if the installation
+is moved. The verification script validates paths and quotes arguments with
+spaces. It does not change PATH, global FluidSynth settings or system volume.
+Keep FluidSynth's original adjacent DLLs in its bin directory.
+
+Source and license
+------------------
+Downloaded GeneralUser_GS_v2.0.3--doc_r6.zip through the download link on:
+https://www.schristiancollins.com/generaluser
+The creator's current download is hosted on Google Drive. Its size exceeded
+Google's virus-scan limit; the standard download confirmation was followed.
+The ZIP was validated and extracted without running its bundled programs.
+Only the SoundFont and original LICENSE.txt were installed from that archive.
+Source URL, local SHA-256 hashes and download timestamp are recorded in
+assets\soundfonts\source.json. These are local integrity records, not a
+publisher-signed authenticity check.
+
+License v2.0 was read before installation. It permits private and commercial
+music creation and use in software projects. The author discloses uncertain
+provenance of some inherited samples; review that caveat before commercial
+software redistribution. The original license is preserved at
+assets\soundfonts\LICENSE.txt. Public links should point to the creator's
+website rather than directly to their download files.
+
+Verification
+------------
+Run in PowerShell:
+  & 'D:\Christina\Sound\GENOVA\scripts\Test-SoundFont.ps1'
+For a silent offline render without live playback, add -RenderOnly.
+
+The script creates a short original three-note MIDI, renders a WAV, checks
+that its 16-bit PCM samples are non-silent, queries Windows audio devices,
+and plays the same MIDI through FluidSynth's configured audio driver.
+It uses no extra packages. Each subprocess has a 60-second timeout.
+Evidence is saved under verification\, including result.json, logs, the MIDI,
+and soundfont-test.wav. Each run replaces the previous verification output.
+
+Verified on 2026-10-30:
+- FluidSynth executable and runtime: 2.6.1.
+- GeneralUser-GS.sf2 loaded successfully.
+- Non-silent stereo WAV: 48000 Hz, 16-bit, 4.512 seconds including release tail.
+- Peak PCM magnitude: 931; nonzero samples: 342709.
+- WASAPI shared-mode playback completed with all three note-on/off events.
+- Windows identified Speaker (Realtek(R) Audio); sound devices reported OK.
+- No missing DLL or dependency failures occurred during rendering or playback.
+- The initial exhaustive -Q device probe succeeded, but a later run stalled
+  and was stopped after 60 seconds. The reusable check now enumerates devices
+  using -o help and verifies the chosen format with actual WASAPI playback,
+  avoiding unnecessary exclusive-mode probes. No system settings were changed.
+- Verbose messages about missing optional system/user fluidsynth.cfg files
+  are benign; the script ignores only those specific messages, not errors.
+
+Real-time audio output was exercised, but physical speaker audibility was not
+independently measured. A successful driver run does not prove that speakers
+were audible or unmuted. No manual download, extraction or configuration is
+required. This document records milestone 1; see README.md for the current
+keyboard and arranger milestones.

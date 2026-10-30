@@ -1,0 +1,7 @@
+﻿{
+    "fluidsynthExecutable":  "D:\\Christina\\Sound\\fluidsynth-v2.6.1-win10-x64-cpp11\\bin\\fluidsynth.exe",
+    "soundFont":  "D:\\Christina\\Sound\\GENOVA\\assets\\soundfonts\\GeneralUser-GS.sf2",
+    "audioDriver":  "wasapi",
+    "sampleRate":  48000,
+    "gain":  0.2
+}

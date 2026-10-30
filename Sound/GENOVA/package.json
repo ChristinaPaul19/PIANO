@@ -1,0 +1,22 @@
+{
+  "name": "genova",
+  "version": "0.3.0",
+  "private": true,
+  "description": "GENOVA standalone FluidSynth keyboard",
+  "main": "src/main/index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "node --test test/*.test.js",
+    "test:electron": "node --test test/electron.integration.js",
+    "verify:audio": "node scripts/verify-engine.js",
+    "verify:arranger": "node scripts/verify-arranger.js",
+    "test:arranger-electron": "node --test test/arranger.integration.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "electron": "45.1.0",
+    "playwright": "1.64.1"
+  }
+}

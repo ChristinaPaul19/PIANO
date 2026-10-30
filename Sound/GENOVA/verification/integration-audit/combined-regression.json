@@ -1,0 +1,94 @@
+﻿{
+    "startedAt":  "2026-10-30T13:47:49.7364693Z",
+    "runs":  [
+                 {
+                     "name":  "unit",
+                     "command":  "npm.cmd test",
+                     "startedAt":  "2026-10-30T13:47:49.7364693Z",
+                     "finishedAt":  "2026-10-30T13:47:52.2703911Z",
+                     "exitCode":  0,
+                     "durationSeconds":  2.54
+                 },
+                 {
+                     "name":  "milestone1",
+                     "command":  "\u0026 \u0027.\\scripts\\Test-SoundFont.ps1\u0027",
+                     "startedAt":  "2026-10-30T13:47:52.4780513Z",
+                     "finishedAt":  "2026-10-30T13:47:59.2098779Z",
+                     "exitCode":  0,
+                     "durationSeconds":  6.73
+                 },
+                 {
+                     "name":  "audio",
+                     "command":  "npm.cmd run verify:audio",
+                     "startedAt":  "2026-10-30T13:47:59.2138913Z",
+                     "finishedAt":  "2026-10-30T13:48:17.1463783Z",
+                     "exitCode":  0,
+                     "durationSeconds":  17.93
+                 },
+                 {
+                     "name":  "arranger-render",
+                     "command":  "npm.cmd run verify:arranger",
+                     "startedAt":  "2026-10-30T13:48:17.1498787Z",
+                     "finishedAt":  "2026-10-30T13:48:37.9592843Z",
+                     "exitCode":  0,
+                     "durationSeconds":  20.81
+                 },
+                 {
+                     "name":  "keyboard-electron",
+                     "command":  "npm.cmd run test:electron",
+                     "startedAt":  "2026-10-30T13:48:37.9666924Z",
+                     "finishedAt":  "2026-10-30T13:48:44.8275705Z",
+                     "exitCode":  0,
+                     "durationSeconds":  6.86
+                 },
+                 {
+                     "name":  "arranger-electron",
+                     "command":  "npm.cmd run test:arranger-electron",
+                     "startedAt":  "2026-10-30T13:48:44.8345683Z",
+                     "finishedAt":  "2026-10-30T13:49:17.2634513Z",
+                     "exitCode":  0,
+                     "durationSeconds":  32.43
+                 },
+                 {
+                     "name":  "extended-electron",
+                     "command":  "node --test test\\integration-audit.js",
+                     "startedAt":  "2026-10-30T13:49:17.2694582Z",
+                     "finishedAt":  "2026-10-30T13:49:56.1887161Z",
+                     "exitCode":  0,
+                     "durationSeconds":  38.92
+                 },
+                 {
+                     "name":  "live-arranger",
+                     "command":  "node scripts\\verify-live-arranger.js",
+                     "startedAt":  "2026-10-30T13:49:56.1916969Z",
+                     "finishedAt":  "2026-10-30T13:53:10.0302067Z",
+                     "exitCode":  0,
+                     "durationSeconds":  193.85
+                 }
+             ],
+    "protectedProcessesBefore":  [
+                                     {
+                                         "Id":  1440,
+                                         "ProcessName":  "electron",
+                                         "StartTime":  "\/Date(1793367206156)\/"
+                                     },
+                                     {
+                                         "Id":  14132,
+                                         "ProcessName":  "fluidsynth",
+                                         "StartTime":  "\/Date(1793367207892)\/"
+                                     }
+                                 ],
+    "allEightTestCommandsPassed":  true,
+    "protectedProcessesFinal":  [
+                                    {
+                                        "id":  1440,
+                                        "running":  false
+                                    },
+                                    {
+                                        "id":  14132,
+                                        "running":  false
+                                    }
+                                ],
+    "preservationWarning":  "Both protected processes existed before testing but were absent at the final check. The wrapper exited 1 on that preservation check, after all eight test commands exited 0. Cause of original-instance exit was not established. No direct command was issued to terminate either protected PID, and neither was restarted.",
+    "finishedAt":  "2026-10-30T13:54:49.6876088Z"
+}

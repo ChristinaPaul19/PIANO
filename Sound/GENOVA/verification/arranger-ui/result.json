@@ -1,0 +1,44 @@
+{
+  "testedAt": "2026-10-30T13:49:17.207Z",
+  "success": true,
+  "checks": [
+    {
+      "name": "Opt-in split, all nine chord qualities, inversion and upper melody isolation",
+      "passed": true
+    },
+    {
+      "name": "Pop, Rock, Waltz and Main A/B/C/D on real FluidSynth",
+      "passed": true
+    },
+    {
+      "name": "Two-bar intro/ending and one-bar fill/break",
+      "passed": true
+    },
+    {
+      "name": "Independent lead controls and transport panic",
+      "passed": true
+    },
+    {
+      "name": "Beat-quantized recording, bar-length loops and automatic chord replay",
+      "passed": true
+    },
+    {
+      "name": "Atomic local save and validated load across renderer reload",
+      "passed": true
+    },
+    {
+      "name": "Backend failure cleanup and explicit transport restart",
+      "passed": true
+    },
+    {
+      "name": "Application shutdown disposes its owned synthesizer",
+      "passed": true
+    },
+    {
+      "name": "Progression restored from disk after complete application restart",
+      "passed": true
+    }
+  ],
+  "rendererErrors": [],
+  "physicalAudibilityConfirmed": false
+}

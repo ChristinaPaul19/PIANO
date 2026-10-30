@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self'; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'; frame-src 'none'">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GENOVA</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="arranger.css">
+  <script src="keyboard.js" defer></script>
+  <script src="arranger-ui.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <main>
+    <header>
+      <div><p class="eyebrow">YOUR DESKTOP INSTRUMENT</p><h1>GENOVA<span> / studio</span></h1></div>
+      <div class="engine-state"><span id="status" role="status" data-state="stopped">Audio stopped</span><button id="power" type="button">Start audio</button></div>
+    </header>
+    <section class="panel sound-panel" aria-labelledby="sound-heading">
+      <div class="section-title"><h2 id="sound-heading">Sound</h2><span>GENERALUSER GS · FLUIDSYNTH</span></div>
+      <div class="sound-controls">
+        <label class="instrument-control">Instrument<select id="instrument" disabled><option>Initializing SoundFont…</option></select></label>
+        <label>Volume <output id="volume-value">100</output><input id="volume" type="range" min="0" max="127" value="100" disabled></label>
+        <label>Velocity <output id="velocity-value">96</output><input id="velocity" type="range" min="1" max="127" value="96" disabled></label>
+      </div>
+    </section>
+    <section class="panel arranger-panel" aria-labelledby="arranger-heading">
+      <div class="section-title"><h2 id="arranger-heading">Arranger</h2><span id="arranger-position" role="status">Stopped</span></div>
+      <div class="arranger-top">
+        <button id="acmp" type="button" aria-pressed="false" disabled>Accompaniment off</button>
+        <label class="style-control">Style<select id="arranger-style" disabled><option>Loading styles…</option></select></label>
+        <label class="tempo-control">Tempo <span>BPM</span><input id="tempo" type="number" min="40" max="240" step="1" value="110" disabled></label>
+        <div class="chord-display"><span>LEFT-HAND CHORD</span><output id="recognized-chord">—</output></div>
+        <button id="arranger-start" type="button" disabled>Start</button>
+        <button id="arranger-stop" type="button" disabled>Stop</button>
+      </div>
+      <div class="arranger-sections" role="group" aria-label="Arranger sections">
+        <button id="section-intro" type="button" disabled>Intro</button>
+        <button id="section-A" type="button" aria-pressed="true" disabled>Main A</button>
+        <button id="section-B" type="button" aria-pressed="false" disabled>Main B</button>
+        <button id="section-C" type="button" aria-pressed="false" disabled>Main C</button>
+        <button id="section-D" type="button" aria-pressed="false" disabled>Main D</button>
+        <button id="section-fill" type="button" disabled>Fill</button>
+        <button id="section-break" type="button" disabled>Break</button>
+        <button id="section-ending" type="button" disabled>Ending</button>
+        <span id="section-pending">Main A</span>
+      </div>
+      <div class="progression-controls" role="group" aria-label="Chord progression recorder">
+        <button id="progression-record" type="button" aria-pressed="false" disabled>Record chords</button>
+        <button id="progression-loop" type="button" aria-pressed="false" disabled>Loop</button>
+        <button id="progression-save" type="button" disabled>Save</button>
+        <button id="progression-load" type="button" disabled>Load</button>
+        <span id="progression-summary" role="status">No progression recorded</span>
+      </div>
+      <p class="arranger-hint">Chord zone: below C5 · Melody: C5 and above · Sections change on the next bar · Original patterns</p>
+    </section>
+    <section class="panel keyboard-panel" aria-labelledby="keyboard-heading">
+      <div class="section-title"><h2 id="keyboard-heading">Keyboard</h2><span id="note-range">C4 – C6</span></div>
+      <div class="performance-controls">
+        <div class="octave-control"><span>Octave</span><button id="octave-down" type="button" aria-label="Octave down" disabled>−</button><output id="octave-value">0</output><button id="octave-up" type="button" aria-label="Octave up" disabled>+</button></div>
+        <button id="sustain" type="button" aria-pressed="false" disabled>Sustain <kbd>Space</kbd></button>
+        <label class="bend-control">Pitch bend <output id="bend-value">0</output><input id="bend" type="range" min="-8192" max="8191" value="0" step="1" disabled></label>
+        <button id="panic" class="quiet" type="button" disabled>All sound off <kbd>Esc</kbd></button>
+      </div>
+      <div id="keyboard" role="group" aria-label="Piano keyboard"></div>
+      <div class="keyboard-footer"><span>Play <kbd>A W S E D F T G Y H U J K O L P ;</kbd></span><span><kbd>Z</kbd> / <kbd>X</kbd> octave · <span id="active-notes">0 held notes</span></span></div>
+    </section>
+    <p id="error" role="alert" hidden></p>
+    <footer><span>Polyphonic · velocity sensitive · MIDI pitch bend</span><span>Audio runs independently of the interface</span></footer>
+  </main>
+</body>
+</html>

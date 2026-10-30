@@ -1,0 +1,591 @@
+{
+  "verifiedAt": "2026-10-30T13:48:37.907Z",
+  "driver": "FluidSynth file / PCM16",
+  "assertions": [
+    "All three original styles rendered as drums, C bass, D bass and ensemble",
+    "Isolated drums and bass produce non-silent PCM",
+    "C/D changes shift measured bass fundamentals",
+    "Arranger stop silences both channels",
+    "Distinct performed drum patterns"
+  ],
+  "results": [
+    {
+      "style": "pop",
+      "mode": "drums",
+      "file": "pop-drums.wav",
+      "duration": 1.4293333333333333,
+      "energy": 392.4219756052997,
+      "silence": 0,
+      "bassNotes": [],
+      "drumNotes": [
+        36,
+        42,
+        42,
+        38,
+        42,
+        42,
+        36,
+        42,
+        42,
+        38,
+        42,
+        42
+      ],
+      "spectrum": [
+        112.72048189924537,
+        67.24133767171224,
+        158.33540686245024,
+        190.37163583924396,
+        167.11669499273353,
+        154.76877218965396
+      ],
+      "analysis": {
+        "method": "RMS of Hann-windowed short-time magnitudes",
+        "frameMs": 128,
+        "hopMs": 32,
+        "frames": 41,
+        "spectrumMidiNotes": [
+          36,
+          38,
+          40,
+          42,
+          43,
+          45
+        ],
+        "energyWindow": "entire WAV",
+        "silenceWindow": "last 120 to 20 ms of WAV"
+      },
+      "wallTiming": {
+        "startMs": 159.14800000000002,
+        "stopMs": 1165.2903999999999,
+        "endMs": 1465.4604
+      }
+    },
+    {
+      "style": "pop",
+      "mode": "bass-c",
+      "file": "pop-bass-c.wav",
+      "duration": 1.4293333333333333,
+      "energy": 314.17410787473443,
+      "silence": 0,
+      "bassNotes": [
+        36,
+        43,
+        36,
+        40
+      ],
+      "drumNotes": [],
+      "spectrum": [
+        153.66706547414728,
+        98.1611744813336,
+        87.9179555377725,
+        116.82792580686188,
+        124.60253624857448,
+        51.78794389084832
+      ],
+      "analysis": {
+        "method": "RMS of Hann-windowed short-time magnitudes",
+        "frameMs": 128,
+        "hopMs": 32,
+        "frames": 41,
+        "spectrumMidiNotes": [
+          36,
+          38,
+          40,
+          42,
+          43,
+          45
+        ],
+        "energyWindow": "entire WAV",
+        "silenceWindow": "last 120 to 20 ms of WAV"
+      },
+      "wallTiming": {
+        "startMs": 163.50400000000036,
+        "stopMs": 1160.9404000000004,
+        "endMs": 1463.0193000000004
+      }
+    },
+    {
+      "style": "pop",
+      "mode": "bass-d",
+      "file": "pop-bass-d.wav",
+      "duration": 1.4186666666666667,
+      "energy": 306.1796218235609,
+      "silence": 0,
+      "bassNotes": [
+        38,
+        45,
+        38,
+        42
+      ],
+      "drumNotes": [],
+      "spectrum": [
+        88.6200193666864,
+        153.16207907882966,
+        102.97286714422022,
+        100.45019712768132,
+        85.79860322973474,
+        130.720481694658
+      ],
+      "analysis": {
+        "method": "RMS of Hann-windowed short-time magnitudes",
+        "frameMs": 128,
+        "hopMs": 32,
+        "frames": 41,
+        "spectrumMidiNotes": [
+          36,
+          38,
+          40,
+          42,
+          43,
+          45
+        ],
+        "energyWindow": "entire WAV",
+        "silenceWindow": "last 120 to 20 ms of WAV"
+      },
+      "wallTiming": {
+        "startMs": 164.1542999999997,
+        "stopMs": 1147.37,
+        "endMs": 1451.8077000000003
+      }
+    },
+    {
+      "style": "pop",
+      "mode": "ensemble",
+      "file": "pop-ensemble.wav",
+      "duration": 1.4186666666666667,
+      "energy": 495.6318109889081,
+      "silence": 0,
+      "bassNotes": [
+        36,
+        43,
+        36,
+        40
+      ],
+      "drumNotes": [
+        36,
+        42,
+        42,
+        38,
+        42,
+        42,
+        36,
+        42,
+        42,
+        38,
+        42,
+        42
+      ],
+      "spectrum": [
+        231.7090923353805,
+        129.16079789611746,
+        163.77211491443788,
+        176.0422515836865,
+        164.01724051506102,
+        122.31737066700042
+      ],
+      "analysis": {
+        "method": "RMS of Hann-windowed short-time magnitudes",
+        "frameMs": 128,
+        "hopMs": 32,
+        "frames": 41,
+        "spectrumMidiNotes": [
+          36,
+          38,
+          40,
+          42,
+          43,
+          45
+        ],
+        "energyWindow": "entire WAV",
+        "silenceWindow": "last 120 to 20 ms of WAV"
+      },
+      "wallTiming": {
+        "startMs": 151.5639000000001,
+        "stopMs": 1145.1418999999996,
+        "endMs": 1454.6686
+      }
+    },
+    {
+      "style": "rock",
+      "mode": "drums",
+      "file": "rock-drums.wav",
+      "duration": 1.408,
+      "energy": 524.0069626913196,
+      "silence": 0,
+      "bassNotes": [],
+      "drumNotes": [
+        36,
+        42,
+        36,
+        38,
+        42,
+        36,
+        42,
+        36,
+        38,
+        42
+      ],
+      "spectrum": [
+        161.24957290979614,
+        91.40185684540054,
+        225.50568309603142,
+        267.8277830624653,
+        238.07930040980085,
+        219.46139356937624
+      ],
+      "analysis": {
+        "method": "RMS of Hann-windowed short-time magnitudes",
+        "frameMs": 128,
+        "hopMs": 32,
+        "frames": 41,
+        "spectrumMidiNotes": [
+          36,
+          38,
+          40,
+          42,
+          43,
+          45
+        ],
+        "energyWindow": "entire WAV",
+        "silenceWindow": "last 120 to 20 ms of WAV"
+      },
+      "wallTiming": {
+        "startMs": 157.85810000000038,
+        "stopMs": 1138.1034000000009,
+        "endMs": 1443.4018000000005
+      }
+    },
+    {
+      "style": "rock",
+      "mode": "bass-c",
+      "file": "rock-bass-c.wav",
+      "duration": 1.4186666666666667,
+      "energy": 374.5919480847143,
+      "silence": 0,
+      "bassNotes": [
+        36,
+        36,
+        43,
+        36,
+        36,
+        43
+      ],
+      "drumNotes": [],
+      "spectrum": [
+        160.15671003186543,
+        99.6879528217651,
+        75.64189810887682,
+        178.22949074721905,
+        213.55503819865837,
+        83.24516463625943
+      ],
+      "analysis": {
+        "method": "RMS of Hann-windowed short-time magnitudes",
+        "frameMs": 128,
+        "hopMs": 32,
+        "frames": 41,
+        "spectrumMidiNotes": [
+          36,
+          38,
+          40,
+          42,
+          43,
+          45
+        ],
+        "energyWindow": "entire WAV",
+        "silenceWindow": "last 120 to 20 ms of WAV"
+      },
+      "wallTiming": {
+        "startMs": 165.46520000000055,
+        "stopMs": 1147.4739000000009,
+        "endMs": 1451.9309000000012
+      }
+    },
+    {
+      "style": "rock",
+      "mode": "bass-d",
+      "file": "rock-bass-d.wav",
+      "duration": 1.4186666666666667,
+      "energy": 375.54631891782077,
+      "silence": 0,
+      "bassNotes": [
+        38,
+        38,
+        45,
+        38,
+        38,
+        45
+      ],
+      "drumNotes": [],
+      "spectrum": [
+        108.04761401249465,
+        158.81961197903166,
+        89.10593605124023,
+        66.52725609214242,
+        88.89550382483027,
+        211.26126531368308
+      ],
+      "analysis": {
+        "method": "RMS of Hann-windowed short-time magnitudes",
+        "frameMs": 128,
+        "hopMs": 32,
+        "frames": 41,
+        "spectrumMidiNotes": [
+          36,
+          38,
+          40,
+          42,
+          43,
+          45
+        ],
+        "energyWindow": "entire WAV",
+        "silenceWindow": "last 120 to 20 ms of WAV"
+      },
+      "wallTiming": {
+        "startMs": 163.91330000000016,
+        "stopMs": 1146.1856000000007,
+        "endMs": 1451.867900000001
+      }
+    },
+    {
+      "style": "rock",
+      "mode": "ensemble",
+      "file": "rock-ensemble.wav",
+      "duration": 1.4186666666666667,
+      "energy": 642.6023096338402,
+      "silence": 0,
+      "bassNotes": [
+        36,
+        36,
+        43,
+        36,
+        36,
+        43
+      ],
+      "drumNotes": [
+        36,
+        42,
+        36,
+        38,
+        42,
+        36,
+        42,
+        36,
+        38,
+        42
+      ],
+      "spectrum": [
+        303.111160409814,
+        164.0821961042035,
+        220.89096943081464,
+        295.068288852682,
+        288.32822920994766,
+        167.1486390512617
+      ],
+      "analysis": {
+        "method": "RMS of Hann-windowed short-time magnitudes",
+        "frameMs": 128,
+        "hopMs": 32,
+        "frames": 41,
+        "spectrumMidiNotes": [
+          36,
+          38,
+          40,
+          42,
+          43,
+          45
+        ],
+        "energyWindow": "entire WAV",
+        "silenceWindow": "last 120 to 20 ms of WAV"
+      },
+      "wallTiming": {
+        "startMs": 164.009399999999,
+        "stopMs": 1146.6906999999992,
+        "endMs": 1452.7932999999994
+      }
+    },
+    {
+      "style": "waltz",
+      "mode": "drums",
+      "file": "waltz-drums.wav",
+      "duration": 1.1733333333333333,
+      "energy": 280.25669346365123,
+      "silence": 0,
+      "bassNotes": [],
+      "drumNotes": [
+        36,
+        42,
+        37,
+        42,
+        37,
+        42
+      ],
+      "spectrum": [
+        88.9651444756435,
+        53.178469103681266,
+        125.34939777072499,
+        150.03044320250945,
+        132.07802147428282,
+        122.02117612032077
+      ],
+      "analysis": {
+        "method": "RMS of Hann-windowed short-time magnitudes",
+        "frameMs": 128,
+        "hopMs": 32,
+        "frames": 33,
+        "spectrumMidiNotes": [
+          36,
+          38,
+          40,
+          42,
+          43,
+          45
+        ],
+        "energyWindow": "entire WAV",
+        "silenceWindow": "last 120 to 20 ms of WAV"
+      },
+      "wallTiming": {
+        "startMs": 159.3837999999996,
+        "stopMs": 896.4102999999996,
+        "endMs": 1201.4742999999999
+      }
+    },
+    {
+      "style": "waltz",
+      "mode": "bass-c",
+      "file": "waltz-bass-c.wav",
+      "duration": 1.1626666666666667,
+      "energy": 335.6510359852906,
+      "silence": 0,
+      "bassNotes": [
+        36,
+        43,
+        40
+      ],
+      "drumNotes": [],
+      "spectrum": [
+        132.44280647658738,
+        97.53746952371989,
+        127.16175996302952,
+        145.00767051010467,
+        166.79849132941482,
+        52.87530913278171
+      ],
+      "analysis": {
+        "method": "RMS of Hann-windowed short-time magnitudes",
+        "frameMs": 128,
+        "hopMs": 32,
+        "frames": 33,
+        "spectrumMidiNotes": [
+          36,
+          38,
+          40,
+          42,
+          43,
+          45
+        ],
+        "energyWindow": "entire WAV",
+        "silenceWindow": "last 120 to 20 ms of WAV"
+      },
+      "wallTiming": {
+        "startMs": 153.9351000000006,
+        "stopMs": 892.2182000000012,
+        "endMs": 1197.6957999999995
+      }
+    },
+    {
+      "style": "waltz",
+      "mode": "bass-d",
+      "file": "waltz-bass-d.wav",
+      "duration": 1.1626666666666667,
+      "energy": 333.56838911344653,
+      "silence": 0,
+      "bassNotes": [
+        38,
+        45,
+        42
+      ],
+      "drumNotes": [],
+      "spectrum": [
+        81.2382251870797,
+        145.09514308406045,
+        109.96647069650328,
+        177.69457113430133,
+        138.51043527827508,
+        163.53290009916023
+      ],
+      "analysis": {
+        "method": "RMS of Hann-windowed short-time magnitudes",
+        "frameMs": 128,
+        "hopMs": 32,
+        "frames": 33,
+        "spectrumMidiNotes": [
+          36,
+          38,
+          40,
+          42,
+          43,
+          45
+        ],
+        "energyWindow": "entire WAV",
+        "silenceWindow": "last 120 to 20 ms of WAV"
+      },
+      "wallTiming": {
+        "startMs": 156.2476999999999,
+        "stopMs": 892.7724000000017,
+        "endMs": 1197.4026000000013
+      }
+    },
+    {
+      "style": "waltz",
+      "mode": "ensemble",
+      "file": "waltz-ensemble.wav",
+      "duration": 1.1733333333333333,
+      "energy": 438.72441406514406,
+      "silence": 0,
+      "bassNotes": [
+        36,
+        43,
+        40
+      ],
+      "drumNotes": [
+        36,
+        42,
+        37,
+        42,
+        37,
+        42
+      ],
+      "spectrum": [
+        197.19279120302443,
+        114.40443721396788,
+        172.94484007538824,
+        197.54944832011014,
+        200.02479028791248,
+        96.0834239775776
+      ],
+      "analysis": {
+        "method": "RMS of Hann-windowed short-time magnitudes",
+        "frameMs": 128,
+        "hopMs": 32,
+        "frames": 33,
+        "spectrumMidiNotes": [
+          36,
+          38,
+          40,
+          42,
+          43,
+          45
+        ],
+        "energyWindow": "entire WAV",
+        "silenceWindow": "last 120 to 20 ms of WAV"
+      },
+      "wallTiming": {
+        "startMs": 162.8286999999982,
+        "stopMs": 899.4676,
+        "endMs": 1204.8449
+      }
+    }
+  ]
+}

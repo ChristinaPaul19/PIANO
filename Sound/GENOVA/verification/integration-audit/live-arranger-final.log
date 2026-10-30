@@ -1,0 +1,6 @@
+﻿LIVE AUDIO START: FluidSynth PID 17996, owned-session meter PID 21792; default WASAPI/gain/effects.
+CHECKPOINT pop: A/B/C/D x C major/C minor/D; intro/fill/break/ending; record/wrap/restart; live stop-tail verified.
+CHECKPOINT rock: A/B/C/D x C major/C minor/D; intro/fill/break/ending; record/wrap/restart; live stop-tail verified.
+CHECKPOINT waltz: A/B/C/D x C major/C minor/D; intro/fill/break/ending; record/wrap/restart; live stop-tail verified.
+CHECKPOINT memory: 34 live variation/chord cycles over 45.4 s.
+LIVE AUDIO END: owned processes stopped=true; passed=true; D:\Christina\Sound\GENOVA\verification\live-arranger\results.json
